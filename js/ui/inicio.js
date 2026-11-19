@@ -1,9 +1,9 @@
-// Primer arranque (§9.2.12): título → elegir guía (6) → elegir faro → sale la expedición del tutorial. Dueño: UI.
+// Primer arranque (§9.2.12): título → elegir guía (9: Kanto, Johto, Hoenn) → elegir faro → sale la expedición del tutorial. Dueño: UI.
 import { h, poner, boton } from './componentes.js';
 import * as Cala from '../gfx/scene-cala.js';
 import * as Ficha from '../gfx/scene-ficha.js';
 
-const GUIAS = ['0001', '0004', '0007', '0152', '0155', '0158'];
+const GUIAS = ['0001', '0004', '0007', '0152', '0155', '0158', '0252', '0255', '0258'];
 const FAROS = [['norte', 'Norte'], ['este', 'Este'], ['sur', 'Sur'], ['oeste', 'Oeste']];
 
 export function montar(raiz, app, _p, ctl) {

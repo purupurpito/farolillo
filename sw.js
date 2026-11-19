@@ -7,7 +7,7 @@
 
 // <generado:version>
 const VERSION = '0.1.0';
-const REVISION = '1e9f209339';
+const REVISION = '119e88f00a';
 // </generado:version>
 
 // <generado:precache>

@@ -382,7 +382,7 @@ ul.limpia { list-style: none; margin: 0; padding: 0; }
 .inicio .lienzo-cala { height: calc(34 * var(--vh)); min-height: 140px; }
 .guias { display: grid; grid-template-columns: repeat(3, minmax(0, 1fr)); gap: 6px; }
 .guia { display: grid; justify-items: center; gap: 0; padding: 4px; min-height: 44px; background: var(--mar-700); color: var(--texto-claro); border: 2px solid #000; border-radius: 3px; cursor: pointer; }
-.guia canvas { width: 100%; height: 88px; display: block; pointer-events: none; }
+.guia canvas { width: 100%; height: 72px; display: block; pointer-events: none; }
 .guia[aria-pressed="true"] { background: var(--farol-600); }
 .faros { display: grid; grid-template-columns: repeat(2, minmax(0, 1fr)); gap: 6px; }
 .faro-btn { min-height: 64px; text-align: left; padding: 6px 8px; background: var(--mar-700); color: var(--texto-claro); border: 2px solid #000; border-radius: 3px; cursor: pointer; }
@@ -653,3 +653,10 @@ textarea.txt.corto { min-height: 0; height: auto; resize: vertical; }
   .modal-fondo[data-modal="selector"] > .modal { width: min(680px, 100%); }
 }
 [data-modal="informe"] .botones.pie > .btn { min-height: 48px; }
+/* Guías (9) en horizontal bajo: fichas apaisadas (sprite + nombre) para que las 3 filas quepan sobre «Seguir». */
+@media (orientation: landscape) and (max-height: 540px) {
+  .guias { gap: 4px; }
+  .guia { grid-template-columns: 64px minmax(0, 1fr); align-items: center; justify-items: start; gap: 6px; padding: 2px 6px; }
+  .guia canvas { width: 64px; height: 44px; }
+  .guia span { font-size: 14px; white-space: nowrap; overflow: hidden; text-overflow: ellipsis; max-width: 100%; }
+}

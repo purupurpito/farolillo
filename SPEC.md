@@ -633,7 +633,7 @@ Al tocar un hueco: selector en cuadrícula de retratos (40 px a ×2), con nivel,
 
 **9.2.11 Créditos**: §14.
 
-**9.2.12 Primer arranque** (< 30 s hasta la primera expedición): título con la cala de noche y [Empezar] → elegir guía entre 6 (Bulbasaur, Charmander, Squirtle, Chikorita, Cyndaquil, Totodile; Idle en cuadrícula 3x2) → elegir faro (4 botones con su texto de una línea) → el guía dice «Vamos a buscar compañeros» y la expedición del tutorial sale sola con el guía de Líder.
+**9.2.12 Primer arranque** (< 30 s hasta la primera expedición): título con la cala de noche y [Empezar] → elegir guía entre 9 (Bulbasaur, Charmander, Squirtle, Chikorita, Cyndaquil, Totodile, Treecko, Torchic, Mudkip; Idle en cuadrícula 3x3, una fila por región) → elegir faro (4 botones con su texto de una línea) → el guía dice «Vamos a buscar compañeros» y la expedición del tutorial sale sola con el guía de Líder.
 
 **9.2.13 Amigos (v0.3)**: §11.
 

@@ -22,7 +22,7 @@ Cosas que se han decidido para poder empezar y que el autor puede cambiar. Cada 
 10. **Tope de nivel por jefes vencidos** (20 + 10 por jefe). Evita que las bayas lo trivialicen; se puede quitar. (§5)
 11. **Sin rasgos, energía ni combos ocultos** en la 1.0 (microgestión en móvil). (§19)
 12. **Temporadas (prestigio) fuera de la 1.0**; solo Dominio 1-3. Se adelantan si el simulador ve una meseta en la semana 3-4. (§8.3, §8.4)
-13. **Guía inicial** entre 6 (iniciales de Kanto y Johto). Se puede ampliar a los 12. (§9.2.12)
+13. **Guía inicial** entre 9 (iniciales de Kanto, Johto y Hoenn; añadidos los de Hoenn el 20-nov-2026). Se puede ampliar a los 12. (§9.2.12)
 
 ## Social
 
