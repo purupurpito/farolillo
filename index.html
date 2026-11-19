@@ -1,0 +1,86 @@
+<!doctype html>
+<html lang="es" data-tema="dia">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<meta name="robots" content="noindex,nofollow">
+<meta name="theme-color" content="#14213d">
+<meta name="description" content="Farolillo: la cala del faro. Juego privado de expediciones.">
+<title>Farolillo</title>
+<link rel="icon" href="assets/ui/faro.svg" type="image/svg+xml">
+<link rel="icon" href="assets/ui/icons/icon-192.png" type="image/png" sizes="192x192">
+<link rel="manifest" href="manifest.webmanifest">
+<link rel="apple-touch-icon" href="assets/ui/icons/apple-touch-icon-180.png" sizes="180x180">
+<meta name="mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+<meta name="apple-mobile-web-app-title" content="Farolillo">
+<meta name="application-name" content="Farolillo">
+<meta name="format-detection" content="telephone=no">
+<link rel="stylesheet" href="css/app.css">
+<!-- <generado:modulepreload> -->
+<link rel="modulepreload" href="js/audio.js">
+<link rel="modulepreload" href="js/config.js">
+<link rel="modulepreload" href="js/core/bus.js">
+<link rel="modulepreload" href="js/core/economy.js">
+<link rel="modulepreload" href="js/core/events.js">
+<link rel="modulepreload" href="js/core/evolve.js">
+<link rel="modulepreload" href="js/core/formulas.js">
+<link rel="modulepreload" href="js/core/game.js">
+<link rel="modulepreload" href="js/core/missions.js">
+<link rel="modulepreload" href="js/core/prever-async.js">
+<link rel="modulepreload" href="js/core/recruit.js">
+<link rel="modulepreload" href="js/core/rng.js">
+<link rel="modulepreload" href="js/core/sim.js">
+<link rel="modulepreload" href="js/core/state.js">
+<link rel="modulepreload" href="js/data.js">
+<link rel="modulepreload" href="js/fmt.js">
+<link rel="modulepreload" href="js/gfx/fx.js">
+<link rel="modulepreload" href="js/gfx/scene-cala.js">
+<link rel="modulepreload" href="js/gfx/scene-combate.js">
+<link rel="modulepreload" href="js/gfx/scene-ficha.js">
+<link rel="modulepreload" href="js/gfx/sprites.js">
+<link rel="modulepreload" href="js/gfx/tiles.js">
+<link rel="modulepreload" href="js/ui/ajustes.js">
+<link rel="modulepreload" href="js/ui/bitacora.js">
+<link rel="modulepreload" href="js/ui/cala.js">
+<link rel="modulepreload" href="js/ui/componentes.js">
+<link rel="modulepreload" href="js/ui/creditos.js">
+<link rel="modulepreload" href="js/ui/dialogo.js">
+<link rel="modulepreload" href="js/ui/encurso.js">
+<link rel="modulepreload" href="js/ui/expediciones.js">
+<link rel="modulepreload" href="js/ui/ficha.js">
+<link rel="modulepreload" href="js/ui/formar.js">
+<link rel="modulepreload" href="js/ui/gremio.js">
+<link rel="modulepreload" href="js/ui/informe.js">
+<link rel="modulepreload" href="js/ui/inicio.js">
+<link rel="modulepreload" href="js/ui/llena.js">
+<link rel="modulepreload" href="js/ui/momento.js">
+<link rel="modulepreload" href="js/ui/router.js">
+<link rel="modulepreload" href="js/ui/selector.js">
+<!-- </generado:modulepreload> -->
+</head>
+<body>
+<div id="app" class="sin-nav">
+  <header id="barra">
+    <span class="recurso" title="Monedas"><img class="px" src="assets/ui/moneda.svg" alt="Monedas"><span id="r-monedas">0</span></span>
+    <span class="recurso" title="Bayas"><img class="px" src="assets/ui/baya.svg" alt="Bayas"><span id="r-bayas">0</span></span>
+    <span class="recurso" title="Objetos"><img class="px" src="assets/ui/objeto.svg" alt="Objetos"><span id="r-objetos">0</span></span>
+    <span class="hueco"></span>
+    <button class="btn-icono" id="b-menu" aria-label="Menú: ajustes y créditos"><img class="px" src="assets/ui/menu.svg" alt=""></button>
+  </header>
+  <main id="vista"><div class="cargando">Encendiendo el faro…</div></main>
+  <nav id="tabs" aria-label="Pestañas">
+    <button class="tab" data-tab="cala"><i class="ico" data-ico="cala"></i>Cala</button>
+    <button class="tab" data-tab="expediciones"><i class="ico" data-ico="barca"></i>Exped.</button>
+    <button class="tab" data-tab="bitacora"><i class="ico" data-ico="libro"></i>Bitác.</button>
+    <button class="tab" data-tab="gremio"><i class="ico" data-ico="gremio"></i>Gremio</button>
+  </nav>
+</div>
+<div id="capas"></div>
+<div id="modales"></div>
+<div id="toast" aria-live="polite"></div>
+<script type="module" src="js/main.js"></script>
+<script type="module" src="js/pwa.js"></script>
+</body>
+</html>

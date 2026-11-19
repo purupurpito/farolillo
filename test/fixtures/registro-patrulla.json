@@ -1,0 +1,1948 @@
+{
+ "v": 1,
+ "semilla": 777,
+ "inicio": 0,
+ "fin": 12229989,
+ "tPiso": 22523,
+ "pvInicio": 4,
+ "isla": 1,
+ "F": 8,
+ "hasta": 8,
+ "modo": "patrulla",
+ "postura": "audaz",
+ "P": 148.868304,
+ "n": 3,
+ "rondas": [
+  {
+   "t0": 0,
+   "t1": 180184,
+   "pv0": 4,
+   "pisoFin": 8,
+   "jefe": true,
+   "pvFin": 4,
+   "monedas": 178,
+   "exp": 493,
+   "objetos": {
+    "piedra_hoja": 2,
+    "baya_grande": 1
+   },
+   "encuentros": [],
+   "eventos": [],
+   "fallos": []
+  },
+  {
+   "t0": 180184,
+   "t1": 382891,
+   "pv0": 4,
+   "pisoFin": 8,
+   "jefe": true,
+   "pvFin": 3,
+   "monedas": 194,
+   "exp": 493,
+   "objetos": {
+    "baya_grande": 3
+   },
+   "encuentros": [
+    {
+     "f": 2,
+     "sp": "0048",
+     "nv": 5,
+     "acepta": false,
+     "vr": false,
+     "rar": "C",
+     "huellaUsada": 0,
+     "de": "prado:2"
+    }
+   ],
+   "eventos": [
+    {
+     "f": 5,
+     "tipo": "perdido",
+     "datos": {
+      "car": 5,
+      "monedas": 16
+     }
+    }
+   ],
+   "fallos": [
+    8
+   ]
+  },
+  {
+   "t0": 382891,
+   "t1": 563075,
+   "pv0": 4,
+   "pisoFin": 8,
+   "jefe": true,
+   "pvFin": 4,
+   "monedas": 178,
+   "exp": 493,
+   "objetos": {
+    "piedra_hoja": 3,
+    "baya_grande": 1
+   },
+   "encuentros": [
+    {
+     "f": 5,
+     "sp": "0019",
+     "nv": 6,
+     "acepta": false,
+     "vr": false,
+     "rar": "C",
+     "huellaUsada": 0,
+     "de": "prado:5"
+    },
+    {
+     "f": 6,
+     "sp": "0016",
+     "nv": 6,
+     "acepta": false,
+     "vr": false,
+     "rar": "C",
+     "huellaUsada": 0,
+     "de": "prado:6"
+    }
+   ],
+   "eventos": [],
+   "fallos": []
+  },
+  {
+   "t0": 563075,
+   "t1": 743259,
+   "pv0": 4,
+   "pisoFin": 8,
+   "jefe": true,
+   "pvFin": 4,
+   "monedas": 178,
+   "exp": 493,
+   "objetos": {
+    "baya_grande": 3,
+    "piedra_hoja": 1
+   },
+   "encuentros": [],
+   "eventos": [],
+   "fallos": []
+  },
+  {
+   "t0": 743259,
+   "t1": 945966,
+   "pv0": 4,
+   "pisoFin": 8,
+   "jefe": true,
+   "pvFin": 3,
+   "monedas": 200,
+   "exp": 493,
+   "objetos": {
+    "baya_grande": 6
+   },
+   "encuentros": [
+    {
+     "f": 8,
+     "sp": "0016",
+     "nv": 6,
+     "acepta": true,
+     "vr": false,
+     "rar": "C",
+     "huellaUsada": 1,
+     "de": "prado:8"
+    }
+   ],
+   "eventos": [
+    {
+     "f": 1,
+     "tipo": "cofre",
+     "datos": {
+      "it": "baya_grande",
+      "monedas": 22
+     }
+    }
+   ],
+   "fallos": [
+    8
+   ]
+  },
+  {
+   "t0": 945966,
+   "t1": 1126150,
+   "pv0": 4,
+   "pisoFin": 8,
+   "jefe": true,
+   "pvFin": 4,
+   "monedas": 178,
+   "exp": 493,
+   "objetos": {
+    "baya_grande": 5,
+    "piedra_hoja": 2
+   },
+   "encuentros": [],
+   "eventos": [],
+   "fallos": []
+  },
+  {
+   "t0": 1126150,
+   "t1": 1351380,
+   "pv0": 4,
+   "pisoFin": 8,
+   "jefe": true,
+   "pvFin": 2,
+   "monedas": 193,
+   "exp": 493,
+   "objetos": {
+    "piedra_hoja": 1
+   },
+   "encuentros": [
+    {
+     "f": 4,
+     "sp": "0019",
+     "nv": 5,
+     "acepta": true,
+     "vr": false,
+     "rar": "C",
+     "huellaUsada": 1,
+     "de": "prado:4"
+    },
+    {
+     "f": 5,
+     "sp": "0004",
+     "nv": 6,
+     "acepta": false,
+     "vr": false,
+     "rar": "R",
+     "huellaUsada": 0,
+     "de": "prado:5"
+    }
+   ],
+   "eventos": [
+    {
+     "f": 4,
+     "tipo": "perdido",
+     "datos": {
+      "car": 5,
+      "monedas": 15
+     }
+    }
+   ],
+   "fallos": [
+    8,
+    8
+   ]
+  },
+  {
+   "t0": 1351380,
+   "t1": 1554087,
+   "pv0": 3,
+   "pisoFin": 8,
+   "jefe": true,
+   "pvFin": 2,
+   "monedas": 178,
+   "exp": 493,
+   "objetos": {
+    "baya_grande": 2
+   },
+   "encuentros": [
+    {
+     "f": 6,
+     "sp": "0016",
+     "nv": 6,
+     "acepta": false,
+     "vr": false,
+     "rar": "C",
+     "huellaUsada": 0,
+     "de": "prado:6"
+    }
+   ],
+   "eventos": [],
+   "fallos": [
+    8
+   ]
+  },
+  {
+   "t0": 1554087,
+   "t1": 1734271,
+   "pv0": 3,
+   "pisoFin": 8,
+   "jefe": true,
+   "pvFin": 3,
+   "monedas": 178,
+   "exp": 493,
+   "objetos": {
+    "piedra_hoja": 1,
+    "baya_grande": 1
+   },
+   "encuentros": [
+    {
+     "f": 1,
+     "sp": "0161",
+     "nv": 4,
+     "acepta": true,
+     "vr": false,
+     "rar": "C",
+     "huellaUsada": 0,
+     "de": "prado:1"
+    },
+    {
+     "f": 4,
+     "sp": "0043",
+     "nv": 5,
+     "acepta": false,
+     "vr": false,
+     "rar": "C",
+     "huellaUsada": 0,
+     "de": "prado:4"
+    },
+    {
+     "f": 5,
+     "sp": "0016",
+     "nv": 6,
+     "acepta": true,
+     "vr": false,
+     "rar": "C",
+     "huellaUsada": 1,
+     "de": "prado:5"
+    }
+   ],
+   "eventos": [],
+   "fallos": []
+  },
+  {
+   "t0": 1734271,
+   "t1": 1914455,
+   "pv0": 4,
+   "pisoFin": 8,
+   "jefe": true,
+   "pvFin": 4,
+   "monedas": 178,
+   "exp": 493,
+   "objetos": {
+    "baya_grande": 4
+   },
+   "encuentros": [
+    {
+     "f": 1,
+     "sp": "0043",
+     "nv": 4,
+     "acepta": false,
+     "vr": false,
+     "rar": "C",
+     "huellaUsada": 1,
+     "de": "prado:1"
+    },
+    {
+     "f": 5,
+     "sp": "0013",
+     "nv": 6,
+     "acepta": true,
+     "vr": false,
+     "rar": "C",
+     "huellaUsada": 0,
+     "de": "prado:5"
+    },
+    {
+     "f": 7,
+     "sp": "0007",
+     "nv": 6,
+     "acepta": false,
+     "vr": false,
+     "rar": "R",
+     "huellaUsada": 0,
+     "de": "prado:7"
+    }
+   ],
+   "eventos": [],
+   "fallos": []
+  },
+  {
+   "t0": 1914455,
+   "t1": 2139685,
+   "pv0": 4,
+   "pisoFin": 8,
+   "jefe": true,
+   "pvFin": 2,
+   "monedas": 178,
+   "exp": 493,
+   "objetos": {
+    "baya_grande": 3
+   },
+   "encuentros": [
+    {
+     "f": 8,
+     "sp": "0013",
+     "nv": 6,
+     "acepta": true,
+     "vr": false,
+     "rar": "C",
+     "huellaUsada": 0,
+     "de": "prado:8"
+    }
+   ],
+   "eventos": [],
+   "fallos": [
+    8,
+    8
+   ]
+  },
+  {
+   "t0": 2139685,
+   "t1": 2319869,
+   "pv0": 3,
+   "pisoFin": 8,
+   "jefe": true,
+   "pvFin": 3,
+   "monedas": 178,
+   "exp": 493,
+   "objetos": {
+    "baya_grande": 1,
+    "piedra_hoja": 2
+   },
+   "encuentros": [
+    {
+     "f": 7,
+     "sp": "0016",
+     "nv": 6,
+     "acepta": false,
+     "vr": false,
+     "rar": "C",
+     "huellaUsada": 0,
+     "de": "prado:7"
+    }
+   ],
+   "eventos": [],
+   "fallos": []
+  },
+  {
+   "t0": 2319869,
+   "t1": 2500053,
+   "pv0": 4,
+   "pisoFin": 8,
+   "jefe": true,
+   "pvFin": 3,
+   "monedas": 170,
+   "exp": 468,
+   "objetos": {
+    "baya_grande": 2
+   },
+   "encuentros": [],
+   "eventos": [],
+   "fallos": [
+    5
+   ]
+  },
+  {
+   "t0": 2500053,
+   "t1": 2702760,
+   "pv0": 4,
+   "pisoFin": 8,
+   "jefe": true,
+   "pvFin": 3,
+   "monedas": 178,
+   "exp": 493,
+   "objetos": {
+    "piedra_hoja": 2,
+    "baya_grande": 3
+   },
+   "encuentros": [],
+   "eventos": [],
+   "fallos": [
+    8
+   ]
+  },
+  {
+   "t0": 2702760,
+   "t1": 2882944,
+   "pv0": 4,
+   "pisoFin": 8,
+   "jefe": true,
+   "pvFin": 4,
+   "monedas": 178,
+   "exp": 493,
+   "objetos": {
+    "baya_grande": 1,
+    "piedra_hoja": 1
+   },
+   "encuentros": [
+    {
+     "f": 5,
+     "sp": "0152",
+     "nv": 6,
+     "acepta": true,
+     "vr": false,
+     "rar": "R",
+     "huellaUsada": 0,
+     "de": "prado:5"
+    }
+   ],
+   "eventos": [],
+   "fallos": []
+  },
+  {
+   "t0": 2882944,
+   "t1": 3063128,
+   "pv0": 4,
+   "pisoFin": 8,
+   "jefe": true,
+   "pvFin": 4,
+   "monedas": 178,
+   "exp": 493,
+   "objetos": {
+    "baya_grande": 2,
+    "piedra_hoja": 1
+   },
+   "encuentros": [
+    {
+     "f": 8,
+     "sp": "0001",
+     "nv": 6,
+     "acepta": false,
+     "vr": false,
+     "rar": "R",
+     "huellaUsada": 0,
+     "de": "prado:8"
+    }
+   ],
+   "eventos": [],
+   "fallos": []
+  },
+  {
+   "t0": 3063128,
+   "t1": 3265835,
+   "pv0": 4,
+   "pisoFin": 8,
+   "jefe": true,
+   "pvFin": 3,
+   "monedas": 178,
+   "exp": 493,
+   "objetos": {
+    "baya_grande": 2
+   },
+   "encuentros": [
+    {
+     "f": 5,
+     "sp": "0010",
+     "nv": 6,
+     "acepta": true,
+     "vr": false,
+     "rar": "C",
+     "huellaUsada": 0,
+     "de": "prado:5"
+    }
+   ],
+   "eventos": [
+    {
+     "f": 1,
+     "tipo": "manantial",
+     "datos": {
+      "pv": 0
+     }
+    }
+   ],
+   "fallos": [
+    8
+   ]
+  },
+  {
+   "t0": 3265835,
+   "t1": 3446019,
+   "pv0": 4,
+   "pisoFin": 8,
+   "jefe": true,
+   "pvFin": 4,
+   "monedas": 178,
+   "exp": 493,
+   "objetos": {
+    "baya_grande": 2,
+    "piedra_hoja": 1
+   },
+   "encuentros": [
+    {
+     "f": 8,
+     "sp": "0013",
+     "nv": 6,
+     "acepta": false,
+     "vr": false,
+     "rar": "C",
+     "huellaUsada": 0,
+     "de": "prado:8"
+    }
+   ],
+   "eventos": [],
+   "fallos": []
+  },
+  {
+   "t0": 3446019,
+   "t1": 3671249,
+   "pv0": 4,
+   "pisoFin": 8,
+   "jefe": true,
+   "pvFin": 2,
+   "monedas": -261,
+   "exp": 493,
+   "objetos": {
+    "baya_grande": 1,
+    "piedra_hoja": 3
+   },
+   "encuentros": [
+    {
+     "f": 2,
+     "sp": "0043",
+     "nv": 5,
+     "acepta": true,
+     "vr": false,
+     "rar": "C",
+     "huellaUsada": 2,
+     "de": "prado:2"
+    },
+    {
+     "f": 4,
+     "sp": "0161",
+     "nv": 5,
+     "acepta": false,
+     "vr": false,
+     "rar": "C",
+     "huellaUsada": 0,
+     "de": "prado:4"
+    },
+    {
+     "f": 8,
+     "sp": "0016",
+     "nv": 6,
+     "acepta": true,
+     "vr": false,
+     "rar": "C",
+     "huellaUsada": 1,
+     "de": "prado:8"
+    }
+   ],
+   "eventos": [
+    {
+     "f": 1,
+     "tipo": "perdido",
+     "datos": {
+      "car": 5,
+      "monedas": 11
+     }
+    },
+    {
+     "f": 8,
+     "tipo": "kecleon",
+     "datos": {
+      "it": "piedra_hoja",
+      "precio": 450
+     }
+    }
+   ],
+   "fallos": [
+    8,
+    8
+   ]
+  },
+  {
+   "t0": 3671249,
+   "t1": 3851433,
+   "pv0": 3,
+   "pisoFin": 8,
+   "jefe": true,
+   "pvFin": 3,
+   "monedas": 178,
+   "exp": 493,
+   "objetos": {
+    "baya_grande": 4
+   },
+   "encuentros": [
+    {
+     "f": 2,
+     "sp": "0010",
+     "nv": 5,
+     "acepta": false,
+     "vr": false,
+     "rar": "C",
+     "huellaUsada": 0,
+     "de": "prado:2"
+    }
+   ],
+   "eventos": [],
+   "fallos": []
+  },
+  {
+   "t0": 3851433,
+   "t1": 4031617,
+   "pv0": 4,
+   "pisoFin": 8,
+   "jefe": true,
+   "pvFin": 4,
+   "monedas": 190,
+   "exp": 536,
+   "objetos": {
+    "baya_grande": 4
+   },
+   "encuentros": [
+    {
+     "f": 5,
+     "sp": "0043",
+     "nv": 6,
+     "acepta": false,
+     "vr": false,
+     "rar": "C",
+     "huellaUsada": 0,
+     "de": "prado:5"
+    }
+   ],
+   "eventos": [
+    {
+     "f": 2,
+     "tipo": "casa",
+     "datos": {
+      "gana": true
+     }
+    }
+   ],
+   "fallos": []
+  },
+  {
+   "t0": 4031617,
+   "t1": 4211801,
+   "pv0": 4,
+   "pisoFin": 8,
+   "jefe": true,
+   "pvFin": 4,
+   "monedas": 178,
+   "exp": 493,
+   "objetos": {
+    "piedra_hoja": 2,
+    "baya_grande": 1
+   },
+   "encuentros": [],
+   "eventos": [],
+   "fallos": []
+  },
+  {
+   "t0": 4211801,
+   "t1": 4391985,
+   "pv0": 4,
+   "pisoFin": 8,
+   "jefe": true,
+   "pvFin": 4,
+   "monedas": 178,
+   "exp": 493,
+   "objetos": {
+    "baya_grande": 5
+   },
+   "encuentros": [],
+   "eventos": [],
+   "fallos": []
+  },
+  {
+   "t0": 4391985,
+   "t1": 4572169,
+   "pv0": 4,
+   "pisoFin": 8,
+   "jefe": true,
+   "pvFin": 4,
+   "monedas": 178,
+   "exp": 493,
+   "objetos": {
+    "piedra_hoja": 1
+   },
+   "encuentros": [
+    {
+     "f": 3,
+     "sp": "0016",
+     "nv": 5,
+     "acepta": true,
+     "vr": false,
+     "rar": "C",
+     "huellaUsada": 0,
+     "de": "prado:3"
+    }
+   ],
+   "eventos": [],
+   "fallos": []
+  },
+  {
+   "t0": 4572169,
+   "t1": 4774876,
+   "pv0": 4,
+   "pisoFin": 8,
+   "jefe": true,
+   "pvFin": 4,
+   "monedas": 178,
+   "exp": 493,
+   "objetos": {
+    "baya_grande": 2
+   },
+   "encuentros": [],
+   "eventos": [
+    {
+     "f": 8,
+     "tipo": "manantial",
+     "datos": {
+      "pv": 1
+     }
+    }
+   ],
+   "fallos": [
+    8
+   ]
+  },
+  {
+   "t0": 4774876,
+   "t1": 4955060,
+   "pv0": 4,
+   "pisoFin": 8,
+   "jefe": true,
+   "pvFin": 3,
+   "monedas": 173,
+   "exp": 472,
+   "objetos": {
+    "piedra_hoja": 1,
+    "baya_grande": 1
+   },
+   "encuentros": [],
+   "eventos": [],
+   "fallos": [
+    1
+   ]
+  },
+  {
+   "t0": 4955060,
+   "t1": 5135244,
+   "pv0": 4,
+   "pisoFin": 8,
+   "jefe": true,
+   "pvFin": 4,
+   "monedas": 178,
+   "exp": 493,
+   "objetos": {
+    "baya_grande": 4,
+    "piedra_hoja": 1
+   },
+   "encuentros": [],
+   "eventos": [],
+   "fallos": []
+  },
+  {
+   "t0": 5135244,
+   "t1": 5315428,
+   "pv0": 4,
+   "pisoFin": 8,
+   "jefe": true,
+   "pvFin": 4,
+   "monedas": 178,
+   "exp": 493,
+   "objetos": {
+    "baya_grande": 3,
+    "piedra_hoja": 2
+   },
+   "encuentros": [
+    {
+     "f": 8,
+     "sp": "0163",
+     "nv": 6,
+     "acepta": true,
+     "vr": false,
+     "rar": "C",
+     "huellaUsada": 0,
+     "de": "prado:8"
+    }
+   ],
+   "eventos": [
+    {
+     "f": 1,
+     "tipo": "manantial",
+     "datos": {
+      "pv": 0
+     }
+    }
+   ],
+   "fallos": []
+  },
+  {
+   "t0": 5315428,
+   "t1": 5495612,
+   "pv0": 4,
+   "pisoFin": 8,
+   "jefe": true,
+   "pvFin": 4,
+   "monedas": 270,
+   "exp": 657,
+   "objetos": {
+    "piedra_hoja": 1
+   },
+   "encuentros": [
+    {
+     "f": 1,
+     "sp": "0133",
+     "nv": 4,
+     "acepta": true,
+     "vr": false,
+     "rar": "R",
+     "huellaUsada": 0,
+     "de": "prado:1"
+    },
+    {
+     "f": 7,
+     "sp": "0016",
+     "nv": 6,
+     "acepta": false,
+     "vr": false,
+     "rar": "C",
+     "huellaUsada": 0,
+     "de": "prado:7"
+    }
+   ],
+   "eventos": [
+    {
+     "f": 6,
+     "tipo": "perdido",
+     "datos": {
+      "car": 5,
+      "monedas": 17
+     }
+    },
+    {
+     "f": 8,
+     "tipo": "casa",
+     "datos": {
+      "gana": true
+     }
+    }
+   ],
+   "fallos": []
+  },
+  {
+   "t0": 5495612,
+   "t1": 5675796,
+   "pv0": 4,
+   "pisoFin": 8,
+   "jefe": true,
+   "pvFin": 4,
+   "monedas": 178,
+   "exp": 493,
+   "objetos": {
+    "piedra_hoja": 2
+   },
+   "encuentros": [
+    {
+     "f": 2,
+     "sp": "0016",
+     "nv": 5,
+     "acepta": false,
+     "vr": false,
+     "rar": "C",
+     "huellaUsada": 1,
+     "de": "prado:2"
+    }
+   ],
+   "eventos": [],
+   "fallos": []
+  },
+  {
+   "t0": 5675796,
+   "t1": 5855980,
+   "pv0": 4,
+   "pisoFin": 8,
+   "jefe": true,
+   "pvFin": 4,
+   "monedas": 178,
+   "exp": 493,
+   "objetos": {
+    "baya_grande": 1
+   },
+   "encuentros": [],
+   "eventos": [],
+   "fallos": []
+  },
+  {
+   "t0": 5855980,
+   "t1": 6036164,
+   "pv0": 4,
+   "pisoFin": 8,
+   "jefe": true,
+   "pvFin": 4,
+   "monedas": 178,
+   "exp": 493,
+   "objetos": {
+    "piedra_hoja": 1,
+    "baya_grande": 3
+   },
+   "encuentros": [],
+   "eventos": [],
+   "fallos": []
+  },
+  {
+   "t0": 6036164,
+   "t1": 6216348,
+   "pv0": 4,
+   "pisoFin": 8,
+   "jefe": true,
+   "pvFin": 4,
+   "monedas": 178,
+   "exp": 493,
+   "objetos": {
+    "piedra_hoja": 2,
+    "baya_grande": 1
+   },
+   "encuentros": [],
+   "eventos": [],
+   "fallos": []
+  },
+  {
+   "t0": 6216348,
+   "t1": 6396532,
+   "pv0": 4,
+   "pisoFin": 8,
+   "jefe": true,
+   "pvFin": 4,
+   "monedas": 178,
+   "exp": 493,
+   "objetos": {
+    "piedra_hoja": 2,
+    "baya_grande": 2
+   },
+   "encuentros": [],
+   "eventos": [],
+   "fallos": []
+  },
+  {
+   "t0": 6396532,
+   "t1": 6576716,
+   "pv0": 4,
+   "pisoFin": 8,
+   "jefe": true,
+   "pvFin": 4,
+   "monedas": 178,
+   "exp": 493,
+   "objetos": {
+    "piedra_hoja": 1,
+    "baya_grande": 2
+   },
+   "encuentros": [],
+   "eventos": [],
+   "fallos": []
+  },
+  {
+   "t0": 6576716,
+   "t1": 6756900,
+   "pv0": 4,
+   "pisoFin": 8,
+   "jefe": true,
+   "pvFin": 3,
+   "monedas": 169,
+   "exp": 467,
+   "objetos": {
+    "piedra_hoja": 3
+   },
+   "encuentros": [],
+   "eventos": [],
+   "fallos": [
+    6
+   ]
+  },
+  {
+   "t0": 6756900,
+   "t1": 6937084,
+   "pv0": 4,
+   "pisoFin": 8,
+   "jefe": true,
+   "pvFin": 4,
+   "monedas": 178,
+   "exp": 493,
+   "objetos": {
+    "baya_grande": 3,
+    "piedra_hoja": 1
+   },
+   "encuentros": [
+    {
+     "f": 7,
+     "sp": "0016",
+     "nv": 6,
+     "acepta": true,
+     "vr": false,
+     "rar": "C",
+     "huellaUsada": 2,
+     "de": "prado:7"
+    }
+   ],
+   "eventos": [],
+   "fallos": []
+  },
+  {
+   "t0": 6937084,
+   "t1": 7117268,
+   "pv0": 4,
+   "pisoFin": 8,
+   "jefe": true,
+   "pvFin": 4,
+   "monedas": 178,
+   "exp": 493,
+   "objetos": {
+    "baya_grande": 1,
+    "piedra_hoja": 1
+   },
+   "encuentros": [
+    {
+     "f": 7,
+     "sp": "0013",
+     "nv": 6,
+     "acepta": true,
+     "vr": false,
+     "rar": "C",
+     "huellaUsada": 1,
+     "de": "prado:7"
+    }
+   ],
+   "eventos": [],
+   "fallos": []
+  },
+  {
+   "t0": 7117268,
+   "t1": 7297452,
+   "pv0": 4,
+   "pisoFin": 8,
+   "jefe": true,
+   "pvFin": 4,
+   "monedas": 178,
+   "exp": 493,
+   "objetos": {
+    "piedra_hoja": 2,
+    "baya_grande": 1
+   },
+   "encuentros": [
+    {
+     "f": 4,
+     "sp": "0013",
+     "nv": 5,
+     "acepta": false,
+     "vr": false,
+     "rar": "C",
+     "huellaUsada": 0,
+     "de": "prado:4"
+    }
+   ],
+   "eventos": [],
+   "fallos": []
+  },
+  {
+   "t0": 7297452,
+   "t1": 7500159,
+   "pv0": 4,
+   "pisoFin": 8,
+   "jefe": true,
+   "pvFin": 3,
+   "monedas": 190,
+   "exp": 493,
+   "objetos": {
+    "baya_grande": 1
+   },
+   "encuentros": [
+    {
+     "f": 1,
+     "sp": "0001",
+     "nv": 4,
+     "acepta": true,
+     "vr": false,
+     "rar": "R",
+     "huellaUsada": 1,
+     "de": "prado:1"
+    },
+    {
+     "f": 5,
+     "sp": "0019",
+     "nv": 6,
+     "acepta": false,
+     "vr": false,
+     "rar": "C",
+     "huellaUsada": 0,
+     "de": "prado:5"
+    }
+   ],
+   "eventos": [
+    {
+     "f": 2,
+     "tipo": "perdido",
+     "datos": {
+      "car": 5,
+      "monedas": 12
+     }
+    }
+   ],
+   "fallos": [
+    8
+   ]
+  },
+  {
+   "t0": 7500159,
+   "t1": 7680343,
+   "pv0": 4,
+   "pisoFin": 8,
+   "jefe": true,
+   "pvFin": 4,
+   "monedas": 178,
+   "exp": 493,
+   "objetos": {
+    "piedra_hoja": 1,
+    "baya_grande": 4
+   },
+   "encuentros": [],
+   "eventos": [],
+   "fallos": []
+  },
+  {
+   "t0": 7680343,
+   "t1": 7860527,
+   "pv0": 4,
+   "pisoFin": 8,
+   "jefe": true,
+   "pvFin": 4,
+   "monedas": 178,
+   "exp": 493,
+   "objetos": {
+    "baya_grande": 4
+   },
+   "encuentros": [],
+   "eventos": [],
+   "fallos": []
+  },
+  {
+   "t0": 7860527,
+   "t1": 8040711,
+   "pv0": 4,
+   "pisoFin": 8,
+   "jefe": true,
+   "pvFin": 4,
+   "monedas": 178,
+   "exp": 493,
+   "objetos": {
+    "piedra_hoja": 3
+   },
+   "encuentros": [
+    {
+     "f": 5,
+     "sp": "0001",
+     "nv": 6,
+     "acepta": false,
+     "vr": false,
+     "rar": "R",
+     "huellaUsada": 0,
+     "de": "prado:5"
+    }
+   ],
+   "eventos": [],
+   "fallos": []
+  },
+  {
+   "t0": 8040711,
+   "t1": 8243418,
+   "pv0": 4,
+   "pisoFin": 8,
+   "jefe": true,
+   "pvFin": 3,
+   "monedas": 178,
+   "exp": 493,
+   "objetos": {
+    "baya_grande": 4,
+    "piedra_hoja": 1
+   },
+   "encuentros": [
+    {
+     "f": 6,
+     "sp": "0048",
+     "nv": 6,
+     "acepta": true,
+     "vr": false,
+     "rar": "C",
+     "huellaUsada": 1,
+     "de": "prado:6"
+    }
+   ],
+   "eventos": [],
+   "fallos": [
+    8
+   ]
+  },
+  {
+   "t0": 8243418,
+   "t1": 8423602,
+   "pv0": 4,
+   "pisoFin": 8,
+   "jefe": true,
+   "pvFin": 4,
+   "monedas": 178,
+   "exp": 493,
+   "objetos": {
+    "piedra_hoja": 3,
+    "baya_grande": 1
+   },
+   "encuentros": [
+    {
+     "f": 1,
+     "sp": "0152",
+     "nv": 4,
+     "acepta": true,
+     "vr": false,
+     "rar": "R",
+     "huellaUsada": 0,
+     "de": "prado:1"
+    }
+   ],
+   "eventos": [],
+   "fallos": []
+  },
+  {
+   "t0": 8423602,
+   "t1": 8603786,
+   "pv0": 4,
+   "pisoFin": 8,
+   "jefe": true,
+   "pvFin": 4,
+   "monedas": 210,
+   "exp": 493,
+   "objetos": {
+    "baya_grande": 3,
+    "piedra_hoja": 1
+   },
+   "encuentros": [
+    {
+     "f": 2,
+     "sp": "0013",
+     "nv": 5,
+     "acepta": false,
+     "vr": false,
+     "rar": "C",
+     "huellaUsada": 1,
+     "de": "prado:2"
+    },
+    {
+     "f": 5,
+     "sp": "0016",
+     "nv": 6,
+     "acepta": false,
+     "vr": false,
+     "rar": "C",
+     "huellaUsada": 0,
+     "de": "prado:5"
+    },
+    {
+     "f": 7,
+     "sp": "0043",
+     "nv": 6,
+     "acepta": true,
+     "vr": false,
+     "rar": "C",
+     "huellaUsada": 1,
+     "de": "prado:7"
+    }
+   ],
+   "eventos": [
+    {
+     "f": 5,
+     "tipo": "cofre",
+     "datos": {
+      "it": "piedra_hoja",
+      "monedas": 32
+     }
+    }
+   ],
+   "fallos": []
+  },
+  {
+   "t0": 8603786,
+   "t1": 8783970,
+   "pv0": 4,
+   "pisoFin": 8,
+   "jefe": true,
+   "pvFin": 4,
+   "monedas": 146,
+   "exp": 493,
+   "objetos": {
+    "piedra_hoja": 3,
+    "baya_grande": 1
+   },
+   "encuentros": [
+    {
+     "f": 8,
+     "sp": "0010",
+     "nv": 6,
+     "acepta": false,
+     "vr": false,
+     "rar": "C",
+     "huellaUsada": 1,
+     "de": "prado:8"
+    }
+   ],
+   "eventos": [
+    {
+     "f": 5,
+     "tipo": "kecleon",
+     "datos": {
+      "it": "baya_grande",
+      "precio": 32
+     }
+    }
+   ],
+   "fallos": []
+  },
+  {
+   "t0": 8783970,
+   "t1": 8964154,
+   "pv0": 4,
+   "pisoFin": 8,
+   "jefe": true,
+   "pvFin": 4,
+   "monedas": 178,
+   "exp": 493,
+   "objetos": {
+    "baya_grande": 5
+   },
+   "encuentros": [
+    {
+     "f": 5,
+     "sp": "0016",
+     "nv": 6,
+     "acepta": false,
+     "vr": false,
+     "rar": "C",
+     "huellaUsada": 1,
+     "de": "prado:5"
+    }
+   ],
+   "eventos": [],
+   "fallos": []
+  },
+  {
+   "t0": 8964154,
+   "t1": 9166861,
+   "pv0": 4,
+   "pisoFin": 8,
+   "jefe": true,
+   "pvFin": 3,
+   "monedas": 194,
+   "exp": 542,
+   "objetos": {
+    "piedra_hoja": 2,
+    "baya_grande": 1
+   },
+   "encuentros": [],
+   "eventos": [
+    {
+     "f": 5,
+     "tipo": "casa",
+     "datos": {
+      "gana": true
+     }
+    }
+   ],
+   "fallos": [
+    8
+   ]
+  },
+  {
+   "t0": 9166861,
+   "t1": 9392091,
+   "pv0": 4,
+   "pisoFin": 8,
+   "jefe": true,
+   "pvFin": 2,
+   "monedas": 156,
+   "exp": 493,
+   "objetos": {
+    "piedra_hoja": 2,
+    "baya_grande": 3
+   },
+   "encuentros": [
+    {
+     "f": 8,
+     "sp": "0161",
+     "nv": 6,
+     "acepta": false,
+     "vr": false,
+     "rar": "C",
+     "huellaUsada": 1,
+     "de": "prado:8"
+    }
+   ],
+   "eventos": [
+    {
+     "f": 1,
+     "tipo": "kecleon",
+     "datos": {
+      "it": "baya_grande",
+      "precio": 22
+     }
+    }
+   ],
+   "fallos": [
+    8,
+    8
+   ]
+  },
+  {
+   "t0": 9392091,
+   "t1": 9594798,
+   "pv0": 3,
+   "pisoFin": 8,
+   "jefe": true,
+   "pvFin": 2,
+   "monedas": 178,
+   "exp": 493,
+   "objetos": {
+    "baya_grande": 2
+   },
+   "encuentros": [
+    {
+     "f": 1,
+     "sp": "0016",
+     "nv": 4,
+     "acepta": true,
+     "vr": false,
+     "rar": "C",
+     "huellaUsada": 2,
+     "de": "prado:1"
+    },
+    {
+     "f": 8,
+     "sp": "0013",
+     "nv": 6,
+     "acepta": true,
+     "vr": false,
+     "rar": "C",
+     "huellaUsada": 2,
+     "de": "prado:8"
+    }
+   ],
+   "eventos": [],
+   "fallos": [
+    8
+   ]
+  },
+  {
+   "t0": 9594798,
+   "t1": 9774982,
+   "pv0": 3,
+   "pisoFin": 8,
+   "jefe": true,
+   "pvFin": 3,
+   "monedas": 178,
+   "exp": 493,
+   "objetos": {
+    "baya_grande": 2
+   },
+   "encuentros": [],
+   "eventos": [],
+   "fallos": []
+  },
+  {
+   "t0": 9774982,
+   "t1": 9955166,
+   "pv0": 4,
+   "pisoFin": 8,
+   "jefe": true,
+   "pvFin": 4,
+   "monedas": 178,
+   "exp": 493,
+   "objetos": {
+    "piedra_hoja": 2,
+    "baya_grande": 2
+   },
+   "encuentros": [],
+   "eventos": [],
+   "fallos": []
+  },
+  {
+   "t0": 9955166,
+   "t1": 10135350,
+   "pv0": 4,
+   "pisoFin": 8,
+   "jefe": true,
+   "pvFin": 4,
+   "monedas": 178,
+   "exp": 493,
+   "objetos": {
+    "baya_grande": 4
+   },
+   "encuentros": [
+    {
+     "f": 2,
+     "sp": "0013",
+     "nv": 5,
+     "acepta": false,
+     "vr": false,
+     "rar": "C",
+     "huellaUsada": 0,
+     "de": "prado:2"
+    },
+    {
+     "f": 6,
+     "sp": "0013",
+     "nv": 6,
+     "acepta": false,
+     "vr": false,
+     "rar": "C",
+     "huellaUsada": 1,
+     "de": "prado:6"
+    }
+   ],
+   "eventos": [],
+   "fallos": []
+  },
+  {
+   "t0": 10135350,
+   "t1": 10315534,
+   "pv0": 4,
+   "pisoFin": 8,
+   "jefe": true,
+   "pvFin": 4,
+   "monedas": 178,
+   "exp": 493,
+   "objetos": {
+    "baya_grande": 2,
+    "piedra_hoja": 2
+   },
+   "encuentros": [
+    {
+     "f": 1,
+     "sp": "0013",
+     "nv": 4,
+     "acepta": true,
+     "vr": false,
+     "rar": "C",
+     "huellaUsada": 2,
+     "de": "prado:1"
+    },
+    {
+     "f": 6,
+     "sp": "0019",
+     "nv": 6,
+     "acepta": false,
+     "vr": false,
+     "rar": "C",
+     "huellaUsada": 1,
+     "de": "prado:6"
+    }
+   ],
+   "eventos": [],
+   "fallos": []
+  },
+  {
+   "t0": 10315534,
+   "t1": 10495718,
+   "pv0": 4,
+   "pisoFin": 8,
+   "jefe": true,
+   "pvFin": 4,
+   "monedas": 178,
+   "exp": 493,
+   "objetos": {
+    "baya_grande": 2,
+    "piedra_hoja": 1
+   },
+   "encuentros": [
+    {
+     "f": 5,
+     "sp": "0048",
+     "nv": 6,
+     "acepta": false,
+     "vr": false,
+     "rar": "C",
+     "huellaUsada": 0,
+     "de": "prado:5"
+    }
+   ],
+   "eventos": [],
+   "fallos": []
+  },
+  {
+   "t0": 10495718,
+   "t1": 10698425,
+   "pv0": 4,
+   "pisoFin": 8,
+   "jefe": true,
+   "pvFin": 3,
+   "monedas": 178,
+   "exp": 493,
+   "objetos": {
+    "baya_grande": 2,
+    "piedra_hoja": 1
+   },
+   "encuentros": [
+    {
+     "f": 4,
+     "sp": "0016",
+     "nv": 5,
+     "acepta": true,
+     "vr": false,
+     "rar": "C",
+     "huellaUsada": 0,
+     "de": "prado:4"
+    }
+   ],
+   "eventos": [],
+   "fallos": [
+    8
+   ]
+  },
+  {
+   "t0": 10698425,
+   "t1": 10878609,
+   "pv0": 4,
+   "pisoFin": 8,
+   "jefe": true,
+   "pvFin": 3,
+   "monedas": 191,
+   "exp": 525,
+   "objetos": {
+    "baya_grande": 4,
+    "piedra_hoja": 2
+   },
+   "encuentros": [],
+   "eventos": [
+    {
+     "f": 7,
+     "tipo": "casa",
+     "datos": {
+      "gana": true
+     }
+    }
+   ],
+   "fallos": [
+    1
+   ]
+  },
+  {
+   "t0": 10878609,
+   "t1": 11058793,
+   "pv0": 4,
+   "pisoFin": 8,
+   "jefe": true,
+   "pvFin": 4,
+   "monedas": 178,
+   "exp": 493,
+   "objetos": {
+    "baya_grande": 4
+   },
+   "encuentros": [
+    {
+     "f": 2,
+     "sp": "0019",
+     "nv": 5,
+     "acepta": true,
+     "vr": false,
+     "rar": "C",
+     "huellaUsada": 2,
+     "de": "prado:2"
+    },
+    {
+     "f": 7,
+     "sp": "0013",
+     "nv": 6,
+     "acepta": false,
+     "vr": false,
+     "rar": "C",
+     "huellaUsada": 0,
+     "de": "prado:7"
+    }
+   ],
+   "eventos": [],
+   "fallos": []
+  },
+  {
+   "t0": 11058793,
+   "t1": 11261500,
+   "pv0": 4,
+   "pisoFin": 8,
+   "jefe": true,
+   "pvFin": 3,
+   "monedas": 178,
+   "exp": 493,
+   "objetos": {
+    "piedra_hoja": 3,
+    "baya_grande": 1
+   },
+   "encuentros": [],
+   "eventos": [],
+   "fallos": [
+    8
+   ]
+  },
+  {
+   "t0": 11261500,
+   "t1": 11441684,
+   "pv0": 4,
+   "pisoFin": 8,
+   "jefe": true,
+   "pvFin": 4,
+   "monedas": 206,
+   "exp": 493,
+   "objetos": {
+    "baya_grande": 1,
+    "piedra_hoja": 2
+   },
+   "encuentros": [
+    {
+     "f": 7,
+     "sp": "0019",
+     "nv": 6,
+     "acepta": false,
+     "vr": false,
+     "rar": "C",
+     "huellaUsada": 0,
+     "de": "prado:7"
+    }
+   ],
+   "eventos": [
+    {
+     "f": 3,
+     "tipo": "cofre",
+     "datos": {
+      "it": "piedra_hoja",
+      "monedas": 28
+     }
+    }
+   ],
+   "fallos": []
+  },
+  {
+   "t0": 11441684,
+   "t1": 11621868,
+   "pv0": 4,
+   "pisoFin": 8,
+   "jefe": true,
+   "pvFin": 4,
+   "monedas": 178,
+   "exp": 493,
+   "objetos": {
+    "piedra_hoja": 1,
+    "baya_grande": 1
+   },
+   "encuentros": [
+    {
+     "f": 6,
+     "sp": "0013",
+     "nv": 6,
+     "acepta": true,
+     "vr": false,
+     "rar": "C",
+     "huellaUsada": 1,
+     "de": "prado:6"
+    }
+   ],
+   "eventos": [],
+   "fallos": []
+  },
+  {
+   "t0": 11621868,
+   "t1": 11824575,
+   "pv0": 4,
+   "pisoFin": 8,
+   "jefe": true,
+   "pvFin": 3,
+   "monedas": 178,
+   "exp": 493,
+   "objetos": {
+    "piedra_hoja": 3
+   },
+   "encuentros": [
+    {
+     "f": 4,
+     "sp": "0019",
+     "nv": 5,
+     "acepta": true,
+     "vr": false,
+     "rar": "C",
+     "huellaUsada": 1,
+     "de": "prado:4"
+    }
+   ],
+   "eventos": [],
+   "fallos": [
+    8
+   ]
+  },
+  {
+   "t0": 11824575,
+   "t1": 12004759,
+   "pv0": 4,
+   "pisoFin": 8,
+   "jefe": true,
+   "pvFin": 4,
+   "monedas": 178,
+   "exp": 493,
+   "objetos": {
+    "baya_grande": 2
+   },
+   "encuentros": [],
+   "eventos": [
+    {
+     "f": 6,
+     "tipo": "manantial",
+     "datos": {
+      "pv": 0
+     }
+    }
+   ],
+   "fallos": []
+  },
+  {
+   "t0": 12004759,
+   "t1": 12229989,
+   "pv0": 4,
+   "pisoFin": 7,
+   "jefe": false,
+   "pvFin": 1,
+   "monedas": 114,
+   "exp": 370,
+   "objetos": {
+    "baya_grande": 1,
+    "piedra_hoja": 1
+   },
+   "encuentros": [],
+   "eventos": [
+    {
+     "f": 1,
+     "tipo": "casa",
+     "datos": {
+      "gana": true
+     }
+    }
+   ],
+   "fallos": [
+    8,
+    8,
+    8
+   ]
+  }
+ ],
+ "motivo": "rescatado",
+ "totales": {
+  "monedas": 11249,
+  "exp": 32138,
+  "objetos": {
+   "piedra_hoja": 77,
+   "baya_grande": 138
+  },
+  "reclutas": 26
+ },
+ "estadoRecluta": {
+  "piedad": 19,
+  "huellas": {
+   "0004": 1,
+   "0007": 1,
+   "0161": 2,
+   "0010": 2,
+   "0001": 1,
+   "0048": 1
+  }
+ },
+ "pisos": 515,
+ "jefeSp": "0015",
+ "pool": [
+  "0010",
+  "0013",
+  "0016",
+  "0019",
+  "0161",
+  "0043",
+  "0399",
+  "0048",
+  "0163"
+ ]
+}

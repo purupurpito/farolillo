@@ -1,0 +1,75 @@
+{
+  "v": 1,
+  "diario": {
+    "llega": "Se unió en {isla} p.{f}.",
+    "llegaSinPiso": "Llegó desde {isla}.",
+    "llegaFaro": "Encendió el faro contigo.",
+    "llegaTutorial": "Se unió en tu primera expedición.",
+    "llegaVisita": "Vino de visita y se quedó.",
+    "jefe": "Venció a su primer jefe en {isla}.",
+    "evo": "Evolucionó de {de} a {a}.",
+    "vario": "Llegó con un brillo especial.",
+    "estrella5": "Alcanzó las 5 estrellas.",
+    "car80": "Ya te considera su mejor amigo.",
+    "intercambio": "Llegó por un intercambio con {otn}.",
+    "temporada": "Vivió una temporada en la cala."
+  },
+  "frases": {
+    "timido": [
+      "Hola… todavía me estoy acostumbrando a la cala.",
+      "¿Eres {n}? Encantado.",
+      "El faro da un poco de miedo de noche, ¿no?",
+      "Me gusta mirar las olas desde aquí."
+    ],
+    "normal": [
+      "¡Qué buen día para salir en barca!",
+      "{n}, ¿sabes qué hay más allá de la Cumbre?",
+      "He visto un cangrejo enorme en el muelle.",
+      "Huele a bayas recién cogidas.",
+      "¿Salimos de expedición?"
+    ],
+    "feliz": [
+      "¡Me encanta vivir aquí contigo, {n}!",
+      "La próxima vez quiero ir de Líder.",
+      "El faro brilla más que nunca.",
+      "¡He practicado un ataque nuevo!",
+      "Hoy me siento con fuerza para un jefe."
+    ],
+    "amigo": [
+      "{n}, eres lo mejor que me ha pasado.",
+      "Contigo iría hasta la Mazmorra Misterio.",
+      "Cuando encendemos el faro, la cala parece un hogar.",
+      "Gracias por traerme aquí.",
+      "¡Siempre a tu lado!"
+    ]
+  },
+  "eventos": {
+    "kecleon": ["Kecleon tenía una tienda en el piso {f}: compraron {it}.", "Una tienda Kecleon en el piso {f}. ¡Se llevaron {it}!"],
+    "kecleonNada": ["Pasaron por una tienda Kecleon en el piso {f}, pero todo era muy caro."],
+    "cofre": ["¡Encontraron un piso secreto con un cofre en el piso {f}!", "Un cofre escondido en el piso {f}: {it}."],
+    "casaGana": ["¡Una casa de monstruos en el piso {f}! Salieron airosos y con doble botín."],
+    "casaPierde": ["Una casa de monstruos en el piso {f}: huyeron a tiempo, sin botín."],
+    "perdido": ["Ayudaron a un Pokémon perdido en el piso {f}. ¡Qué contentos volvieron!"],
+    "manantial": ["Un manantial en el piso {f} les devolvió las fuerzas."]
+  },
+  "guia": {
+    "bienvenida": "¡Hola! Soy tu guía. Vamos a buscar compañeros.",
+    "tutorialFuera": "Nuestra primera expedición vuelve en un minuto. ¡Ya casi!",
+    "tutorialVuelta": "¡Han vuelto! Toca «Recoger todo».",
+    "formar": "Elige isla y equipo, mira la previsión y pulsa ENVIAR.",
+    "bayas": "Las bayas son EXP embotellada: dáselas en la ficha.",
+    "mejora": "Con monedas mejoras el faro en Gremio › Faro."
+  },
+  "faros": {
+    "norte": "Norte: más Pokémon de la primera generación.",
+    "este": "Este: más Pokémon de la segunda generación.",
+    "sur": "Sur: más Pokémon de la tercera generación.",
+    "oeste": "Oeste: más Pokémon de la cuarta generación."
+  },
+  "motivos": {
+    "objetivo": "Objetivo cumplido",
+    "rescatado": "Vuelven rescatados con chichones",
+    "tiempo": "Patrulla terminada",
+    "prudente": "Volvieron con prudencia"
+  }
+}

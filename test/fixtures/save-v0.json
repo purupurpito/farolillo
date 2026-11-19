@@ -1,0 +1,17 @@
+{
+  "creado": 1731900000000,
+  "ultimaVez": 1731903600000,
+  "nombre": "Prototipo",
+  "guia": "0004",
+  "faro": "norte",
+  "monedas": 1234,
+  "bayas": 50,
+  "huerto": 2,
+  "linterna": 1,
+  "pokemons": [
+    { "id": "m_abc123", "sp": "0004", "nv": 7, "xp": 12, "est": 0, "car": 31, "f": 1731900000000, "de": "faro", "dia": [[1731900000000, "llega", {"i": "faro"}]] },
+    { "id": "m_def456", "sp": "0010", "nv": 4, "f": 1731900100000, "de": "tutorial" }
+  ],
+  "equipos": [ { "miembros": ["m_abc123", "m_def456"], "roles": ["lider", "expl"] } ],
+  "islas": { "1": { "pisoMax": 3 } }
+}

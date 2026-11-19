@@ -1,0 +1,22 @@
+{
+  "_nota": "Reglas de evolución que sustituyen a las de PokeAPI (SPEC §6.8). Clave = dex4 de la especie destino; el valor reemplaza todas las filas de PokeAPI para ese destino.",
+  "0470": { "c": "piedra", "it": "piedra_hoja" },
+  "0471": { "c": "piedra", "it": "piedra_hielo" },
+  "0196": { "c": "amistad", "momento": "dia" },
+  "0197": { "c": "amistad", "momento": "noche" },
+  "0462": { "c": "piedra", "it": "piedra_trueno" },
+  "0473": { "c": "nivel", "lv": 40 },
+  "0461": { "c": "objeto", "it": "garra_afilada" },
+  "0430": { "c": "piedra", "it": "piedra_ocaso" },
+  "0429": { "c": "piedra", "it": "piedra_ocaso" },
+  "0468": { "c": "piedra", "it": "piedra_dia" },
+  "0475": { "c": "piedra", "it": "piedra_alba" },
+  "0478": { "c": "piedra", "it": "piedra_alba" },
+  "0208": { "c": "intercambio" },
+  "0186": { "c": "intercambio" },
+  "0466": { "c": "intercambio" },
+  "0467": { "c": "intercambio" },
+  "0477": { "c": "intercambio" },
+  "0266": { "c": "nivel", "lv": 7 },
+  "0268": { "c": "nivel", "lv": 7 }
+}

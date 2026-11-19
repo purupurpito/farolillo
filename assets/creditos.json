@@ -1,0 +1,8419 @@
+{
+ "fuente": {
+  "nombre": "PMD Sprite Repository (PMDCollab)",
+  "url": "https://sprites.pmdcollab.org/",
+  "repo": "https://github.com/PMDCollab/SpriteCollab",
+  "sha": "1a294bec85e309d023c0b074617462c6c6b44a31",
+  "licencia": "CC BY-NC 4.0",
+  "licenciaUrl": "https://creativecommons.org/licenses/by-nc/4.0/",
+  "adaptacion": "Adaptados: recortados a 3 direcciones (abajo, derecha, izquierda) y reempaquetados; sin cambios de dibujo.",
+  "chunsoft": "Los sprites marcados CHUNSOFT proceden de los juegos originales de Pokémon Mystery Dungeon (Spike Chunsoft) y no están bajo licencia CC.",
+  "licencias": {
+   "CC_BY-NC_4": "Creative Commons Atribución-NoComercial 4.0 Internacional",
+   "PMDCollab_1": "Términos de envío de PMDCollab, versión 1 (uso no comercial con atribución)",
+   "PMDCollab_2": "Términos de envío de PMDCollab, versión 2 (uso no comercial con atribución)",
+   "Unspecified": "Sin licencia indicada (habitual en los sprites originales de CHUNSOFT)"
+  },
+  "pokeapi": "Datos: PokéAPI (BSD-3-Clause), © 2013–2023 Paul Hallett and PokéAPI contributors"
+ },
+ "artistas": {
+  "108260609241423872": {
+   "n": "Magu"
+  },
+  "117780585635643396": {
+   "n": "Audino",
+   "url": "https://github.com/audinowho"
+  },
+  "120852359676035072": {
+   "n": "LT",
+   "url": "https://twitter.com/eLTehH"
+  },
+  "1346022682667388968": {
+   "n": "chikorene"
+  },
+  "136476806055198720": {
+   "n": "smartini",
+   "url": "https://github.com/CSCMe"
+  },
+  "1377429093997477928": {
+   "n": "JustAGunk"
+  },
+  "138236921980649472": {
+   "n": "skygummi",
+   "url": "https://twitter.com/skygummi"
+  },
+  "141718238336778241": {
+   "n": "AlexGroeger"
+  },
+  "143644728230019072": {
+   "n": "Coksi",
+   "url": "https://coksi.carrd.co/"
+  },
+  "150308109489799169": {
+   "n": "radpeepo",
+   "url": "https://linktr.ee/radpeepo"
+  },
+  "1519393734008115314": {
+   "n": "Some_Shinx"
+  },
+  "157339721729572864": {
+   "n": "Vex"
+  },
+  "157796074457661440": {
+   "n": "Deeshura",
+   "url": "https://bsky.app/profile/deeshura.bsky.social"
+  },
+  "162389028061052928": {
+   "n": "Reppamon"
+  },
+  "165623433458089984": {
+   "n": "Hemlock",
+   "url": "https://baphomets.neocities.org/"
+  },
+  "169247379453640706": {
+   "n": "3P1C"
+  },
+  "171030521009274881": {
+   "n": "Pencil",
+   "url": "https://twitter.com/Sea_of_Pencils"
+  },
+  "173505019268694016": {
+   "n": "Frostdrop1"
+  },
+  "173896352554549248": {
+   "n": "RaoKurai",
+   "url": "https://twitter.com/RaoKurai"
+  },
+  "177074597315870720": {
+   "n": "Smalusion",
+   "url": "https://twitter.com/Smalusion"
+  },
+  "181829556930347009": {
+   "n": "Mooncaller",
+   "url": "https://twitter.com/LunarPilgrim"
+  },
+  "181900575934382081": {
+   "n": "Neat_Neato"
+  },
+  "183561486893842432": {
+   "n": "chime"
+  },
+  "188463527089012737": {
+   "n": "snarbs"
+  },
+  "193530896211509248": {
+   "n": "bwappi",
+   "url": "https://bsky.app/profile/bwappi.bsky.social"
+  },
+  "195280695009083392": {
+   "n": "195280695009083392"
+  },
+  "199989579682414592": {
+   "n": "199989579682414592"
+  },
+  "200318546750865418": {
+   "n": "Anonymous"
+  },
+  "200385851069300736": {
+   "n": "El_Pangoro_Parse"
+  },
+  "204460364023201793": {
+   "n": "SilverDeoxys563",
+   "url": "https://www.reddit.com/user/SilverDeoxys563"
+  },
+  "207188665959448576": {
+   "n": "Scizivire"
+  },
+  "215638650434617345": {
+   "n": "◥θ┴θ◤"
+  },
+  "215699178553212929": {
+   "n": "Prismatic"
+  },
+  "216640380408430592": {
+   "n": "TawnySoup",
+   "url": "https://linktr.ee/tawnysoup"
+  },
+  "217653022094786560": {
+   "n": "Grimlin",
+   "url": "https://twitter.com/Griimlin"
+  },
+  "217899432652308480": {
+   "n": "Noo",
+   "url": "https://artfight.net/~NooNoo_Skidoo"
+  },
+  "218764902913802240": {
+   "n": "Adrian"
+  },
+  "220580080194289664": {
+   "n": "SingingMudkip"
+  },
+  "224476380790915072": {
+   "n": "programmedsleepstate"
+  },
+  "225813236589527041": {
+   "n": "Fable",
+   "url": "https://twitter.com/fabledpainter"
+  },
+  "228595807132057600": {
+   "n": "FlowerSnek",
+   "url": "https://twitter.com/EthanLac13"
+  },
+  "229131140903075840": {
+   "n": "Soulja",
+   "url": "https://twitter.com/OlSoulja"
+  },
+  "229363481852379136": {
+   "n": "Novie",
+   "url": "https://twitter.com/themagolord"
+  },
+  "230913498916323329": {
+   "n": "Blanky",
+   "url": "https://www.tumblr.com/theblankest123"
+  },
+  "232091727094218752": {
+   "n": "lokatts",
+   "url": "https://twitter.com/lokatts"
+  },
+  "234720295292895232": {
+   "n": "Tacocoa"
+  },
+  "237286997645983744": {
+   "n": "Emboarger"
+  },
+  "238146046146904069": {
+   "n": "Okami"
+  },
+  "262696514294513664": {
+   "n": "SirViolet"
+  },
+  "268261643178344448": {
+   "n": "SethY",
+   "url": "https://linktr.ee/sethyuikora"
+  },
+  "270755102178934785": {
+   "n": "3Monika4"
+  },
+  "273594331577974785": {
+   "n": "Felis-Licht",
+   "url": "https://www.deviantart.com/felis-licht/"
+  },
+  "273958644788363265": {
+   "n": "Deleca7755",
+   "url": "https://www.deviantart.com/deleca-7755"
+  },
+  "275075929905168384": {
+   "n": "anomalocaris",
+   "url": "https://twitter.com/radiodonta_lord"
+  },
+  "276175146304405514": {
+   "n": "276175146304405514"
+  },
+  "276369635304275968": {
+   "n": "Top_Kec"
+  },
+  "276949114212712449": {
+   "n": "Moo",
+   "url": "https://twitter.com/MoonMoonMemes"
+  },
+  "283571466891427841": {
+   "n": "Tainted#3886"
+  },
+  "299261889169588246": {
+   "n": "299261889169588246"
+  },
+  "310773087417270272": {
+   "n": "PixlHoopa"
+  },
+  "319945906600411179": {
+   "n": "NeroIntruder",
+   "url": "https://twitter.com/NeroIntruder"
+  },
+  "322382592202637322": {
+   "n": "C_Pariah"
+  },
+  "327927398941196289": {
+   "n": "0palite",
+   "url": "https://zeropalart.tumblr.com/"
+  },
+  "330751862590406656": {
+   "n": "Caitemis",
+   "url": "https://caitemis-art.tumblr.com/"
+  },
+  "336650663293616140": {
+   "n": "Meganai"
+  },
+  "338821717365489665": {
+   "n": "FalafelPorpoise",
+   "url": "https://bsky.app/profile/falafel-porpoise.bsky.social"
+  },
+  "343150274795405314": {
+   "n": "Vynnyal",
+   "url": "https://vynnyal.tumblr.com/"
+  },
+  "350050109741858829": {
+   "n": "G〜",
+   "url": "https://bsky.app/profile/justtr4sh.pmd.social"
+  },
+  "356187016054046723": {
+   "n": "Cloudy",
+   "url": "https://twitter.com/cloudyskys17695"
+  },
+  "356635814668664832": {
+   "n": "Emmuffin",
+   "url": "https://twitter.com/Ernmuffin"
+  },
+  "365627932888268800": {
+   "n": "XModxGodX"
+  },
+  "378654902181691392": {
+   "n": "Reimu\\_needs\\_$$$"
+  },
+  "388709039678423040": {
+   "n": "RoyalRust"
+  },
+  "388753676140806175": {
+   "n": "fledermaus",
+   "url": "https://www.furaffinity.net/user/fleder-maus/"
+  },
+  "389193348474339338": {
+   "n": "Sharpen"
+  },
+  "401608319762038794": {
+   "n": "Blanca"
+  },
+  "402958234371227648": {
+   "n": "Uni",
+   "url": "https://github.com/ArianaCastro01"
+  },
+  "408301000445788180": {
+   "n": "JemDragons",
+   "url": "https://twitter.com/JemDragons?s=09"
+  },
+  "411407718839222272": {
+   "n": "cosmosully",
+   "url": "https://twitter.com/cosmosully"
+  },
+  "421379254077620225": {
+   "n": "gromchurch",
+   "url": "https://twitter.com/poongis2"
+  },
+  "433058189240696835": {
+   "n": "SuperFabbioGuy"
+  },
+  "436940337865293834": {
+   "n": "436940337865293834"
+  },
+  "454421330058805251": {
+   "n": "Spikey-Valentine",
+   "url": "https://twitter.com/spikeyvalentine"
+  },
+  "474262233442942995": {
+   "n": "dmDash"
+  },
+  "476409795239477248": {
+   "n": "silverfox88",
+   "url": "https://twitter.com/realsilverfox88"
+  },
+  "513590747694497792": {
+   "n": "Deltex12"
+  },
+  "527611425670037516": {
+   "n": "Avery"
+  },
+  "533406104256905257": {
+   "n": "CamusZekeSirius"
+  },
+  "544245909639397378": {
+   "n": "baronessfaron"
+  },
+  "555360707617488904": {
+   "n": "deltaflare"
+  },
+  "555919605265203232": {
+   "n": "Anon"
+  },
+  "576876006636519434": {
+   "n": "ShyStarryRain"
+  },
+  "589906152708505648": {
+   "n": "589906152708505648"
+  },
+  "593113130213572610": {
+   "n": "Morei",
+   "url": "https://bsky.app/profile/murpia57.bsky.social"
+  },
+  "662304890143375391": {
+   "n": "Axcel"
+  },
+  "702275233125630042": {
+   "n": "JFain"
+  },
+  "722542425196724289": {
+   "n": "Ginnie"
+  },
+  "722565437925097613": {
+   "n": "shimx"
+  },
+  "739304144552198285": {
+   "n": "RelicCipher"
+  },
+  "770438729575563284": {
+   "n": "<ElGian>"
+  },
+  "772726854188400641": {
+   "n": "PhillipsYoung",
+   "url": "https://twitter.com/PhilliYoung196"
+  },
+  "779213287576436746": {
+   "n": "Ichor"
+  },
+  "784171246011023481": {
+   "n": "jackolanternjackalope",
+   "url": "https://www.instagram.com/jackolanternjackalope/"
+  },
+  "801938240562397194": {
+   "n": "Fearless-Quit"
+  },
+  "823932975916777512": {
+   "n": "Pokejavi."
+  },
+  "833717817445974046": {
+   "n": "NOLASMOR"
+  },
+  "861005464682889266": {
+   "n": "Gust",
+   "url": "https://twitter.com/Estelaris__"
+  },
+  "91001329228464128": {
+   "n": "YoukaiMinori"
+  },
+  "95638225439166464": {
+   "n": "Chi"
+  },
+  "95650095034273792": {
+   "n": "Lovi"
+  },
+  "967585139485999154": {
+   "n": "967585139485999154"
+  },
+  "ANGELS_SNACK": {
+   "n": "Angels-Snack",
+   "url": "https://angels-snack.tumblr.com/"
+  },
+  "CHUNSOFT": {
+   "n": "CHUNSOFT",
+   "url": "https://www.spike-chunsoft.com/"
+  },
+  "ESTELSTARLIGHT": {
+   "n": "estelstarlight",
+   "url": "https://estelstarlight.tumblr.com/post/186838449949"
+  },
+  "JARLEYPENO": {
+   "n": "Jarleypeño",
+   "url": "https://www.deviantart.com/applecone413"
+  }
+ },
+ "esp": {
+  "0001": {
+   "sprite": [
+    {
+     "a": "CHUNSOFT",
+     "lic": "Unspecified"
+    }
+   ],
+   "retrato": [
+    {
+     "a": "CHUNSOFT",
+     "lic": "Unspecified"
+    }
+   ],
+   "vSprite": [
+    {
+     "a": "576876006636519434",
+     "lic": "CC_BY-NC_4"
+    }
+   ],
+   "vRetrato": [
+    {
+     "a": "576876006636519434",
+     "lic": "CC_BY-NC_4"
+    }
+   ]
+  },
+  "0002": {
+   "sprite": [
+    {
+     "a": "CHUNSOFT",
+     "lic": "Unspecified"
+    }
+   ],
+   "retrato": [
+    {
+     "a": "CHUNSOFT",
+     "lic": "CC_BY-NC_4"
+    },
+    {
+     "a": "356635814668664832",
+     "lic": "CC_BY-NC_4"
+    }
+   ],
+   "vSprite": [
+    {
+     "a": "204460364023201793",
+     "lic": "PMDCollab_1"
+    }
+   ],
+   "vRetrato": [
+    {
+     "a": "356635814668664832",
+     "lic": "PMDCollab_1"
+    },
+    {
+     "a": "356635814668664832",
+     "lic": "PMDCollab_2"
+    },
+    {
+     "a": "356635814668664832",
+     "lic": "CC_BY-NC_4"
+    }
+   ]
+  },
+  "0003": {
+   "sprite": [
+    {
+     "a": "CHUNSOFT",
+     "lic": "Unspecified"
+    }
+   ],
+   "retrato": [
+    {
+     "a": "CHUNSOFT",
+     "lic": "Unspecified"
+    },
+    {
+     "a": "276175146304405514",
+     "lic": "PMDCollab_1"
+    },
+    {
+     "a": "350050109741858829",
+     "lic": "CC_BY-NC_4"
+    }
+   ],
+   "vSprite": [
+    {
+     "a": "204460364023201793",
+     "lic": "PMDCollab_1"
+    }
+   ],
+   "vRetrato": [
+    {
+     "a": "237286997645983744",
+     "lic": "PMDCollab_1"
+    },
+    {
+     "a": "350050109741858829",
+     "lic": "CC_BY-NC_4"
+    }
+   ]
+  },
+  "0004": {
+   "sprite": [
+    {
+     "a": "CHUNSOFT",
+     "lic": "Unspecified"
+    }
+   ],
+   "retrato": [
+    {
+     "a": "CHUNSOFT",
+     "lic": "Unspecified"
+    },
+    {
+     "a": "544245909639397378",
+     "lic": "CC_BY-NC_4"
+    }
+   ],
+   "vSprite": [
+    {
+     "a": "576876006636519434",
+     "lic": "CC_BY-NC_4"
+    }
+   ],
+   "vRetrato": [
+    {
+     "a": "276949114212712449",
+     "lic": "PMDCollab_1"
+    },
+    {
+     "a": "593113130213572610",
+     "lic": "PMDCollab_1"
+    },
+    {
+     "a": "544245909639397378",
+     "lic": "CC_BY-NC_4"
+    }
+   ]
+  },
+  "0005": {
+   "sprite": [
+    {
+     "a": "CHUNSOFT",
+     "lic": "Unspecified"
+    },
+    {
+     "a": "199989579682414592",
+     "lic": "PMDCollab_1"
+    },
+    {
+     "a": "193530896211509248",
+     "lic": "CC_BY-NC_4"
+    },
+    {
+     "a": "217653022094786560",
+     "lic": "CC_BY-NC_4"
+    }
+   ],
+   "retrato": [
+    {
+     "a": "CHUNSOFT",
+     "lic": "Unspecified"
+    },
+    {
+     "a": "327927398941196289",
+     "lic": "PMDCollab_1"
+    }
+   ],
+   "vSprite": [
+    {
+     "a": "576876006636519434",
+     "lic": "PMDCollab_2"
+    },
+    {
+     "a": "576876006636519434",
+     "lic": "CC_BY-NC_4"
+    },
+    {
+     "a": "356635814668664832",
+     "lic": "CC_BY-NC_4"
+    }
+   ],
+   "vRetrato": [
+    {
+     "a": "576876006636519434",
+     "lic": "PMDCollab_2"
+    }
+   ]
+  },
+  "0006": {
+   "sprite": [
+    {
+     "a": "CHUNSOFT",
+     "lic": "Unspecified"
+    },
+    {
+     "a": "237286997645983744",
+     "lic": "PMDCollab_1"
+    }
+   ],
+   "retrato": [
+    {
+     "a": "CHUNSOFT",
+     "lic": "CC_BY-NC_4"
+    },
+    {
+     "a": "327927398941196289",
+     "lic": "CC_BY-NC_4"
+    }
+   ],
+   "vSprite": [
+    {
+     "a": "204460364023201793",
+     "lic": "PMDCollab_1"
+    },
+    {
+     "a": "237286997645983744",
+     "lic": "PMDCollab_1"
+    },
+    {
+     "a": "356635814668664832",
+     "lic": "PMDCollab_1"
+    }
+   ],
+   "vRetrato": [
+    {
+     "a": "218764902913802240",
+     "lic": "PMDCollab_1"
+    },
+    {
+     "a": "433058189240696835",
+     "lic": "PMDCollab_1"
+    },
+    {
+     "a": "593113130213572610",
+     "lic": "PMDCollab_1"
+    }
+   ]
+  },
+  "0007": {
+   "sprite": [
+    {
+     "a": "CHUNSOFT",
+     "lic": "Unspecified"
+    }
+   ],
+   "retrato": [
+    {
+     "a": "CHUNSOFT",
+     "lic": "Unspecified"
+    }
+   ],
+   "vSprite": [
+    {
+     "a": "204460364023201793",
+     "lic": "PMDCollab_1"
+    },
+    {
+     "a": "576876006636519434",
+     "lic": "CC_BY-NC_4"
+    }
+   ],
+   "vRetrato": [
+    {
+     "a": "576876006636519434",
+     "lic": "CC_BY-NC_4"
+    }
+   ]
+  },
+  "0008": {
+   "sprite": [
+    {
+     "a": "CHUNSOFT",
+     "lic": "Unspecified"
+    }
+   ],
+   "retrato": [
+    {
+     "a": "CHUNSOFT",
+     "lic": "Unspecified"
+    },
+    {
+     "a": "356635814668664832",
+     "lic": "PMDCollab_1"
+    },
+    {
+     "a": "356635814668664832",
+     "lic": "CC_BY-NC_4"
+    }
+   ],
+   "vSprite": [
+    {
+     "a": "356635814668664832",
+     "lic": "PMDCollab_2"
+    }
+   ],
+   "vRetrato": [
+    {
+     "a": "356635814668664832",
+     "lic": "PMDCollab_2"
+    },
+    {
+     "a": "356635814668664832",
+     "lic": "CC_BY-NC_4"
+    }
+   ]
+  },
+  "0009": {
+   "sprite": [
+    {
+     "a": "CHUNSOFT",
+     "lic": "Unspecified"
+    }
+   ],
+   "retrato": [
+    {
+     "a": "CHUNSOFT",
+     "lic": "CC_BY-NC_4"
+    },
+    {
+     "a": "356635814668664832",
+     "lic": "CC_BY-NC_4"
+    },
+    {
+     "a": "276369635304275968",
+     "lic": "CC_BY-NC_4"
+    }
+   ],
+   "vSprite": [
+    {
+     "a": "204460364023201793",
+     "lic": "PMDCollab_1"
+    }
+   ],
+   "vRetrato": [
+    {
+     "a": "356635814668664832",
+     "lic": "CC_BY-NC_4"
+    }
+   ]
+  },
+  "0010": {
+   "sprite": [
+    {
+     "a": "CHUNSOFT",
+     "lic": "Unspecified"
+    }
+   ],
+   "retrato": [
+    {
+     "a": "CHUNSOFT",
+     "lic": "Unspecified"
+    },
+    {
+     "a": "173505019268694016",
+     "lic": "PMDCollab_1"
+    },
+    {
+     "a": "544245909639397378",
+     "lic": "PMDCollab_1"
+    },
+    {
+     "a": "173505019268694016",
+     "lic": "PMDCollab_2"
+    },
+    {
+     "a": "173505019268694016",
+     "lic": "CC_BY-NC_4"
+    }
+   ],
+   "vSprite": [
+    {
+     "a": "204460364023201793",
+     "lic": "PMDCollab_1"
+    }
+   ],
+   "vRetrato": [
+    {
+     "a": "1519393734008115314",
+     "lic": "CC_BY-NC_4"
+    }
+   ]
+  },
+  "0011": {
+   "sprite": [
+    {
+     "a": "CHUNSOFT",
+     "lic": "Unspecified"
+    }
+   ],
+   "retrato": [
+    {
+     "a": "CHUNSOFT",
+     "lic": "Unspecified"
+    },
+    {
+     "a": "237286997645983744",
+     "lic": "PMDCollab_1"
+    },
+    {
+     "a": "544245909639397378",
+     "lic": "PMDCollab_1"
+    },
+    {
+     "a": "230913498916323329",
+     "lic": "PMDCollab_2"
+    },
+    {
+     "a": "230913498916323329",
+     "lic": "CC_BY-NC_4"
+    }
+   ],
+   "vSprite": [
+    {
+     "a": "204460364023201793",
+     "lic": "PMDCollab_1"
+    }
+   ],
+   "vRetrato": [
+    {
+     "a": "234720295292895232",
+     "lic": "PMDCollab_1"
+    },
+    {
+     "a": "593113130213572610",
+     "lic": "PMDCollab_1"
+    },
+    {
+     "a": "108260609241423872",
+     "lic": "CC_BY-NC_4"
+    }
+   ]
+  },
+  "0012": {
+   "sprite": [
+    {
+     "a": "CHUNSOFT",
+     "lic": "Unspecified"
+    }
+   ],
+   "retrato": [
+    {
+     "a": "CHUNSOFT",
+     "lic": "Unspecified"
+    },
+    {
+     "a": "356635814668664832",
+     "lic": "PMDCollab_1"
+    }
+   ],
+   "vSprite": [
+    {
+     "a": "356635814668664832",
+     "lic": "PMDCollab_1"
+    },
+    {
+     "a": "356635814668664832",
+     "lic": "CC_BY-NC_4"
+    }
+   ],
+   "vRetrato": [
+    {
+     "a": "200318546750865418",
+     "lic": "PMDCollab_1"
+    },
+    {
+     "a": "356635814668664832",
+     "lic": "PMDCollab_1"
+    }
+   ]
+  },
+  "0013": {
+   "sprite": [
+    {
+     "a": "CHUNSOFT",
+     "lic": "Unspecified"
+    }
+   ],
+   "retrato": [
+    {
+     "a": "CHUNSOFT",
+     "lic": "Unspecified"
+    },
+    {
+     "a": "229363481852379136",
+     "lic": "PMDCollab_1"
+    }
+   ],
+   "vSprite": [
+    {
+     "a": "576876006636519434",
+     "lic": "PMDCollab_2"
+    }
+   ],
+   "vRetrato": [
+    {
+     "a": "576876006636519434",
+     "lic": "PMDCollab_2"
+    }
+   ]
+  },
+  "0014": {
+   "sprite": [
+    {
+     "a": "CHUNSOFT",
+     "lic": "Unspecified"
+    }
+   ],
+   "retrato": [
+    {
+     "a": "CHUNSOFT",
+     "lic": "Unspecified"
+    },
+    {
+     "a": "330751862590406656",
+     "lic": "PMDCollab_1"
+    },
+    {
+     "a": "330751862590406656",
+     "lic": "PMDCollab_2"
+    }
+   ],
+   "vSprite": [
+    {
+     "a": "204460364023201793",
+     "lic": "PMDCollab_1"
+    }
+   ],
+   "vRetrato": [
+    {
+     "a": "193530896211509248",
+     "lic": "PMDCollab_2"
+    }
+   ]
+  },
+  "0015": {
+   "sprite": [
+    {
+     "a": "CHUNSOFT",
+     "lic": "Unspecified"
+    }
+   ],
+   "retrato": [
+    {
+     "a": "CHUNSOFT",
+     "lic": "Unspecified"
+    },
+    {
+     "a": "225813236589527041",
+     "lic": "PMDCollab_1"
+    }
+   ],
+   "vSprite": [
+    {
+     "a": "204460364023201793",
+     "lic": "PMDCollab_1"
+    }
+   ],
+   "vRetrato": [
+    {
+     "a": "234720295292895232",
+     "lic": "PMDCollab_1"
+    },
+    {
+     "a": "299261889169588246",
+     "lic": "PMDCollab_1"
+    }
+   ]
+  },
+  "0016": {
+   "sprite": [
+    {
+     "a": "CHUNSOFT",
+     "lic": "Unspecified"
+    },
+    {
+     "a": "702275233125630042",
+     "lic": "CC_BY-NC_4"
+    }
+   ],
+   "retrato": [
+    {
+     "a": "CHUNSOFT",
+     "lic": "Unspecified"
+    },
+    {
+     "a": "702275233125630042",
+     "lic": "PMDCollab_1"
+    }
+   ],
+   "vSprite": [
+    {
+     "a": "204460364023201793",
+     "lic": "PMDCollab_1"
+    },
+    {
+     "a": "1519393734008115314",
+     "lic": "CC_BY-NC_4"
+    }
+   ],
+   "vRetrato": [
+    {
+     "a": "234720295292895232",
+     "lic": "PMDCollab_1"
+    },
+    {
+     "a": "217899432652308480",
+     "lic": "PMDCollab_1"
+    }
+   ]
+  },
+  "0017": {
+   "sprite": [
+    {
+     "a": "CHUNSOFT",
+     "lic": "Unspecified"
+    }
+   ],
+   "retrato": [
+    {
+     "a": "CHUNSOFT",
+     "lic": "Unspecified"
+    },
+    {
+     "a": "283571466891427841",
+     "lic": "PMDCollab_1"
+    }
+   ],
+   "vSprite": [
+    {
+     "a": "276949114212712449",
+     "lic": "PMDCollab_1"
+    },
+    {
+     "a": "193530896211509248",
+     "lic": "PMDCollab_2"
+    }
+   ],
+   "vRetrato": [
+    {
+     "a": "276949114212712449",
+     "lic": "PMDCollab_1"
+    },
+    {
+     "a": "283571466891427841",
+     "lic": "PMDCollab_1"
+    },
+    {
+     "a": "193530896211509248",
+     "lic": "PMDCollab_2"
+    }
+   ]
+  },
+  "0018": {
+   "sprite": [
+    {
+     "a": "CHUNSOFT",
+     "lic": "Unspecified"
+    }
+   ],
+   "retrato": [
+    {
+     "a": "CHUNSOFT",
+     "lic": "Unspecified"
+    },
+    {
+     "a": "338821717365489665",
+     "lic": "CC_BY-NC_4"
+    }
+   ],
+   "vSprite": [
+    {
+     "a": "204460364023201793",
+     "lic": "PMDCollab_1"
+    },
+    {
+     "a": "204460364023201793",
+     "lic": "PMDCollab_2"
+    }
+   ],
+   "vRetrato": [
+    {
+     "a": "234720295292895232",
+     "lic": "PMDCollab_1"
+    },
+    {
+     "a": "193530896211509248",
+     "lic": "PMDCollab_2"
+    },
+    {
+     "a": "338821717365489665",
+     "lic": "CC_BY-NC_4"
+    }
+   ]
+  },
+  "0019": {
+   "sprite": [
+    {
+     "a": "CHUNSOFT",
+     "lic": "Unspecified"
+    }
+   ],
+   "retrato": [
+    {
+     "a": "CHUNSOFT",
+     "lic": "Unspecified"
+    },
+    {
+     "a": "173505019268694016",
+     "lic": "PMDCollab_1"
+    },
+    {
+     "a": "173505019268694016",
+     "lic": "PMDCollab_2"
+    }
+   ],
+   "vSprite": [
+    {
+     "a": "576876006636519434",
+     "lic": "PMDCollab_2"
+    }
+   ],
+   "vRetrato": [
+    {
+     "a": "576876006636519434",
+     "lic": "CC_BY-NC_4"
+    }
+   ]
+  },
+  "0020": {
+   "sprite": [
+    {
+     "a": "CHUNSOFT",
+     "lic": "Unspecified"
+    }
+   ],
+   "retrato": [
+    {
+     "a": "CHUNSOFT",
+     "lic": "Unspecified"
+    },
+    {
+     "a": "350050109741858829",
+     "lic": "CC_BY-NC_4"
+    },
+    {
+     "a": "544245909639397378",
+     "lic": "CC_BY-NC_4"
+    }
+   ],
+   "vSprite": [
+    {
+     "a": "204460364023201793",
+     "lic": "PMDCollab_1"
+    },
+    {
+     "a": "270755102178934785",
+     "lic": "PMDCollab_1"
+    }
+   ],
+   "vRetrato": [
+    {
+     "a": "234720295292895232",
+     "lic": "PMDCollab_1"
+    },
+    {
+     "a": "350050109741858829",
+     "lic": "CC_BY-NC_4"
+    },
+    {
+     "a": "544245909639397378",
+     "lic": "CC_BY-NC_4"
+    }
+   ]
+  },
+  "0025": {
+   "sprite": [
+    {
+     "a": "CHUNSOFT",
+     "lic": "Unspecified"
+    }
+   ],
+   "retrato": [
+    {
+     "a": "CHUNSOFT",
+     "lic": "Unspecified"
+    }
+   ]
+  },
+  "0026": {
+   "sprite": [
+    {
+     "a": "CHUNSOFT",
+     "lic": "Unspecified"
+    },
+    {
+     "a": "217653022094786560",
+     "lic": "CC_BY-NC_4"
+    },
+    {
+     "a": "276369635304275968",
+     "lic": "CC_BY-NC_4"
+    }
+   ],
+   "retrato": [
+    {
+     "a": "CHUNSOFT",
+     "lic": "Unspecified"
+    },
+    {
+     "a": "350050109741858829",
+     "lic": "PMDCollab_2"
+    }
+   ]
+  },
+  "0027": {
+   "sprite": [
+    {
+     "a": "CHUNSOFT",
+     "lic": "Unspecified"
+    },
+    {
+     "a": "237286997645983744",
+     "lic": "PMDCollab_1"
+    },
+    {
+     "a": "169247379453640706",
+     "lic": "PMDCollab_2"
+    }
+   ],
+   "retrato": [
+    {
+     "a": "CHUNSOFT",
+     "lic": "Unspecified"
+    },
+    {
+     "a": "157339721729572864",
+     "lic": "PMDCollab_1"
+    },
+    {
+     "a": "576876006636519434",
+     "lic": "PMDCollab_1"
+    }
+   ],
+   "vSprite": [
+    {
+     "a": "576876006636519434",
+     "lic": "CC_BY-NC_4"
+    }
+   ],
+   "vRetrato": [
+    {
+     "a": "234720295292895232",
+     "lic": "PMDCollab_1"
+    },
+    {
+     "a": "157339721729572864",
+     "lic": "PMDCollab_1"
+    },
+    {
+     "a": "576876006636519434",
+     "lic": "PMDCollab_1"
+    }
+   ]
+  },
+  "0028": {
+   "sprite": [
+    {
+     "a": "CHUNSOFT",
+     "lic": "Unspecified"
+    },
+    {
+     "a": "356635814668664832",
+     "lic": "PMDCollab_1"
+    }
+   ],
+   "retrato": [
+    {
+     "a": "CHUNSOFT",
+     "lic": "Unspecified"
+    },
+    {
+     "a": "365627932888268800",
+     "lic": "PMDCollab_1"
+    },
+    {
+     "a": "238146046146904069",
+     "lic": "PMDCollab_1"
+    }
+   ],
+   "vSprite": [
+    {
+     "a": "204460364023201793",
+     "lic": "PMDCollab_1"
+    },
+    {
+     "a": "365627932888268800",
+     "lic": "PMDCollab_1"
+    },
+    {
+     "a": "356635814668664832",
+     "lic": "PMDCollab_1"
+    }
+   ],
+   "vRetrato": [
+    {
+     "a": "365627932888268800",
+     "lic": "PMDCollab_1"
+    },
+    {
+     "a": "593113130213572610",
+     "lic": "PMDCollab_1"
+    }
+   ]
+  },
+  "0035": {
+   "sprite": [
+    {
+     "a": "CHUNSOFT",
+     "lic": "Unspecified"
+    }
+   ],
+   "retrato": [
+    {
+     "a": "CHUNSOFT",
+     "lic": "Unspecified"
+    },
+    {
+     "a": "ESTELSTARLIGHT",
+     "lic": "PMDCollab_1"
+    }
+   ],
+   "vSprite": [
+    {
+     "a": "234720295292895232",
+     "lic": "PMDCollab_1"
+    }
+   ],
+   "vRetrato": [
+    {
+     "a": "193530896211509248",
+     "lic": "PMDCollab_2"
+    }
+   ]
+  },
+  "0036": {
+   "sprite": [
+    {
+     "a": "CHUNSOFT",
+     "lic": "Unspecified"
+    }
+   ],
+   "retrato": [
+    {
+     "a": "CHUNSOFT",
+     "lic": "Unspecified"
+    },
+    {
+     "a": "784171246011023481",
+     "lic": "PMDCollab_1"
+    },
+    {
+     "a": "861005464682889266",
+     "lic": "PMDCollab_1"
+    }
+   ],
+   "vSprite": [
+    {
+     "a": "234720295292895232",
+     "lic": "PMDCollab_1"
+    }
+   ],
+   "vRetrato": [
+    {
+     "a": "593113130213572610",
+     "lic": "PMDCollab_1"
+    },
+    {
+     "a": "593113130213572610",
+     "lic": "PMDCollab_2"
+    }
+   ]
+  },
+  "0037": {
+   "sprite": [
+    {
+     "a": "CHUNSOFT",
+     "lic": "Unspecified"
+    }
+   ],
+   "retrato": [
+    {
+     "a": "CHUNSOFT",
+     "lic": "Unspecified"
+    }
+   ],
+   "vSprite": [
+    {
+     "a": "95650095034273792",
+     "lic": "PMDCollab_1"
+    }
+   ],
+   "vRetrato": [
+    {
+     "a": "95650095034273792",
+     "lic": "PMDCollab_1"
+    },
+    {
+     "a": "544245909639397378",
+     "lic": "PMDCollab_2"
+    }
+   ]
+  },
+  "0038": {
+   "sprite": [
+    {
+     "a": "CHUNSOFT",
+     "lic": "Unspecified"
+    },
+    {
+     "a": "544245909639397378",
+     "lic": "PMDCollab_1"
+    }
+   ],
+   "retrato": [
+    {
+     "a": "CHUNSOFT",
+     "lic": "CC_BY-NC_4"
+    },
+    {
+     "a": "544245909639397378",
+     "lic": "CC_BY-NC_4"
+    }
+   ],
+   "vSprite": [
+    {
+     "a": "356635814668664832",
+     "lic": "PMDCollab_1"
+    }
+   ],
+   "vRetrato": [
+    {
+     "a": "95650095034273792",
+     "lic": "PMDCollab_1"
+    },
+    {
+     "a": "336650663293616140",
+     "lic": "PMDCollab_1"
+    },
+    {
+     "a": "237286997645983744",
+     "lic": "PMDCollab_1"
+    },
+    {
+     "a": "544245909639397378",
+     "lic": "PMDCollab_1"
+    },
+    {
+     "a": "544245909639397378",
+     "lic": "PMDCollab_2"
+    }
+   ]
+  },
+  "0041": {
+   "sprite": [
+    {
+     "a": "CHUNSOFT",
+     "lic": "Unspecified"
+    }
+   ],
+   "retrato": [
+    {
+     "a": "CHUNSOFT",
+     "lic": "Unspecified"
+    },
+    {
+     "a": "388753676140806175",
+     "lic": "PMDCollab_1"
+    }
+   ],
+   "vSprite": [
+    {
+     "a": "234720295292895232",
+     "lic": "PMDCollab_1"
+    }
+   ],
+   "vRetrato": [
+    {
+     "a": "234720295292895232",
+     "lic": "PMDCollab_1"
+    },
+    {
+     "a": "388753676140806175",
+     "lic": "PMDCollab_1"
+    }
+   ]
+  },
+  "0042": {
+   "sprite": [
+    {
+     "a": "CHUNSOFT",
+     "lic": "Unspecified"
+    }
+   ],
+   "retrato": [
+    {
+     "a": "CHUNSOFT",
+     "lic": "Unspecified"
+    },
+    {
+     "a": "702275233125630042",
+     "lic": "PMDCollab_1"
+    }
+   ],
+   "vSprite": [
+    {
+     "a": "234720295292895232",
+     "lic": "PMDCollab_1"
+    }
+   ],
+   "vRetrato": [
+    {
+     "a": "234720295292895232",
+     "lic": "PMDCollab_1"
+    },
+    {
+     "a": "593113130213572610",
+     "lic": "PMDCollab_1"
+    }
+   ]
+  },
+  "0043": {
+   "sprite": [
+    {
+     "a": "CHUNSOFT",
+     "lic": "Unspecified"
+    }
+   ],
+   "retrato": [
+    {
+     "a": "CHUNSOFT",
+     "lic": "Unspecified"
+    },
+    {
+     "a": "273594331577974785",
+     "lic": "PMDCollab_1"
+    },
+    {
+     "a": "576876006636519434",
+     "lic": "PMDCollab_1"
+    },
+    {
+     "a": "273594331577974785",
+     "lic": "CC_BY-NC_4"
+    }
+   ],
+   "vSprite": [
+    {
+     "a": "234720295292895232",
+     "lic": "PMDCollab_1"
+    }
+   ],
+   "vRetrato": [
+    {
+     "a": "200318546750865418",
+     "lic": "PMDCollab_1"
+    },
+    {
+     "a": "237286997645983744",
+     "lic": "PMDCollab_1"
+    },
+    {
+     "a": "576876006636519434",
+     "lic": "PMDCollab_1"
+    },
+    {
+     "a": "273594331577974785",
+     "lic": "CC_BY-NC_4"
+    }
+   ]
+  },
+  "0044": {
+   "sprite": [
+    {
+     "a": "CHUNSOFT",
+     "lic": "Unspecified"
+    }
+   ],
+   "retrato": [
+    {
+     "a": "CHUNSOFT",
+     "lic": "Unspecified"
+    },
+    {
+     "a": "1346022682667388968",
+     "lic": "CC_BY-NC_4"
+    }
+   ],
+   "vSprite": [
+    {
+     "a": "234720295292895232",
+     "lic": "PMDCollab_1"
+    }
+   ],
+   "vRetrato": [
+    {
+     "a": "356635814668664832",
+     "lic": "CC_BY-NC_4"
+    }
+   ]
+  },
+  "0045": {
+   "sprite": [
+    {
+     "a": "CHUNSOFT",
+     "lic": "Unspecified"
+    }
+   ],
+   "retrato": [
+    {
+     "a": "CHUNSOFT",
+     "lic": "Unspecified"
+    }
+   ],
+   "vSprite": [
+    {
+     "a": "356635814668664832",
+     "lic": "PMDCollab_1"
+    }
+   ],
+   "vRetrato": [
+    {
+     "a": "234720295292895232",
+     "lic": "PMDCollab_1"
+    }
+   ]
+  },
+  "0048": {
+   "sprite": [
+    {
+     "a": "CHUNSOFT",
+     "lic": "Unspecified"
+    },
+    {
+     "a": "275075929905168384",
+     "lic": "CC_BY-NC_4"
+    }
+   ],
+   "retrato": [
+    {
+     "a": "CHUNSOFT",
+     "lic": "Unspecified"
+    },
+    {
+     "a": "230913498916323329",
+     "lic": "PMDCollab_2"
+    }
+   ],
+   "vSprite": [
+    {
+     "a": "234720295292895232",
+     "lic": "PMDCollab_1"
+    },
+    {
+     "a": "356635814668664832",
+     "lic": "CC_BY-NC_4"
+    }
+   ],
+   "vRetrato": [
+    {
+     "a": "230913498916323329",
+     "lic": "PMDCollab_2"
+    }
+   ]
+  },
+  "0049": {
+   "sprite": [
+    {
+     "a": "CHUNSOFT",
+     "lic": "Unspecified"
+    }
+   ],
+   "retrato": [
+    {
+     "a": "CHUNSOFT",
+     "lic": "Unspecified"
+    },
+    {
+     "a": "138236921980649472",
+     "lic": "PMDCollab_1"
+    },
+    {
+     "a": "181829556930347009",
+     "lic": "PMDCollab_1"
+    }
+   ],
+   "vSprite": [
+    {
+     "a": "200318546750865418",
+     "lic": "PMDCollab_1"
+    }
+   ],
+   "vRetrato": [
+    {
+     "a": "200318546750865418",
+     "lic": "PMDCollab_1"
+    },
+    {
+     "a": "138236921980649472",
+     "lic": "PMDCollab_1"
+    }
+   ]
+  },
+  "0050": {
+   "sprite": [
+    {
+     "a": "CHUNSOFT",
+     "lic": "Unspecified"
+    }
+   ],
+   "retrato": [
+    {
+     "a": "CHUNSOFT",
+     "lic": "CC_BY-NC_4"
+    },
+    {
+     "a": "861005464682889266",
+     "lic": "CC_BY-NC_4"
+    },
+    {
+     "a": "228595807132057600",
+     "lic": "CC_BY-NC_4"
+    }
+   ],
+   "vSprite": [
+    {
+     "a": "200385851069300736",
+     "lic": "PMDCollab_1"
+    }
+   ],
+   "vRetrato": [
+    {
+     "a": "593113130213572610",
+     "lic": "CC_BY-NC_4"
+    },
+    {
+     "a": "234720295292895232",
+     "lic": "CC_BY-NC_4"
+    },
+    {
+     "a": "1377429093997477928",
+     "lic": "CC_BY-NC_4"
+    }
+   ]
+  },
+  "0051": {
+   "sprite": [
+    {
+     "a": "CHUNSOFT",
+     "lic": "Unspecified"
+    }
+   ],
+   "retrato": [
+    {
+     "a": "CHUNSOFT",
+     "lic": "Unspecified"
+    },
+    {
+     "a": "861005464682889266",
+     "lic": "PMDCollab_1"
+    }
+   ],
+   "vSprite": [
+    {
+     "a": "200385851069300736",
+     "lic": "PMDCollab_1"
+    }
+   ],
+   "vRetrato": [
+    {
+     "a": "234720295292895232",
+     "lic": "PMDCollab_1"
+    },
+    {
+     "a": "861005464682889266",
+     "lic": "PMDCollab_1"
+    },
+    {
+     "a": "861005464682889266",
+     "lic": "PMDCollab_2"
+    }
+   ]
+  },
+  "0054": {
+   "sprite": [
+    {
+     "a": "CHUNSOFT",
+     "lic": "Unspecified"
+    }
+   ],
+   "retrato": [
+    {
+     "a": "CHUNSOFT",
+     "lic": "Unspecified"
+    },
+    {
+     "a": "273594331577974785",
+     "lic": "PMDCollab_2"
+    },
+    {
+     "a": "593113130213572610",
+     "lic": "PMDCollab_2"
+    }
+   ],
+   "vSprite": [
+    {
+     "a": "195280695009083392",
+     "lic": "PMDCollab_1"
+    },
+    {
+     "a": "576876006636519434",
+     "lic": "CC_BY-NC_4"
+    }
+   ],
+   "vRetrato": [
+    {
+     "a": "593113130213572610",
+     "lic": "PMDCollab_1"
+    },
+    {
+     "a": "593113130213572610",
+     "lic": "PMDCollab_2"
+    },
+    {
+     "a": "476409795239477248",
+     "lic": "PMDCollab_2"
+    },
+    {
+     "a": "593113130213572610",
+     "lic": "CC_BY-NC_4"
+    }
+   ]
+  },
+  "0055": {
+   "sprite": [
+    {
+     "a": "CHUNSOFT",
+     "lic": "Unspecified"
+    }
+   ],
+   "retrato": [
+    {
+     "a": "CHUNSOFT",
+     "lic": "Unspecified"
+    },
+    {
+     "a": "702275233125630042",
+     "lic": "PMDCollab_1"
+    },
+    {
+     "a": "330751862590406656",
+     "lic": "CC_BY-NC_4"
+    }
+   ],
+   "vSprite": [
+    {
+     "a": "200385851069300736",
+     "lic": "PMDCollab_1"
+    }
+   ],
+   "vRetrato": [
+    {
+     "a": "200318546750865418",
+     "lic": "PMDCollab_1"
+    },
+    {
+     "a": "702275233125630042",
+     "lic": "PMDCollab_1"
+    }
+   ]
+  },
+  "0058": {
+   "sprite": [
+    {
+     "a": "CHUNSOFT",
+     "lic": "Unspecified"
+    },
+    {
+     "a": "356635814668664832",
+     "lic": "CC_BY-NC_4"
+    },
+    {
+     "a": "1377429093997477928",
+     "lic": "CC_BY-NC_4"
+    }
+   ],
+   "retrato": [
+    {
+     "a": "CHUNSOFT",
+     "lic": "Unspecified"
+    },
+    {
+     "a": "513590747694497792",
+     "lic": "PMDCollab_1"
+    },
+    {
+     "a": "120852359676035072",
+     "lic": "PMDCollab_1"
+    }
+   ]
+  },
+  "0059": {
+   "sprite": [
+    {
+     "a": "CHUNSOFT",
+     "lic": "Unspecified"
+    }
+   ],
+   "retrato": [
+    {
+     "a": "CHUNSOFT",
+     "lic": "Unspecified"
+    },
+    {
+     "a": "544245909639397378",
+     "lic": "PMDCollab_1"
+    }
+   ]
+  },
+  "0060": {
+   "sprite": [
+    {
+     "a": "CHUNSOFT",
+     "lic": "Unspecified"
+    }
+   ],
+   "retrato": [
+    {
+     "a": "CHUNSOFT",
+     "lic": "Unspecified"
+    },
+    {
+     "a": "662304890143375391",
+     "lic": "PMDCollab_1"
+    }
+   ],
+   "vSprite": [
+    {
+     "a": "200385851069300736",
+     "lic": "PMDCollab_1"
+    }
+   ],
+   "vRetrato": [
+    {
+     "a": "200318546750865418",
+     "lic": "PMDCollab_1"
+    },
+    {
+     "a": "662304890143375391",
+     "lic": "PMDCollab_1"
+    }
+   ]
+  },
+  "0061": {
+   "sprite": [
+    {
+     "a": "CHUNSOFT",
+     "lic": "Unspecified"
+    }
+   ],
+   "retrato": [
+    {
+     "a": "CHUNSOFT",
+     "lic": "Unspecified"
+    },
+    {
+     "a": "702275233125630042",
+     "lic": "PMDCollab_1"
+    },
+    {
+     "a": "702275233125630042",
+     "lic": "CC_BY-NC_4"
+    }
+   ],
+   "vSprite": [
+    {
+     "a": "200385851069300736",
+     "lic": "PMDCollab_1"
+    },
+    {
+     "a": "270755102178934785",
+     "lic": "PMDCollab_1"
+    }
+   ],
+   "vRetrato": [
+    {
+     "a": "108260609241423872",
+     "lic": "CC_BY-NC_4"
+    }
+   ]
+  },
+  "0062": {
+   "sprite": [
+    {
+     "a": "CHUNSOFT",
+     "lic": "Unspecified"
+    }
+   ],
+   "retrato": [
+    {
+     "a": "CHUNSOFT",
+     "lic": "Unspecified"
+    },
+    {
+     "a": "108260609241423872",
+     "lic": "CC_BY-NC_4"
+    },
+    {
+     "a": "1377429093997477928",
+     "lic": "CC_BY-NC_4"
+    }
+   ],
+   "vSprite": [
+    {
+     "a": "200385851069300736",
+     "lic": "PMDCollab_1"
+    }
+   ],
+   "vRetrato": [
+    {
+     "a": "215699178553212929",
+     "lic": "PMDCollab_1"
+    },
+    {
+     "a": "108260609241423872",
+     "lic": "CC_BY-NC_4"
+    },
+    {
+     "a": "1377429093997477928",
+     "lic": "CC_BY-NC_4"
+    }
+   ]
+  },
+  "0063": {
+   "sprite": [
+    {
+     "a": "CHUNSOFT",
+     "lic": "Unspecified"
+    },
+    {
+     "a": "356635814668664832",
+     "lic": "CC_BY-NC_4"
+    }
+   ],
+   "retrato": [
+    {
+     "a": "CHUNSOFT",
+     "lic": "Unspecified"
+    },
+    {
+     "a": "702275233125630042",
+     "lic": "PMDCollab_1"
+    },
+    {
+     "a": "411407718839222272",
+     "lic": "PMDCollab_1"
+    }
+   ],
+   "vSprite": [
+    {
+     "a": "234720295292895232",
+     "lic": "PMDCollab_1"
+    },
+    {
+     "a": "270755102178934785",
+     "lic": "PMDCollab_1"
+    },
+    {
+     "a": "356635814668664832",
+     "lic": "CC_BY-NC_4"
+    }
+   ],
+   "vRetrato": [
+    {
+     "a": "234720295292895232",
+     "lic": "PMDCollab_1"
+    },
+    {
+     "a": "217899432652308480",
+     "lic": "PMDCollab_1"
+    },
+    {
+     "a": "411407718839222272",
+     "lic": "PMDCollab_1"
+    }
+   ]
+  },
+  "0064": {
+   "sprite": [
+    {
+     "a": "CHUNSOFT",
+     "lic": "Unspecified"
+    }
+   ],
+   "retrato": [
+    {
+     "a": "CHUNSOFT",
+     "lic": "Unspecified"
+    },
+    {
+     "a": "327927398941196289",
+     "lic": "PMDCollab_1"
+    },
+    {
+     "a": "544245909639397378",
+     "lic": "PMDCollab_1"
+    },
+    {
+     "a": "544245909639397378",
+     "lic": "PMDCollab_2"
+    }
+   ],
+   "vSprite": [
+    {
+     "a": "200385851069300736",
+     "lic": "PMDCollab_1"
+    }
+   ],
+   "vRetrato": [
+    {
+     "a": "356635814668664832",
+     "lic": "PMDCollab_1"
+    },
+    {
+     "a": "356635814668664832",
+     "lic": "PMDCollab_2"
+    }
+   ]
+  },
+  "0065": {
+   "sprite": [
+    {
+     "a": "CHUNSOFT",
+     "lic": "Unspecified"
+    }
+   ],
+   "retrato": [
+    {
+     "a": "CHUNSOFT",
+     "lic": "Unspecified"
+    },
+    {
+     "a": "861005464682889266",
+     "lic": "PMDCollab_1"
+    }
+   ],
+   "vSprite": [
+    {
+     "a": "593113130213572610",
+     "lic": "PMDCollab_1"
+    },
+    {
+     "a": "356635814668664832",
+     "lic": "PMDCollab_2"
+    }
+   ],
+   "vRetrato": [
+    {
+     "a": "117780585635643396",
+     "lic": "PMDCollab_1"
+    },
+    {
+     "a": "593113130213572610",
+     "lic": "PMDCollab_1"
+    }
+   ]
+  },
+  "0066": {
+   "sprite": [
+    {
+     "a": "CHUNSOFT",
+     "lic": "Unspecified"
+    },
+    {
+     "a": "237286997645983744",
+     "lic": "PMDCollab_1"
+    }
+   ],
+   "retrato": [
+    {
+     "a": "CHUNSOFT",
+     "lic": "Unspecified"
+    },
+    {
+     "a": "273594331577974785",
+     "lic": "PMDCollab_2"
+    },
+    {
+     "a": "593113130213572610",
+     "lic": "PMDCollab_2"
+    }
+   ],
+   "vSprite": [
+    {
+     "a": "593113130213572610",
+     "lic": "PMDCollab_2"
+    }
+   ],
+   "vRetrato": [
+    {
+     "a": "593113130213572610",
+     "lic": "PMDCollab_1"
+    },
+    {
+     "a": "593113130213572610",
+     "lic": "PMDCollab_2"
+    },
+    {
+     "a": "593113130213572610",
+     "lic": "CC_BY-NC_4"
+    }
+   ]
+  },
+  "0067": {
+   "sprite": [
+    {
+     "a": "CHUNSOFT",
+     "lic": "Unspecified"
+    }
+   ],
+   "retrato": [
+    {
+     "a": "CHUNSOFT",
+     "lic": "Unspecified"
+    },
+    {
+     "a": "702275233125630042",
+     "lic": "PMDCollab_1"
+    }
+   ],
+   "vSprite": [
+    {
+     "a": "234720295292895232",
+     "lic": "PMDCollab_1"
+    }
+   ],
+   "vRetrato": [
+    {
+     "a": "276949114212712449",
+     "lic": "PMDCollab_1"
+    },
+    {
+     "a": "702275233125630042",
+     "lic": "PMDCollab_1"
+    }
+   ]
+  },
+  "0068": {
+   "sprite": [
+    {
+     "a": "CHUNSOFT",
+     "lic": "Unspecified"
+    }
+   ],
+   "retrato": [
+    {
+     "a": "CHUNSOFT",
+     "lic": "Unspecified"
+    }
+   ],
+   "vSprite": [
+    {
+     "a": "234720295292895232",
+     "lic": "PMDCollab_1"
+    }
+   ],
+   "vRetrato": [
+    {
+     "a": "215699178553212929",
+     "lic": "PMDCollab_1"
+    }
+   ]
+  },
+  "0074": {
+   "sprite": [
+    {
+     "a": "CHUNSOFT",
+     "lic": "Unspecified"
+    }
+   ],
+   "retrato": [
+    {
+     "a": "CHUNSOFT",
+     "lic": "Unspecified"
+    },
+    {
+     "a": "1377429093997477928",
+     "lic": "CC_BY-NC_4"
+    }
+   ],
+   "vSprite": [
+    {
+     "a": "200385851069300736",
+     "lic": "PMDCollab_1"
+    }
+   ],
+   "vRetrato": [
+    {
+     "a": "276949114212712449",
+     "lic": "PMDCollab_1"
+    },
+    {
+     "a": "356635814668664832",
+     "lic": "CC_BY-NC_4"
+    }
+   ]
+  },
+  "0075": {
+   "sprite": [
+    {
+     "a": "CHUNSOFT",
+     "lic": "Unspecified"
+    },
+    {
+     "a": "356635814668664832",
+     "lic": "CC_BY-NC_4"
+    }
+   ],
+   "retrato": [
+    {
+     "a": "CHUNSOFT",
+     "lic": "Unspecified"
+    },
+    {
+     "a": "283571466891427841",
+     "lic": "PMDCollab_1"
+    }
+   ],
+   "vSprite": [
+    {
+     "a": "356635814668664832",
+     "lic": "CC_BY-NC_4"
+    }
+   ],
+   "vRetrato": [
+    {
+     "a": "276949114212712449",
+     "lic": "PMDCollab_1"
+    },
+    {
+     "a": "283571466891427841",
+     "lic": "PMDCollab_1"
+    }
+   ]
+  },
+  "0076": {
+   "sprite": [
+    {
+     "a": "CHUNSOFT",
+     "lic": "Unspecified"
+    },
+    {
+     "a": "356635814668664832",
+     "lic": "CC_BY-NC_4"
+    }
+   ],
+   "retrato": [
+    {
+     "a": "CHUNSOFT",
+     "lic": "Unspecified"
+    },
+    {
+     "a": "544245909639397378",
+     "lic": "PMDCollab_1"
+    }
+   ],
+   "vSprite": [
+    {
+     "a": "200385851069300736",
+     "lic": "PMDCollab_2"
+    },
+    {
+     "a": "356635814668664832",
+     "lic": "CC_BY-NC_4"
+    }
+   ],
+   "vRetrato": [
+    {
+     "a": "234720295292895232",
+     "lic": "PMDCollab_1"
+    },
+    {
+     "a": "544245909639397378",
+     "lic": "PMDCollab_1"
+    }
+   ]
+  },
+  "0077": {
+   "sprite": [
+    {
+     "a": "CHUNSOFT",
+     "lic": "Unspecified"
+    },
+    {
+     "a": "702275233125630042",
+     "lic": "CC_BY-NC_4"
+    }
+   ],
+   "retrato": [
+    {
+     "a": "CHUNSOFT",
+     "lic": "Unspecified"
+    },
+    {
+     "a": "544245909639397378",
+     "lic": "PMDCollab_1"
+    }
+   ],
+   "vSprite": [
+    {
+     "a": "234720295292895232",
+     "lic": "PMDCollab_1"
+    },
+    {
+     "a": "356635814668664832",
+     "lic": "PMDCollab_1"
+    },
+    {
+     "a": "356635814668664832",
+     "lic": "CC_BY-NC_4"
+    }
+   ],
+   "vRetrato": [
+    {
+     "a": "544245909639397378",
+     "lic": "PMDCollab_1"
+    }
+   ]
+  },
+  "0078": {
+   "sprite": [
+    {
+     "a": "CHUNSOFT",
+     "lic": "Unspecified"
+    }
+   ],
+   "retrato": [
+    {
+     "a": "CHUNSOFT",
+     "lic": "Unspecified"
+    },
+    {
+     "a": "555360707617488904",
+     "lic": "PMDCollab_1"
+    },
+    {
+     "a": "544245909639397378",
+     "lic": "CC_BY-NC_4"
+    }
+   ],
+   "vSprite": [
+    {
+     "a": "200385851069300736",
+     "lic": "PMDCollab_1"
+    },
+    {
+     "a": "217899432652308480",
+     "lic": "PMDCollab_1"
+    }
+   ],
+   "vRetrato": [
+    {
+     "a": "350050109741858829",
+     "lic": "PMDCollab_1"
+    },
+    {
+     "a": "544245909639397378",
+     "lic": "CC_BY-NC_4"
+    }
+   ]
+  },
+  "0081": {
+   "sprite": [
+    {
+     "a": "CHUNSOFT",
+     "lic": "Unspecified"
+    }
+   ],
+   "retrato": [
+    {
+     "a": "CHUNSOFT",
+     "lic": "Unspecified"
+    },
+    {
+     "a": "801938240562397194",
+     "lic": "PMDCollab_1"
+    },
+    {
+     "a": "237286997645983744",
+     "lic": "PMDCollab_1"
+    }
+   ],
+   "vSprite": [
+    {
+     "a": "200385851069300736",
+     "lic": "PMDCollab_1"
+    }
+   ],
+   "vRetrato": [
+    {
+     "a": "173896352554549248",
+     "lic": "PMDCollab_1"
+    },
+    {
+     "a": "801938240562397194",
+     "lic": "PMDCollab_1"
+    },
+    {
+     "a": "237286997645983744",
+     "lic": "PMDCollab_1"
+    }
+   ]
+  },
+  "0082": {
+   "sprite": [
+    {
+     "a": "CHUNSOFT",
+     "lic": "Unspecified"
+    }
+   ],
+   "retrato": [
+    {
+     "a": "CHUNSOFT",
+     "lic": "Unspecified"
+    },
+    {
+     "a": "262696514294513664",
+     "lic": "PMDCollab_1"
+    }
+   ],
+   "vSprite": [
+    {
+     "a": "200385851069300736",
+     "lic": "PMDCollab_1"
+    }
+   ],
+   "vRetrato": [
+    {
+     "a": "234720295292895232",
+     "lic": "PMDCollab_1"
+    },
+    {
+     "a": "593113130213572610",
+     "lic": "PMDCollab_1"
+    }
+   ]
+  },
+  "0086": {
+   "sprite": [
+    {
+     "a": "CHUNSOFT",
+     "lic": "Unspecified"
+    }
+   ],
+   "retrato": [
+    {
+     "a": "CHUNSOFT",
+     "lic": "Unspecified"
+    },
+    {
+     "a": "544245909639397378",
+     "lic": "PMDCollab_1"
+    }
+   ],
+   "vSprite": [
+    {
+     "a": "234720295292895232",
+     "lic": "PMDCollab_1"
+    }
+   ],
+   "vRetrato": [
+    {
+     "a": "234720295292895232",
+     "lic": "PMDCollab_1"
+    },
+    {
+     "a": "593113130213572610",
+     "lic": "PMDCollab_1"
+    },
+    {
+     "a": "356635814668664832",
+     "lic": "PMDCollab_1"
+    }
+   ]
+  },
+  "0087": {
+   "sprite": [
+    {
+     "a": "CHUNSOFT",
+     "lic": "Unspecified"
+    }
+   ],
+   "retrato": [
+    {
+     "a": "CHUNSOFT",
+     "lic": "Unspecified"
+    },
+    {
+     "a": "401608319762038794",
+     "lic": "PMDCollab_1"
+    },
+    {
+     "a": "401608319762038794",
+     "lic": "PMDCollab_2"
+    }
+   ],
+   "vSprite": [
+    {
+     "a": "234720295292895232",
+     "lic": "PMDCollab_1"
+    }
+   ],
+   "vRetrato": [
+    {
+     "a": "193530896211509248",
+     "lic": "PMDCollab_2"
+    }
+   ]
+  },
+  "0092": {
+   "sprite": [
+    {
+     "a": "CHUNSOFT",
+     "lic": "Unspecified"
+    }
+   ],
+   "retrato": [
+    {
+     "a": "CHUNSOFT",
+     "lic": "Unspecified"
+    },
+    {
+     "a": "702275233125630042",
+     "lic": "PMDCollab_1"
+    }
+   ],
+   "vSprite": [
+    {
+     "a": "200385851069300736",
+     "lic": "PMDCollab_1"
+    },
+    {
+     "a": "576876006636519434",
+     "lic": "PMDCollab_1"
+    }
+   ],
+   "vRetrato": [
+    {
+     "a": "215699178553212929",
+     "lic": "PMDCollab_1"
+    },
+    {
+     "a": "200385851069300736",
+     "lic": "PMDCollab_1"
+    }
+   ]
+  },
+  "0093": {
+   "sprite": [
+    {
+     "a": "CHUNSOFT",
+     "lic": "Unspecified"
+    }
+   ],
+   "retrato": [
+    {
+     "a": "CHUNSOFT",
+     "lic": "Unspecified"
+    },
+    {
+     "a": "772726854188400641",
+     "lic": "PMDCollab_1"
+    }
+   ],
+   "vSprite": [
+    {
+     "a": "234720295292895232",
+     "lic": "PMDCollab_1"
+    }
+   ],
+   "vRetrato": [
+    {
+     "a": "276949114212712449",
+     "lic": "PMDCollab_1"
+    },
+    {
+     "a": "772726854188400641",
+     "lic": "PMDCollab_1"
+    },
+    {
+     "a": "593113130213572610",
+     "lic": "PMDCollab_1"
+    }
+   ]
+  },
+  "0094": {
+   "sprite": [
+    {
+     "a": "CHUNSOFT",
+     "lic": "Unspecified"
+    },
+    {
+     "a": "237286997645983744",
+     "lic": "PMDCollab_1"
+    }
+   ],
+   "retrato": [
+    {
+     "a": "CHUNSOFT",
+     "lic": "Unspecified"
+    }
+   ],
+   "vSprite": [
+    {
+     "a": "234720295292895232",
+     "lic": "PMDCollab_1"
+    },
+    {
+     "a": "237286997645983744",
+     "lic": "PMDCollab_1"
+    }
+   ],
+   "vRetrato": [
+    {
+     "a": "772726854188400641",
+     "lic": "PMDCollab_1"
+    }
+   ]
+  },
+  "0095": {
+   "sprite": [
+    {
+     "a": "CHUNSOFT",
+     "lic": "Unspecified"
+    }
+   ],
+   "retrato": [
+    {
+     "a": "CHUNSOFT",
+     "lic": "Unspecified"
+    },
+    {
+     "a": "544245909639397378",
+     "lic": "PMDCollab_1"
+    },
+    {
+     "a": "150308109489799169",
+     "lic": "CC_BY-NC_4"
+    }
+   ],
+   "vSprite": [
+    {
+     "a": "200385851069300736",
+     "lic": "PMDCollab_1"
+    }
+   ],
+   "vRetrato": [
+    {
+     "a": "276949114212712449",
+     "lic": "PMDCollab_1"
+    },
+    {
+     "a": "544245909639397378",
+     "lic": "PMDCollab_1"
+    }
+   ]
+  },
+  "0100": {
+   "sprite": [
+    {
+     "a": "CHUNSOFT",
+     "lic": "Unspecified"
+    },
+    {
+     "a": "237286997645983744",
+     "lic": "PMDCollab_1"
+    }
+   ],
+   "retrato": [
+    {
+     "a": "CHUNSOFT",
+     "lic": "Unspecified"
+    },
+    {
+     "a": "702275233125630042",
+     "lic": "PMDCollab_1"
+    }
+   ],
+   "vSprite": [
+    {
+     "a": "356635814668664832",
+     "lic": "PMDCollab_2"
+    }
+   ],
+   "vRetrato": [
+    {
+     "a": "234720295292895232",
+     "lic": "PMDCollab_1"
+    },
+    {
+     "a": "217899432652308480",
+     "lic": "PMDCollab_1"
+    }
+   ]
+  },
+  "0101": {
+   "sprite": [
+    {
+     "a": "CHUNSOFT",
+     "lic": "Unspecified"
+    }
+   ],
+   "retrato": [
+    {
+     "a": "CHUNSOFT",
+     "lic": "Unspecified"
+    },
+    {
+     "a": "772726854188400641",
+     "lic": "PMDCollab_1"
+    },
+    {
+     "a": "350050109741858829",
+     "lic": "PMDCollab_1"
+    }
+   ],
+   "vSprite": [
+    {
+     "a": "234720295292895232",
+     "lic": "PMDCollab_1"
+    },
+    {
+     "a": "217899432652308480",
+     "lic": "PMDCollab_1"
+    }
+   ],
+   "vRetrato": [
+    {
+     "a": "234720295292895232",
+     "lic": "PMDCollab_1"
+    },
+    {
+     "a": "772726854188400641",
+     "lic": "PMDCollab_1"
+    },
+    {
+     "a": "350050109741858829",
+     "lic": "PMDCollab_1"
+    }
+   ]
+  },
+  "0118": {
+   "sprite": [
+    {
+     "a": "CHUNSOFT",
+     "lic": "Unspecified"
+    }
+   ],
+   "retrato": [
+    {
+     "a": "CHUNSOFT",
+     "lic": "Unspecified"
+    },
+    {
+     "a": "544245909639397378",
+     "lic": "CC_BY-NC_4"
+    }
+   ],
+   "vSprite": [
+    {
+     "a": "234720295292895232",
+     "lic": "PMDCollab_1"
+    }
+   ],
+   "vRetrato": [
+    {
+     "a": "234720295292895232",
+     "lic": "PMDCollab_1"
+    },
+    {
+     "a": "356635814668664832",
+     "lic": "PMDCollab_2"
+    },
+    {
+     "a": "544245909639397378",
+     "lic": "CC_BY-NC_4"
+    }
+   ]
+  },
+  "0119": {
+   "sprite": [
+    {
+     "a": "CHUNSOFT",
+     "lic": "Unspecified"
+    }
+   ],
+   "retrato": [
+    {
+     "a": "CHUNSOFT",
+     "lic": "Unspecified"
+    }
+   ],
+   "vSprite": [
+    {
+     "a": "234720295292895232",
+     "lic": "PMDCollab_1"
+    }
+   ],
+   "vRetrato": [
+    {
+     "a": "234720295292895232",
+     "lic": "PMDCollab_1"
+    },
+    {
+     "a": "356635814668664832",
+     "lic": "PMDCollab_1"
+    }
+   ]
+  },
+  "0124": {
+   "sprite": [
+    {
+     "a": "CHUNSOFT",
+     "lic": "Unspecified"
+    }
+   ],
+   "retrato": [
+    {
+     "a": "CHUNSOFT",
+     "lic": "Unspecified"
+    }
+   ],
+   "vSprite": [
+    {
+     "a": "117780585635643396",
+     "lic": "PMDCollab_1"
+    },
+    {
+     "a": "576876006636519434",
+     "lic": "PMDCollab_1"
+    }
+   ],
+   "vRetrato": [
+    {
+     "a": "234720295292895232",
+     "lic": "PMDCollab_1"
+    },
+    {
+     "a": "576876006636519434",
+     "lic": "PMDCollab_1"
+    }
+   ]
+  },
+  "0125": {
+   "sprite": [
+    {
+     "a": "CHUNSOFT",
+     "lic": "Unspecified"
+    }
+   ],
+   "retrato": [
+    {
+     "a": "CHUNSOFT",
+     "lic": "Unspecified"
+    },
+    {
+     "a": "143644728230019072",
+     "lic": "CC_BY-NC_4"
+    }
+   ],
+   "vSprite": [
+    {
+     "a": "207188665959448576",
+     "lic": "PMDCollab_1"
+    }
+   ],
+   "vRetrato": [
+    {
+     "a": "215699178553212929",
+     "lic": "PMDCollab_1"
+    }
+   ]
+  },
+  "0126": {
+   "sprite": [
+    {
+     "a": "CHUNSOFT",
+     "lic": "Unspecified"
+    }
+   ],
+   "retrato": [
+    {
+     "a": "CHUNSOFT",
+     "lic": "Unspecified"
+    },
+    {
+     "a": "330751862590406656",
+     "lic": "CC_BY-NC_4"
+    }
+   ],
+   "vSprite": [
+    {
+     "a": "95650095034273792",
+     "lic": "PMDCollab_1"
+    }
+   ],
+   "vRetrato": [
+    {
+     "a": "234720295292895232",
+     "lic": "PMDCollab_1"
+    }
+   ]
+  },
+  "0129": {
+   "sprite": [
+    {
+     "a": "CHUNSOFT",
+     "lic": "Unspecified"
+    }
+   ],
+   "retrato": [
+    {
+     "a": "CHUNSOFT",
+     "lic": "Unspecified"
+    },
+    {
+     "a": "408301000445788180",
+     "lic": "PMDCollab_1"
+    }
+   ],
+   "vSprite": [
+    {
+     "a": "207188665959448576",
+     "lic": "PMDCollab_1"
+    },
+    {
+     "a": "217899432652308480",
+     "lic": "PMDCollab_1"
+    }
+   ],
+   "vRetrato": [
+    {
+     "a": "234720295292895232",
+     "lic": "PMDCollab_1"
+    },
+    {
+     "a": "408301000445788180",
+     "lic": "PMDCollab_1"
+    }
+   ]
+  },
+  "0130": {
+   "sprite": [
+    {
+     "a": "CHUNSOFT",
+     "lic": "Unspecified"
+    }
+   ],
+   "retrato": [
+    {
+     "a": "CHUNSOFT",
+     "lic": "Unspecified"
+    },
+    {
+     "a": "544245909639397378",
+     "lic": "CC_BY-NC_4"
+    }
+   ],
+   "vSprite": [
+    {
+     "a": "217899432652308480",
+     "lic": "CC_BY-NC_4"
+    },
+    {
+     "a": "356635814668664832",
+     "lic": "CC_BY-NC_4"
+    }
+   ],
+   "vRetrato": [
+    {
+     "a": "350050109741858829",
+     "lic": "CC_BY-NC_4"
+    },
+    {
+     "a": "108260609241423872",
+     "lic": "CC_BY-NC_4"
+    }
+   ]
+  },
+  "0133": {
+   "sprite": [
+    {
+     "a": "CHUNSOFT",
+     "lic": "Unspecified"
+    }
+   ],
+   "retrato": [
+    {
+     "a": "CHUNSOFT",
+     "lic": "Unspecified"
+    }
+   ],
+   "vSprite": [
+    {
+     "a": "544245909639397378",
+     "lic": "PMDCollab_1"
+    }
+   ],
+   "vRetrato": [
+    {
+     "a": "593113130213572610",
+     "lic": "PMDCollab_1"
+    }
+   ]
+  },
+  "0134": {
+   "sprite": [
+    {
+     "a": "CHUNSOFT",
+     "lic": "Unspecified"
+    }
+   ],
+   "retrato": [
+    {
+     "a": "CHUNSOFT",
+     "lic": "Unspecified"
+    },
+    {
+     "a": "544245909639397378",
+     "lic": "PMDCollab_1"
+    }
+   ],
+   "vSprite": [
+    {
+     "a": "356635814668664832",
+     "lic": "CC_BY-NC_4"
+    }
+   ],
+   "vRetrato": [
+    {
+     "a": "234720295292895232",
+     "lic": "PMDCollab_1"
+    },
+    {
+     "a": "237286997645983744",
+     "lic": "PMDCollab_1"
+    },
+    {
+     "a": "593113130213572610",
+     "lic": "PMDCollab_1"
+    }
+   ]
+  },
+  "0135": {
+   "sprite": [
+    {
+     "a": "CHUNSOFT",
+     "lic": "Unspecified"
+    },
+    {
+     "a": "474262233442942995",
+     "lic": "PMDCollab_1"
+    }
+   ],
+   "retrato": [
+    {
+     "a": "CHUNSOFT",
+     "lic": "Unspecified"
+    },
+    {
+     "a": "343150274795405314",
+     "lic": "PMDCollab_1"
+    },
+    {
+     "a": "544245909639397378",
+     "lic": "PMDCollab_1"
+    },
+    {
+     "a": "576876006636519434",
+     "lic": "PMDCollab_1"
+    },
+    {
+     "a": "544245909639397378",
+     "lic": "PMDCollab_2"
+    }
+   ],
+   "vSprite": [
+    {
+     "a": "95650095034273792",
+     "lic": "PMDCollab_1"
+    },
+    {
+     "a": "593113130213572610",
+     "lic": "PMDCollab_1"
+    }
+   ],
+   "vRetrato": [
+    {
+     "a": "544245909639397378",
+     "lic": "PMDCollab_1"
+    },
+    {
+     "a": "544245909639397378",
+     "lic": "PMDCollab_2"
+    }
+   ]
+  },
+  "0136": {
+   "sprite": [
+    {
+     "a": "CHUNSOFT",
+     "lic": "Unspecified"
+    },
+    {
+     "a": "722542425196724289",
+     "lic": "CC_BY-NC_4"
+    },
+    {
+     "a": "702275233125630042",
+     "lic": "CC_BY-NC_4"
+    }
+   ],
+   "retrato": [
+    {
+     "a": "CHUNSOFT",
+     "lic": "Unspecified"
+    },
+    {
+     "a": "544245909639397378",
+     "lic": "PMDCollab_1"
+    },
+    {
+     "a": "343150274795405314",
+     "lic": "PMDCollab_1"
+    },
+    {
+     "a": "576876006636519434",
+     "lic": "PMDCollab_1"
+    }
+   ],
+   "vSprite": [
+    {
+     "a": "234720295292895232",
+     "lic": "PMDCollab_1"
+    },
+    {
+     "a": "576876006636519434",
+     "lic": "PMDCollab_1"
+    },
+    {
+     "a": "228595807132057600",
+     "lic": "CC_BY-NC_4"
+    }
+   ],
+   "vRetrato": [
+    {
+     "a": "544245909639397378",
+     "lic": "PMDCollab_1"
+    }
+   ]
+  },
+  "0144": {
+   "sprite": [
+    {
+     "a": "CHUNSOFT",
+     "lic": "Unspecified"
+    }
+   ],
+   "retrato": [
+    {
+     "a": "CHUNSOFT",
+     "lic": "Unspecified"
+    }
+   ],
+   "vSprite": [
+    {
+     "a": "200385851069300736",
+     "lic": "CC_BY-NC_4"
+    },
+    {
+     "a": "356635814668664832",
+     "lic": "CC_BY-NC_4"
+    }
+   ],
+   "vRetrato": [
+    {
+     "a": "95650095034273792",
+     "lic": "PMDCollab_1"
+    }
+   ]
+  },
+  "0145": {
+   "sprite": [
+    {
+     "a": "CHUNSOFT",
+     "lic": "Unspecified"
+    }
+   ],
+   "retrato": [
+    {
+     "a": "CHUNSOFT",
+     "lic": "Unspecified"
+    }
+   ],
+   "vSprite": [
+    {
+     "a": "356635814668664832",
+     "lic": "CC_BY-NC_4"
+    }
+   ],
+   "vRetrato": [
+    {
+     "a": "234720295292895232",
+     "lic": "PMDCollab_1"
+    }
+   ]
+  },
+  "0146": {
+   "sprite": [
+    {
+     "a": "CHUNSOFT",
+     "lic": "Unspecified"
+    }
+   ],
+   "retrato": [
+    {
+     "a": "CHUNSOFT",
+     "lic": "Unspecified"
+    }
+   ],
+   "vSprite": [
+    {
+     "a": "356635814668664832",
+     "lic": "CC_BY-NC_4"
+    }
+   ],
+   "vRetrato": [
+    {
+     "a": "234720295292895232",
+     "lic": "PMDCollab_1"
+    }
+   ]
+  },
+  "0147": {
+   "sprite": [
+    {
+     "a": "CHUNSOFT",
+     "lic": "Unspecified"
+    },
+    {
+     "a": "702275233125630042",
+     "lic": "CC_BY-NC_4"
+    }
+   ],
+   "retrato": [
+    {
+     "a": "CHUNSOFT",
+     "lic": "Unspecified"
+    },
+    {
+     "a": "861005464682889266",
+     "lic": "PMDCollab_1"
+    }
+   ]
+  },
+  "0148": {
+   "sprite": [
+    {
+     "a": "CHUNSOFT",
+     "lic": "Unspecified"
+    }
+   ],
+   "retrato": [
+    {
+     "a": "CHUNSOFT",
+     "lic": "Unspecified"
+    },
+    {
+     "a": "356635814668664832",
+     "lic": "PMDCollab_1"
+    }
+   ]
+  },
+  "0149": {
+   "sprite": [
+    {
+     "a": "CHUNSOFT",
+     "lic": "Unspecified"
+    },
+    {
+     "a": "268261643178344448",
+     "lic": "CC_BY-NC_4"
+    },
+    {
+     "a": "157796074457661440",
+     "lic": "CC_BY-NC_4"
+    }
+   ],
+   "retrato": [
+    {
+     "a": "CHUNSOFT",
+     "lic": "Unspecified"
+    },
+    {
+     "a": "237286997645983744",
+     "lic": "PMDCollab_1"
+    },
+    {
+     "a": "141718238336778241",
+     "lic": "PMDCollab_1"
+    }
+   ]
+  },
+  "0150": {
+   "sprite": [
+    {
+     "a": "CHUNSOFT",
+     "lic": "Unspecified"
+    },
+    {
+     "a": "702275233125630042",
+     "lic": "PMDCollab_1"
+    }
+   ],
+   "retrato": [
+    {
+     "a": "CHUNSOFT",
+     "lic": "CC_BY-NC_4"
+    },
+    {
+     "a": "544245909639397378",
+     "lic": "CC_BY-NC_4"
+    }
+   ],
+   "vSprite": [
+    {
+     "a": "200385851069300736",
+     "lic": "PMDCollab_1"
+    },
+    {
+     "a": "702275233125630042",
+     "lic": "PMDCollab_1"
+    }
+   ],
+   "vRetrato": [
+    {
+     "a": "200318546750865418",
+     "lic": "PMDCollab_1"
+    },
+    {
+     "a": "217899432652308480",
+     "lic": "PMDCollab_1"
+    },
+    {
+     "a": "356187016054046723",
+     "lic": "CC_BY-NC_4"
+    }
+   ]
+  },
+  "0152": {
+   "sprite": [
+    {
+     "a": "CHUNSOFT",
+     "lic": "Unspecified"
+    }
+   ],
+   "retrato": [
+    {
+     "a": "CHUNSOFT",
+     "lic": "Unspecified"
+    },
+    {
+     "a": "544245909639397378",
+     "lic": "PMDCollab_1"
+    }
+   ],
+   "vSprite": [
+    {
+     "a": "232091727094218752",
+     "lic": "PMDCollab_1"
+    }
+   ],
+   "vRetrato": [
+    {
+     "a": "276949114212712449",
+     "lic": "PMDCollab_1"
+    },
+    {
+     "a": "593113130213572610",
+     "lic": "PMDCollab_1"
+    }
+   ]
+  },
+  "0153": {
+   "sprite": [
+    {
+     "a": "CHUNSOFT",
+     "lic": "Unspecified"
+    }
+   ],
+   "retrato": [
+    {
+     "a": "CHUNSOFT",
+     "lic": "Unspecified"
+    },
+    {
+     "a": "322382592202637322",
+     "lic": "PMDCollab_1"
+    },
+    {
+     "a": "322382592202637322",
+     "lic": "PMDCollab_2"
+    }
+   ],
+   "vSprite": [
+    {
+     "a": "356635814668664832",
+     "lic": "PMDCollab_2"
+    }
+   ],
+   "vRetrato": [
+    {
+     "a": "476409795239477248",
+     "lic": "PMDCollab_2"
+    }
+   ]
+  },
+  "0154": {
+   "sprite": [
+    {
+     "a": "CHUNSOFT",
+     "lic": "Unspecified"
+    }
+   ],
+   "retrato": [
+    {
+     "a": "CHUNSOFT",
+     "lic": "Unspecified"
+    },
+    {
+     "a": "327927398941196289",
+     "lic": "PMDCollab_1"
+    }
+   ],
+   "vSprite": [
+    {
+     "a": "157796074457661440",
+     "lic": "PMDCollab_2"
+    }
+   ],
+   "vRetrato": [
+    {
+     "a": "157796074457661440",
+     "lic": "PMDCollab_2"
+    }
+   ]
+  },
+  "0155": {
+   "sprite": [
+    {
+     "a": "CHUNSOFT",
+     "lic": "Unspecified"
+    }
+   ],
+   "retrato": [
+    {
+     "a": "CHUNSOFT",
+     "lic": "Unspecified"
+    }
+   ],
+   "vSprite": [
+    {
+     "a": "232091727094218752",
+     "lic": "PMDCollab_1"
+    }
+   ],
+   "vRetrato": [
+    {
+     "a": "276949114212712449",
+     "lic": "PMDCollab_1"
+    },
+    {
+     "a": "593113130213572610",
+     "lic": "PMDCollab_1"
+    }
+   ]
+  },
+  "0156": {
+   "sprite": [
+    {
+     "a": "CHUNSOFT",
+     "lic": "Unspecified"
+    },
+    {
+     "a": "702275233125630042",
+     "lic": "PMDCollab_1"
+    }
+   ],
+   "retrato": [
+    {
+     "a": "CHUNSOFT",
+     "lic": "Unspecified"
+    },
+    {
+     "a": "322382592202637322",
+     "lic": "PMDCollab_1"
+    }
+   ],
+   "vSprite": [
+    {
+     "a": "232091727094218752",
+     "lic": "PMDCollab_1"
+    },
+    {
+     "a": "702275233125630042",
+     "lic": "PMDCollab_1"
+    }
+   ],
+   "vRetrato": [
+    {
+     "a": "322382592202637322",
+     "lic": "PMDCollab_1"
+    },
+    {
+     "a": "593113130213572610",
+     "lic": "PMDCollab_1"
+    }
+   ]
+  },
+  "0157": {
+   "sprite": [
+    {
+     "a": "CHUNSOFT",
+     "lic": "Unspecified"
+    },
+    {
+     "a": "356635814668664832",
+     "lic": "PMDCollab_1"
+    },
+    {
+     "a": "356635814668664832",
+     "lic": "CC_BY-NC_4"
+    }
+   ],
+   "retrato": [
+    {
+     "a": "CHUNSOFT",
+     "lic": "Unspecified"
+    },
+    {
+     "a": "327927398941196289",
+     "lic": "PMDCollab_1"
+    }
+   ],
+   "vSprite": [
+    {
+     "a": "215638650434617345",
+     "lic": "PMDCollab_2"
+    },
+    {
+     "a": "356635814668664832",
+     "lic": "CC_BY-NC_4"
+    }
+   ],
+   "vRetrato": [
+    {
+     "a": "722565437925097613",
+     "lic": "PMDCollab_2"
+    }
+   ]
+  },
+  "0158": {
+   "sprite": [
+    {
+     "a": "CHUNSOFT",
+     "lic": "Unspecified"
+    }
+   ],
+   "retrato": [
+    {
+     "a": "CHUNSOFT",
+     "lic": "Unspecified"
+    }
+   ],
+   "vSprite": [
+    {
+     "a": "276949114212712449",
+     "lic": "PMDCollab_1"
+    }
+   ],
+   "vRetrato": [
+    {
+     "a": "276949114212712449",
+     "lic": "PMDCollab_1"
+    },
+    {
+     "a": "593113130213572610",
+     "lic": "PMDCollab_1"
+    }
+   ]
+  },
+  "0159": {
+   "sprite": [
+    {
+     "a": "CHUNSOFT",
+     "lic": "Unspecified"
+    }
+   ],
+   "retrato": [
+    {
+     "a": "CHUNSOFT",
+     "lic": "Unspecified"
+    },
+    {
+     "a": "322382592202637322",
+     "lic": "PMDCollab_1"
+    }
+   ],
+   "vSprite": [
+    {
+     "a": "117780585635643396",
+     "lic": "PMDCollab_1"
+    }
+   ],
+   "vRetrato": [
+    {
+     "a": "593113130213572610",
+     "lic": "PMDCollab_1"
+    }
+   ]
+  },
+  "0160": {
+   "sprite": [
+    {
+     "a": "CHUNSOFT",
+     "lic": "Unspecified"
+    }
+   ],
+   "retrato": [
+    {
+     "a": "CHUNSOFT",
+     "lic": "Unspecified"
+    },
+    {
+     "a": "217899432652308480",
+     "lic": "PMDCollab_1"
+    }
+   ],
+   "vSprite": [
+    {
+     "a": "117780585635643396",
+     "lic": "PMDCollab_1"
+    }
+   ],
+   "vRetrato": [
+    {
+     "a": "234720295292895232",
+     "lic": "PMDCollab_1"
+    },
+    {
+     "a": "217899432652308480",
+     "lic": "PMDCollab_1"
+    },
+    {
+     "a": "593113130213572610",
+     "lic": "PMDCollab_1"
+    }
+   ]
+  },
+  "0161": {
+   "sprite": [
+    {
+     "a": "CHUNSOFT",
+     "lic": "Unspecified"
+    },
+    {
+     "a": "356635814668664832",
+     "lic": "PMDCollab_2"
+    },
+    {
+     "a": "181900575934382081",
+     "lic": "CC_BY-NC_4"
+    }
+   ],
+   "retrato": [
+    {
+     "a": "CHUNSOFT",
+     "lic": "Unspecified"
+    },
+    {
+     "a": "702275233125630042",
+     "lic": "PMDCollab_1"
+    },
+    {
+     "a": "273958644788363265",
+     "lic": "PMDCollab_1"
+    },
+    {
+     "a": "356635814668664832",
+     "lic": "PMDCollab_1"
+    }
+   ]
+  },
+  "0162": {
+   "sprite": [
+    {
+     "a": "CHUNSOFT",
+     "lic": "Unspecified"
+    },
+    {
+     "a": "181900575934382081",
+     "lic": "CC_BY-NC_4"
+    }
+   ],
+   "retrato": [
+    {
+     "a": "CHUNSOFT",
+     "lic": "Unspecified"
+    },
+    {
+     "a": "739304144552198285",
+     "lic": "PMDCollab_1"
+    }
+   ]
+  },
+  "0163": {
+   "sprite": [
+    {
+     "a": "CHUNSOFT",
+     "lic": "Unspecified"
+    }
+   ],
+   "retrato": [
+    {
+     "a": "CHUNSOFT",
+     "lic": "Unspecified"
+    },
+    {
+     "a": "702275233125630042",
+     "lic": "PMDCollab_1"
+    }
+   ],
+   "vSprite": [
+    {
+     "a": "95650095034273792",
+     "lic": "PMDCollab_1"
+    },
+    {
+     "a": "217899432652308480",
+     "lic": "PMDCollab_1"
+    }
+   ],
+   "vRetrato": [
+    {
+     "a": "95650095034273792",
+     "lic": "PMDCollab_1"
+    },
+    {
+     "a": "702275233125630042",
+     "lic": "PMDCollab_1"
+    }
+   ]
+  },
+  "0164": {
+   "sprite": [
+    {
+     "a": "CHUNSOFT",
+     "lic": "Unspecified"
+    },
+    {
+     "a": "356635814668664832",
+     "lic": "CC_BY-NC_4"
+    }
+   ],
+   "retrato": [
+    {
+     "a": "CHUNSOFT",
+     "lic": "Unspecified"
+    },
+    {
+     "a": "350050109741858829",
+     "lic": "CC_BY-NC_4"
+    },
+    {
+     "a": "108260609241423872",
+     "lic": "CC_BY-NC_4"
+    }
+   ],
+   "vSprite": [
+    {
+     "a": "171030521009274881",
+     "lic": "PMDCollab_1"
+    },
+    {
+     "a": "217899432652308480",
+     "lic": "PMDCollab_1"
+    },
+    {
+     "a": "356635814668664832",
+     "lic": "CC_BY-NC_4"
+    }
+   ],
+   "vRetrato": [
+    {
+     "a": "95650095034273792",
+     "lic": "PMDCollab_1"
+    },
+    {
+     "a": "108260609241423872",
+     "lic": "CC_BY-NC_4"
+    }
+   ]
+  },
+  "0169": {
+   "sprite": [
+    {
+     "a": "CHUNSOFT",
+     "lic": "Unspecified"
+    }
+   ],
+   "retrato": [
+    {
+     "a": "CHUNSOFT",
+     "lic": "Unspecified"
+    },
+    {
+     "a": "770438729575563284",
+     "lic": "CC_BY-NC_4"
+    },
+    {
+     "a": "356635814668664832",
+     "lic": "CC_BY-NC_4"
+    }
+   ],
+   "vSprite": [
+    {
+     "a": "95638225439166464",
+     "lic": "PMDCollab_1"
+    }
+   ],
+   "vRetrato": [
+    {
+     "a": "356635814668664832",
+     "lic": "CC_BY-NC_4"
+    }
+   ]
+  },
+  "0172": {
+   "sprite": [
+    {
+     "a": "CHUNSOFT",
+     "lic": "Unspecified"
+    },
+    {
+     "a": "454421330058805251",
+     "lic": "PMDCollab_1"
+    },
+    {
+     "a": "454421330058805251",
+     "lic": "PMDCollab_2"
+    },
+    {
+     "a": "454421330058805251",
+     "lic": "CC_BY-NC_4"
+    }
+   ],
+   "retrato": [
+    {
+     "a": "CHUNSOFT",
+     "lic": "Unspecified"
+    },
+    {
+     "a": "322382592202637322",
+     "lic": "PMDCollab_1"
+    },
+    {
+     "a": "322382592202637322",
+     "lic": "PMDCollab_2"
+    }
+   ]
+  },
+  "0173": {
+   "sprite": [
+    {
+     "a": "CHUNSOFT",
+     "lic": "Unspecified"
+    }
+   ],
+   "retrato": [
+    {
+     "a": "CHUNSOFT",
+     "lic": "Unspecified"
+    },
+    {
+     "a": "702275233125630042",
+     "lic": "PMDCollab_1"
+    },
+    {
+     "a": "273958644788363265",
+     "lic": "PMDCollab_1"
+    },
+    {
+     "a": "544245909639397378",
+     "lic": "PMDCollab_2"
+    }
+   ],
+   "vSprite": [
+    {
+     "a": "200318546750865418",
+     "lic": "PMDCollab_1"
+    }
+   ],
+   "vRetrato": [
+    {
+     "a": "200318546750865418",
+     "lic": "PMDCollab_1"
+    },
+    {
+     "a": "593113130213572610",
+     "lic": "PMDCollab_1"
+    },
+    {
+     "a": "273958644788363265",
+     "lic": "PMDCollab_1"
+    },
+    {
+     "a": "702275233125630042",
+     "lic": "PMDCollab_1"
+    },
+    {
+     "a": "544245909639397378",
+     "lic": "PMDCollab_2"
+    }
+   ]
+  },
+  "0175": {
+   "sprite": [
+    {
+     "a": "CHUNSOFT",
+     "lic": "Unspecified"
+    }
+   ],
+   "retrato": [
+    {
+     "a": "CHUNSOFT",
+     "lic": "Unspecified"
+    },
+    {
+     "a": "702275233125630042",
+     "lic": "PMDCollab_1"
+    },
+    {
+     "a": "544245909639397378",
+     "lic": "PMDCollab_1"
+    }
+   ],
+   "vSprite": [
+    {
+     "a": "173896352554549248",
+     "lic": "PMDCollab_1"
+    }
+   ],
+   "vRetrato": [
+    {
+     "a": "173896352554549248",
+     "lic": "PMDCollab_1"
+    },
+    {
+     "a": "576876006636519434",
+     "lic": "PMDCollab_1"
+    }
+   ]
+  },
+  "0176": {
+   "sprite": [
+    {
+     "a": "CHUNSOFT",
+     "lic": "Unspecified"
+    },
+    {
+     "a": "356635814668664832",
+     "lic": "PMDCollab_1"
+    },
+    {
+     "a": "356635814668664832",
+     "lic": "CC_BY-NC_4"
+    }
+   ],
+   "retrato": [
+    {
+     "a": "CHUNSOFT",
+     "lic": "Unspecified"
+    },
+    {
+     "a": "356635814668664832",
+     "lic": "PMDCollab_1"
+    }
+   ],
+   "vSprite": [
+    {
+     "a": "356635814668664832",
+     "lic": "CC_BY-NC_4"
+    }
+   ],
+   "vRetrato": [
+    {
+     "a": "173896352554549248",
+     "lic": "PMDCollab_1"
+    },
+    {
+     "a": "356635814668664832",
+     "lic": "PMDCollab_1"
+    }
+   ]
+  },
+  "0182": {
+   "sprite": [
+    {
+     "a": "CHUNSOFT",
+     "lic": "Unspecified"
+    }
+   ],
+   "retrato": [
+    {
+     "a": "CHUNSOFT",
+     "lic": "Unspecified"
+    },
+    {
+     "a": "421379254077620225",
+     "lic": "PMDCollab_1"
+    }
+   ],
+   "vSprite": [
+    {
+     "a": "593113130213572610",
+     "lic": "PMDCollab_1"
+    }
+   ],
+   "vRetrato": [
+    {
+     "a": "234720295292895232",
+     "lic": "PMDCollab_1"
+    },
+    {
+     "a": "421379254077620225",
+     "lic": "PMDCollab_1"
+    }
+   ]
+  },
+  "0183": {
+   "sprite": [
+    {
+     "a": "CHUNSOFT",
+     "lic": "Unspecified"
+    },
+    {
+     "a": "702275233125630042",
+     "lic": "CC_BY-NC_4"
+    }
+   ],
+   "retrato": [
+    {
+     "a": "CHUNSOFT",
+     "lic": "Unspecified"
+    },
+    {
+     "a": "801938240562397194",
+     "lic": "PMDCollab_1"
+    },
+    {
+     "a": "JARLEYPENO",
+     "lic": "PMDCollab_1"
+    }
+   ],
+   "vSprite": [
+    {
+     "a": "234720295292895232",
+     "lic": "PMDCollab_1"
+    },
+    {
+     "a": "702275233125630042",
+     "lic": "CC_BY-NC_4"
+    }
+   ],
+   "vRetrato": [
+    {
+     "a": "593113130213572610",
+     "lic": "PMDCollab_1"
+    }
+   ]
+  },
+  "0184": {
+   "sprite": [
+    {
+     "a": "CHUNSOFT",
+     "lic": "Unspecified"
+    }
+   ],
+   "retrato": [
+    {
+     "a": "CHUNSOFT",
+     "lic": "Unspecified"
+    },
+    {
+     "a": "356635814668664832",
+     "lic": "PMDCollab_1"
+    },
+    {
+     "a": "576876006636519434",
+     "lic": "PMDCollab_1"
+    }
+   ],
+   "vSprite": [
+    {
+     "a": "95650095034273792",
+     "lic": "PMDCollab_1"
+    },
+    {
+     "a": "217899432652308480",
+     "lic": "PMDCollab_1"
+    }
+   ],
+   "vRetrato": [
+    {
+     "a": "95650095034273792",
+     "lic": "PMDCollab_1"
+    },
+    {
+     "a": "356635814668664832",
+     "lic": "PMDCollab_1"
+    }
+   ]
+  },
+  "0186": {
+   "sprite": [
+    {
+     "a": "CHUNSOFT",
+     "lic": "Unspecified"
+    }
+   ],
+   "retrato": [
+    {
+     "a": "CHUNSOFT",
+     "lic": "Unspecified"
+    },
+    {
+     "a": "330751862590406656",
+     "lic": "PMDCollab_2"
+    }
+   ],
+   "vSprite": [
+    {
+     "a": "234720295292895232",
+     "lic": "PMDCollab_1"
+    }
+   ],
+   "vRetrato": [
+    {
+     "a": "356635814668664832",
+     "lic": "CC_BY-NC_4"
+    }
+   ]
+  },
+  "0194": {
+   "sprite": [
+    {
+     "a": "CHUNSOFT",
+     "lic": "Unspecified"
+    },
+    {
+     "a": "330751862590406656",
+     "lic": "PMDCollab_2"
+    },
+    {
+     "a": "555919605265203232",
+     "lic": "PMDCollab_2"
+    },
+    {
+     "a": "402958234371227648",
+     "lic": "CC_BY-NC_4"
+    }
+   ],
+   "retrato": [
+    {
+     "a": "CHUNSOFT",
+     "lic": "Unspecified"
+    },
+    {
+     "a": "273594331577974785",
+     "lic": "PMDCollab_1"
+    },
+    {
+     "a": "356635814668664832",
+     "lic": "PMDCollab_1"
+    },
+    {
+     "a": "576876006636519434",
+     "lic": "PMDCollab_1"
+    }
+   ],
+   "vSprite": [
+    {
+     "a": "215699178553212929",
+     "lic": "PMDCollab_1"
+    },
+    {
+     "a": "330751862590406656",
+     "lic": "PMDCollab_2"
+    },
+    {
+     "a": "402958234371227648",
+     "lic": "CC_BY-NC_4"
+    }
+   ],
+   "vRetrato": [
+    {
+     "a": "200318546750865418",
+     "lic": "PMDCollab_1"
+    },
+    {
+     "a": "237286997645983744",
+     "lic": "PMDCollab_1"
+    },
+    {
+     "a": "356635814668664832",
+     "lic": "PMDCollab_1"
+    }
+   ]
+  },
+  "0195": {
+   "sprite": [
+    {
+     "a": "CHUNSOFT",
+     "lic": "Unspecified"
+    }
+   ],
+   "retrato": [
+    {
+     "a": "CHUNSOFT",
+     "lic": "CC_BY-NC_4"
+    },
+    {
+     "a": "356635814668664832",
+     "lic": "CC_BY-NC_4"
+    }
+   ],
+   "vSprite": [
+    {
+     "a": "200318546750865418",
+     "lic": "PMDCollab_1"
+    }
+   ],
+   "vRetrato": [
+    {
+     "a": "200318546750865418",
+     "lic": "PMDCollab_1"
+    },
+    {
+     "a": "356635814668664832",
+     "lic": "PMDCollab_1"
+    }
+   ]
+  },
+  "0196": {
+   "sprite": [
+    {
+     "a": "CHUNSOFT",
+     "lic": "Unspecified"
+    }
+   ],
+   "retrato": [
+    {
+     "a": "CHUNSOFT",
+     "lic": "Unspecified"
+    },
+    {
+     "a": "327927398941196289",
+     "lic": "PMDCollab_1"
+    },
+    {
+     "a": "544245909639397378",
+     "lic": "PMDCollab_2"
+    }
+   ],
+   "vSprite": [
+    {
+     "a": "95650095034273792",
+     "lic": "PMDCollab_1"
+    },
+    {
+     "a": "217899432652308480",
+     "lic": "PMDCollab_1"
+    },
+    {
+     "a": "544245909639397378",
+     "lic": "PMDCollab_1"
+    }
+   ],
+   "vRetrato": [
+    {
+     "a": "593113130213572610",
+     "lic": "PMDCollab_1"
+    },
+    {
+     "a": "544245909639397378",
+     "lic": "PMDCollab_2"
+    }
+   ]
+  },
+  "0197": {
+   "sprite": [
+    {
+     "a": "CHUNSOFT",
+     "lic": "Unspecified"
+    },
+    {
+     "a": "356635814668664832",
+     "lic": "PMDCollab_1"
+    },
+    {
+     "a": "356635814668664832",
+     "lic": "CC_BY-NC_4"
+    }
+   ],
+   "retrato": [
+    {
+     "a": "CHUNSOFT",
+     "lic": "Unspecified"
+    },
+    {
+     "a": "356635814668664832",
+     "lic": "PMDCollab_1"
+    }
+   ],
+   "vSprite": [
+    {
+     "a": "356635814668664832",
+     "lic": "CC_BY-NC_4"
+    }
+   ],
+   "vRetrato": [
+    {
+     "a": "215699178553212929",
+     "lic": "PMDCollab_1"
+    },
+    {
+     "a": "356635814668664832",
+     "lic": "PMDCollab_1"
+    }
+   ]
+  },
+  "0198": {
+   "sprite": [
+    {
+     "a": "CHUNSOFT",
+     "lic": "Unspecified"
+    },
+    {
+     "a": "177074597315870720",
+     "lic": "PMDCollab_1"
+    },
+    {
+     "a": "330751862590406656",
+     "lic": "PMDCollab_2"
+    }
+   ],
+   "retrato": [
+    {
+     "a": "CHUNSOFT",
+     "lic": "Unspecified"
+    },
+    {
+     "a": "544245909639397378",
+     "lic": "PMDCollab_1"
+    },
+    {
+     "a": "356635814668664832",
+     "lic": "PMDCollab_1"
+    }
+   ]
+  },
+  "0200": {
+   "sprite": [
+    {
+     "a": "CHUNSOFT",
+     "lic": "Unspecified"
+    },
+    {
+     "a": "237286997645983744",
+     "lic": "PMDCollab_1"
+    }
+   ],
+   "retrato": [
+    {
+     "a": "CHUNSOFT",
+     "lic": "Unspecified"
+    },
+    {
+     "a": "388709039678423040",
+     "lic": "PMDCollab_1"
+    },
+    {
+     "a": "593113130213572610",
+     "lic": "PMDCollab_2"
+    }
+   ],
+   "vSprite": [
+    {
+     "a": "356635814668664832",
+     "lic": "PMDCollab_2"
+    }
+   ],
+   "vRetrato": [
+    {
+     "a": "593113130213572610",
+     "lic": "PMDCollab_2"
+    }
+   ]
+  },
+  "0208": {
+   "sprite": [
+    {
+     "a": "CHUNSOFT",
+     "lic": "Unspecified"
+    }
+   ],
+   "retrato": [
+    {
+     "a": "CHUNSOFT",
+     "lic": "Unspecified"
+    }
+   ],
+   "vSprite": [
+    {
+     "a": "95650095034273792",
+     "lic": "PMDCollab_1"
+    }
+   ],
+   "vRetrato": [
+    {
+     "a": "95650095034273792",
+     "lic": "PMDCollab_1"
+    }
+   ]
+  },
+  "0215": {
+   "sprite": [
+    {
+     "a": "CHUNSOFT",
+     "lic": "Unspecified"
+    },
+    {
+     "a": "702275233125630042",
+     "lic": "PMDCollab_1"
+    },
+    {
+     "a": "217653022094786560",
+     "lic": "CC_BY-NC_4"
+    },
+    {
+     "a": "702275233125630042",
+     "lic": "CC_BY-NC_4"
+    }
+   ],
+   "retrato": [
+    {
+     "a": "CHUNSOFT",
+     "lic": "Unspecified"
+    },
+    {
+     "a": "411407718839222272",
+     "lic": "PMDCollab_1"
+    }
+   ]
+  },
+  "0218": {
+   "sprite": [
+    {
+     "a": "CHUNSOFT",
+     "lic": "Unspecified"
+    }
+   ],
+   "retrato": [
+    {
+     "a": "CHUNSOFT",
+     "lic": "Unspecified"
+    },
+    {
+     "a": "702275233125630042",
+     "lic": "PMDCollab_1"
+    }
+   ],
+   "vSprite": [
+    {
+     "a": "95638225439166464",
+     "lic": "PMDCollab_1"
+    },
+    {
+     "a": "576876006636519434",
+     "lic": "PMDCollab_2"
+    }
+   ],
+   "vRetrato": [
+    {
+     "a": "593113130213572610",
+     "lic": "PMDCollab_1"
+    },
+    {
+     "a": "702275233125630042",
+     "lic": "PMDCollab_2"
+    },
+    {
+     "a": "215699178553212929",
+     "lic": "PMDCollab_2"
+    }
+   ]
+  },
+  "0219": {
+   "sprite": [
+    {
+     "a": "CHUNSOFT",
+     "lic": "Unspecified"
+    }
+   ],
+   "retrato": [
+    {
+     "a": "CHUNSOFT",
+     "lic": "Unspecified"
+    },
+    {
+     "a": "702275233125630042",
+     "lic": "PMDCollab_1"
+    }
+   ],
+   "vSprite": [
+    {
+     "a": "95650095034273792",
+     "lic": "PMDCollab_1"
+    }
+   ],
+   "vRetrato": [
+    {
+     "a": "215699178553212929",
+     "lic": "PMDCollab_1"
+    },
+    {
+     "a": "593113130213572610",
+     "lic": "PMDCollab_1"
+    }
+   ]
+  },
+  "0220": {
+   "sprite": [
+    {
+     "a": "CHUNSOFT",
+     "lic": "Unspecified"
+    },
+    {
+     "a": "330751862590406656",
+     "lic": "PMDCollab_2"
+    }
+   ],
+   "retrato": [
+    {
+     "a": "CHUNSOFT",
+     "lic": "Unspecified"
+    },
+    {
+     "a": "702275233125630042",
+     "lic": "PMDCollab_1"
+    }
+   ],
+   "vSprite": [
+    {
+     "a": "234720295292895232",
+     "lic": "PMDCollab_1"
+    },
+    {
+     "a": "330751862590406656",
+     "lic": "PMDCollab_2"
+    }
+   ],
+   "vRetrato": [
+    {
+     "a": "234720295292895232",
+     "lic": "PMDCollab_1"
+    },
+    {
+     "a": "593113130213572610",
+     "lic": "PMDCollab_1"
+    }
+   ]
+  },
+  "0221": {
+   "sprite": [
+    {
+     "a": "CHUNSOFT",
+     "lic": "Unspecified"
+    }
+   ],
+   "retrato": [
+    {
+     "a": "CHUNSOFT",
+     "lic": "Unspecified"
+    },
+    {
+     "a": "356635814668664832",
+     "lic": "CC_BY-NC_4"
+    }
+   ],
+   "vSprite": [
+    {
+     "a": "207188665959448576",
+     "lic": "PMDCollab_1"
+    }
+   ],
+   "vRetrato": [
+    {
+     "a": "356635814668664832",
+     "lic": "CC_BY-NC_4"
+    }
+   ]
+  },
+  "0228": {
+   "sprite": [
+    {
+     "a": "CHUNSOFT",
+     "lic": "Unspecified"
+    },
+    {
+     "a": "702275233125630042",
+     "lic": "PMDCollab_1"
+    }
+   ],
+   "retrato": [
+    {
+     "a": "CHUNSOFT",
+     "lic": "Unspecified"
+    },
+    {
+     "a": "861005464682889266",
+     "lic": "PMDCollab_1"
+    }
+   ],
+   "vSprite": [
+    {
+     "a": "200318546750865418",
+     "lic": "PMDCollab_1"
+    },
+    {
+     "a": "593113130213572610",
+     "lic": "PMDCollab_1"
+    }
+   ],
+   "vRetrato": [
+    {
+     "a": "200318546750865418",
+     "lic": "PMDCollab_1"
+    },
+    {
+     "a": "576876006636519434",
+     "lic": "PMDCollab_1"
+    }
+   ]
+  },
+  "0229": {
+   "sprite": [
+    {
+     "a": "CHUNSOFT",
+     "lic": "Unspecified"
+    }
+   ],
+   "retrato": [
+    {
+     "a": "CHUNSOFT",
+     "lic": "Unspecified"
+    },
+    {
+     "a": "772726854188400641",
+     "lic": "PMDCollab_1"
+    },
+    {
+     "a": "967585139485999154",
+     "lic": "PMDCollab_1"
+    },
+    {
+     "a": "593113130213572610",
+     "lic": "PMDCollab_2"
+    },
+    {
+     "a": "593113130213572610",
+     "lic": "CC_BY-NC_4"
+    }
+   ],
+   "vSprite": [
+    {
+     "a": "593113130213572610",
+     "lic": "PMDCollab_2"
+    }
+   ],
+   "vRetrato": [
+    {
+     "a": "356635814668664832",
+     "lic": "PMDCollab_1"
+    },
+    {
+     "a": "356635814668664832",
+     "lic": "CC_BY-NC_4"
+    }
+   ]
+  },
+  "0238": {
+   "sprite": [
+    {
+     "a": "CHUNSOFT",
+     "lic": "Unspecified"
+    },
+    {
+     "a": "544245909639397378",
+     "lic": "CC_BY-NC_4"
+    }
+   ],
+   "retrato": [
+    {
+     "a": "CHUNSOFT",
+     "lic": "CC_BY-NC_4"
+    },
+    {
+     "a": "861005464682889266",
+     "lic": "CC_BY-NC_4"
+    }
+   ],
+   "vSprite": [
+    {
+     "a": "95650095034273792",
+     "lic": "PMDCollab_1"
+    },
+    {
+     "a": "544245909639397378",
+     "lic": "CC_BY-NC_4"
+    }
+   ],
+   "vRetrato": [
+    {
+     "a": "95650095034273792",
+     "lic": "PMDCollab_1"
+    },
+    {
+     "a": "593113130213572610",
+     "lic": "PMDCollab_1"
+    }
+   ]
+  },
+  "0239": {
+   "sprite": [
+    {
+     "a": "CHUNSOFT",
+     "lic": "Unspecified"
+    }
+   ],
+   "retrato": [
+    {
+     "a": "CHUNSOFT",
+     "lic": "Unspecified"
+    },
+    {
+     "a": "ANGELS_SNACK",
+     "lic": "PMDCollab_1"
+    },
+    {
+     "a": "593113130213572610",
+     "lic": "PMDCollab_1"
+    }
+   ],
+   "vSprite": [
+    {
+     "a": "350050109741858829",
+     "lic": "PMDCollab_2"
+    }
+   ],
+   "vRetrato": [
+    {
+     "a": "350050109741858829",
+     "lic": "PMDCollab_2"
+    }
+   ]
+  },
+  "0240": {
+   "sprite": [
+    {
+     "a": "CHUNSOFT",
+     "lic": "Unspecified"
+    },
+    {
+     "a": "237286997645983744",
+     "lic": "PMDCollab_1"
+    },
+    {
+     "a": "237286997645983744",
+     "lic": "PMDCollab_2"
+    }
+   ],
+   "retrato": [
+    {
+     "a": "CHUNSOFT",
+     "lic": "Unspecified"
+    },
+    {
+     "a": "702275233125630042",
+     "lic": "PMDCollab_1"
+    }
+   ],
+   "vSprite": [
+    {
+     "a": "95650095034273792",
+     "lic": "PMDCollab_1"
+    },
+    {
+     "a": "237286997645983744",
+     "lic": "PMDCollab_1"
+    },
+    {
+     "a": "237286997645983744",
+     "lic": "PMDCollab_2"
+    }
+   ],
+   "vRetrato": [
+    {
+     "a": "95650095034273792",
+     "lic": "PMDCollab_1"
+    },
+    {
+     "a": "200385851069300736",
+     "lic": "PMDCollab_1"
+    }
+   ]
+  },
+  "0243": {
+   "sprite": [
+    {
+     "a": "CHUNSOFT",
+     "lic": "Unspecified"
+    }
+   ],
+   "retrato": [
+    {
+     "a": "CHUNSOFT",
+     "lic": "Unspecified"
+    },
+    {
+     "a": "224476380790915072",
+     "lic": "PMDCollab_1"
+    }
+   ],
+   "vSprite": [
+    {
+     "a": "356635814668664832",
+     "lic": "CC_BY-NC_4"
+    }
+   ],
+   "vRetrato": [
+    {
+     "a": "95638225439166464",
+     "lic": "PMDCollab_1"
+    },
+    {
+     "a": "224476380790915072",
+     "lic": "PMDCollab_1"
+    }
+   ]
+  },
+  "0244": {
+   "sprite": [
+    {
+     "a": "CHUNSOFT",
+     "lic": "Unspecified"
+    }
+   ],
+   "retrato": [
+    {
+     "a": "CHUNSOFT",
+     "lic": "Unspecified"
+    },
+    {
+     "a": "276369635304275968",
+     "lic": "CC_BY-NC_4"
+    }
+   ],
+   "vSprite": [
+    {
+     "a": "356635814668664832",
+     "lic": "CC_BY-NC_4"
+    }
+   ],
+   "vRetrato": [
+    {
+     "a": "350050109741858829",
+     "lic": "PMDCollab_1"
+    },
+    {
+     "a": "276369635304275968",
+     "lic": "CC_BY-NC_4"
+    }
+   ]
+  },
+  "0245": {
+   "sprite": [
+    {
+     "a": "CHUNSOFT",
+     "lic": "Unspecified"
+    }
+   ],
+   "retrato": [
+    {
+     "a": "CHUNSOFT",
+     "lic": "Unspecified"
+    },
+    {
+     "a": "356635814668664832",
+     "lic": "PMDCollab_1"
+    }
+   ],
+   "vSprite": [
+    {
+     "a": "95650095034273792",
+     "lic": "CC_BY-NC_4"
+    }
+   ],
+   "vRetrato": [
+    {
+     "a": "95650095034273792",
+     "lic": "PMDCollab_1"
+    },
+    {
+     "a": "356635814668664832",
+     "lic": "PMDCollab_1"
+    }
+   ]
+  },
+  "0246": {
+   "sprite": [
+    {
+     "a": "CHUNSOFT",
+     "lic": "Unspecified"
+    },
+    {
+     "a": "702275233125630042",
+     "lic": "PMDCollab_1"
+    }
+   ],
+   "retrato": [
+    {
+     "a": "CHUNSOFT",
+     "lic": "Unspecified"
+    },
+    {
+     "a": "356635814668664832",
+     "lic": "PMDCollab_1"
+    }
+   ],
+   "vSprite": [
+    {
+     "a": "95650095034273792",
+     "lic": "PMDCollab_1"
+    },
+    {
+     "a": "702275233125630042",
+     "lic": "PMDCollab_1"
+    }
+   ],
+   "vRetrato": [
+    {
+     "a": "95650095034273792",
+     "lic": "PMDCollab_1"
+    },
+    {
+     "a": "356635814668664832",
+     "lic": "PMDCollab_1"
+    }
+   ]
+  },
+  "0247": {
+   "sprite": [
+    {
+     "a": "CHUNSOFT",
+     "lic": "Unspecified"
+    }
+   ],
+   "retrato": [
+    {
+     "a": "CHUNSOFT",
+     "lic": "Unspecified"
+    }
+   ],
+   "vSprite": [
+    {
+     "a": "234720295292895232",
+     "lic": "PMDCollab_1"
+    }
+   ],
+   "vRetrato": [
+    {
+     "a": "95650095034273792",
+     "lic": "PMDCollab_1"
+    }
+   ]
+  },
+  "0248": {
+   "sprite": [
+    {
+     "a": "CHUNSOFT",
+     "lic": "Unspecified"
+    }
+   ],
+   "retrato": [
+    {
+     "a": "CHUNSOFT",
+     "lic": "Unspecified"
+    },
+    {
+     "a": "779213287576436746",
+     "lic": "PMDCollab_1"
+    }
+   ],
+   "vSprite": [
+    {
+     "a": "215699178553212929",
+     "lic": "PMDCollab_2"
+    }
+   ],
+   "vRetrato": [
+    {
+     "a": "95650095034273792",
+     "lic": "PMDCollab_1"
+    },
+    {
+     "a": "157796074457661440",
+     "lic": "CC_BY-NC_4"
+    }
+   ]
+  },
+  "0252": {
+   "sprite": [
+    {
+     "a": "CHUNSOFT",
+     "lic": "Unspecified"
+    }
+   ],
+   "retrato": [
+    {
+     "a": "CHUNSOFT",
+     "lic": "Unspecified"
+    }
+   ],
+   "vSprite": [
+    {
+     "a": "91001329228464128",
+     "lic": "PMDCollab_1"
+    },
+    {
+     "a": "593113130213572610",
+     "lic": "PMDCollab_1"
+    }
+   ],
+   "vRetrato": [
+    {
+     "a": "173896352554549248",
+     "lic": "PMDCollab_1"
+    },
+    {
+     "a": "593113130213572610",
+     "lic": "PMDCollab_1"
+    }
+   ]
+  },
+  "0253": {
+   "sprite": [
+    {
+     "a": "CHUNSOFT",
+     "lic": "Unspecified"
+    },
+    {
+     "a": "157796074457661440",
+     "lic": "PMDCollab_2"
+    },
+    {
+     "a": "702275233125630042",
+     "lic": "CC_BY-NC_4"
+    }
+   ],
+   "retrato": [
+    {
+     "a": "CHUNSOFT",
+     "lic": "Unspecified"
+    },
+    {
+     "a": "544245909639397378",
+     "lic": "PMDCollab_1"
+    }
+   ],
+   "vSprite": [
+    {
+     "a": "593113130213572610",
+     "lic": "PMDCollab_2"
+    },
+    {
+     "a": "157796074457661440",
+     "lic": "PMDCollab_2"
+    },
+    {
+     "a": "91001329228464128",
+     "lic": "CC_BY-NC_4"
+    },
+    {
+     "a": "593113130213572610",
+     "lic": "CC_BY-NC_4"
+    }
+   ],
+   "vRetrato": [
+    {
+     "a": "433058189240696835",
+     "lic": "PMDCollab_1"
+    },
+    {
+     "a": "476409795239477248",
+     "lic": "PMDCollab_2"
+    },
+    {
+     "a": "157796074457661440",
+     "lic": "CC_BY-NC_4"
+    }
+   ]
+  },
+  "0254": {
+   "sprite": [
+    {
+     "a": "CHUNSOFT",
+     "lic": "Unspecified"
+    }
+   ],
+   "retrato": [
+    {
+     "a": "CHUNSOFT",
+     "lic": "Unspecified"
+    },
+    {
+     "a": "327927398941196289",
+     "lic": "PMDCollab_1"
+    },
+    {
+     "a": "544245909639397378",
+     "lic": "PMDCollab_1"
+    }
+   ],
+   "vSprite": [
+    {
+     "a": "95650095034273792",
+     "lic": "PMDCollab_1"
+    },
+    {
+     "a": "356635814668664832",
+     "lic": "CC_BY-NC_4"
+    }
+   ],
+   "vRetrato": [
+    {
+     "a": "157796074457661440",
+     "lic": "CC_BY-NC_4"
+    }
+   ]
+  },
+  "0255": {
+   "sprite": [
+    {
+     "a": "CHUNSOFT",
+     "lic": "Unspecified"
+    }
+   ],
+   "retrato": [
+    {
+     "a": "CHUNSOFT",
+     "lic": "Unspecified"
+    }
+   ],
+   "vSprite": [
+    {
+     "a": "276949114212712449",
+     "lic": "PMDCollab_1"
+    }
+   ],
+   "vRetrato": [
+    {
+     "a": "276949114212712449",
+     "lic": "PMDCollab_1"
+    },
+    {
+     "a": "593113130213572610",
+     "lic": "PMDCollab_1"
+    }
+   ]
+  },
+  "0256": {
+   "sprite": [
+    {
+     "a": "CHUNSOFT",
+     "lic": "Unspecified"
+    }
+   ],
+   "retrato": [
+    {
+     "a": "CHUNSOFT",
+     "lic": "Unspecified"
+    },
+    {
+     "a": "702275233125630042",
+     "lic": "PMDCollab_1"
+    },
+    {
+     "a": "230913498916323329",
+     "lic": "CC_BY-NC_4"
+    }
+   ],
+   "vSprite": [
+    {
+     "a": "276949114212712449",
+     "lic": "PMDCollab_1"
+    },
+    {
+     "a": "593113130213572610",
+     "lic": "PMDCollab_1"
+    }
+   ],
+   "vRetrato": [
+    {
+     "a": "593113130213572610",
+     "lic": "PMDCollab_1"
+    },
+    {
+     "a": "1377429093997477928",
+     "lic": "CC_BY-NC_4"
+    }
+   ]
+  },
+  "0257": {
+   "sprite": [
+    {
+     "a": "CHUNSOFT",
+     "lic": "Unspecified"
+    }
+   ],
+   "retrato": [
+    {
+     "a": "CHUNSOFT",
+     "lic": "Unspecified"
+    },
+    {
+     "a": "217899432652308480",
+     "lic": "PMDCollab_1"
+    }
+   ],
+   "vSprite": [
+    {
+     "a": "544245909639397378",
+     "lic": "PMDCollab_2"
+    }
+   ],
+   "vRetrato": [
+    {
+     "a": "217899432652308480",
+     "lic": "PMDCollab_1"
+    }
+   ]
+  },
+  "0258": {
+   "sprite": [
+    {
+     "a": "CHUNSOFT",
+     "lic": "Unspecified"
+    }
+   ],
+   "retrato": [
+    {
+     "a": "CHUNSOFT",
+     "lic": "Unspecified"
+    }
+   ],
+   "vSprite": [
+    {
+     "a": "200318546750865418",
+     "lic": "PMDCollab_1"
+    }
+   ],
+   "vRetrato": [
+    {
+     "a": "276949114212712449",
+     "lic": "PMDCollab_1"
+    },
+    {
+     "a": "593113130213572610",
+     "lic": "PMDCollab_1"
+    }
+   ]
+  },
+  "0259": {
+   "sprite": [
+    {
+     "a": "CHUNSOFT",
+     "lic": "Unspecified"
+    }
+   ],
+   "retrato": [
+    {
+     "a": "CHUNSOFT",
+     "lic": "Unspecified"
+    },
+    {
+     "a": "322382592202637322",
+     "lic": "PMDCollab_1"
+    }
+   ],
+   "vSprite": [
+    {
+     "a": "200318546750865418",
+     "lic": "PMDCollab_1"
+    }
+   ],
+   "vRetrato": [
+    {
+     "a": "200318546750865418",
+     "lic": "PMDCollab_1"
+    },
+    {
+     "a": "322382592202637322",
+     "lic": "PMDCollab_1"
+    }
+   ]
+  },
+  "0260": {
+   "sprite": [
+    {
+     "a": "CHUNSOFT",
+     "lic": "Unspecified"
+    },
+    {
+     "a": "356635814668664832",
+     "lic": "PMDCollab_1"
+    }
+   ],
+   "retrato": [
+    {
+     "a": "CHUNSOFT",
+     "lic": "CC_BY-NC_4"
+    },
+    {
+     "a": "356635814668664832",
+     "lic": "CC_BY-NC_4"
+    }
+   ],
+   "vSprite": [
+    {
+     "a": "200318546750865418",
+     "lic": "PMDCollab_1"
+    },
+    {
+     "a": "356635814668664832",
+     "lic": "PMDCollab_1"
+    }
+   ],
+   "vRetrato": [
+    {
+     "a": "200318546750865418",
+     "lic": "PMDCollab_1"
+    },
+    {
+     "a": "356635814668664832",
+     "lic": "PMDCollab_1"
+    },
+    {
+     "a": "356635814668664832",
+     "lic": "PMDCollab_2"
+    }
+   ]
+  },
+  "0265": {
+   "sprite": [
+    {
+     "a": "CHUNSOFT",
+     "lic": "Unspecified"
+    }
+   ],
+   "retrato": [
+    {
+     "a": "CHUNSOFT",
+     "lic": "Unspecified"
+    },
+    {
+     "a": "229363481852379136",
+     "lic": "PMDCollab_1"
+    }
+   ],
+   "vSprite": [
+    {
+     "a": "527611425670037516",
+     "lic": "PMDCollab_1"
+    }
+   ],
+   "vRetrato": [
+    {
+     "a": "200318546750865418",
+     "lic": "PMDCollab_1"
+    },
+    {
+     "a": "229363481852379136",
+     "lic": "PMDCollab_1"
+    }
+   ]
+  },
+  "0266": {
+   "sprite": [
+    {
+     "a": "CHUNSOFT",
+     "lic": "Unspecified"
+    }
+   ],
+   "retrato": [
+    {
+     "a": "CHUNSOFT",
+     "lic": "Unspecified"
+    },
+    {
+     "a": "228595807132057600",
+     "lic": "PMDCollab_2"
+    }
+   ],
+   "vSprite": [
+    {
+     "a": "234720295292895232",
+     "lic": "PMDCollab_1"
+    }
+   ],
+   "vRetrato": [
+    {
+     "a": "234720295292895232",
+     "lic": "PMDCollab_1"
+    },
+    {
+     "a": "108260609241423872",
+     "lic": "CC_BY-NC_4"
+    }
+   ]
+  },
+  "0267": {
+   "sprite": [
+    {
+     "a": "CHUNSOFT",
+     "lic": "Unspecified"
+    }
+   ],
+   "retrato": [
+    {
+     "a": "CHUNSOFT",
+     "lic": "Unspecified"
+    },
+    {
+     "a": "330751862590406656",
+     "lic": "PMDCollab_1"
+    },
+    {
+     "a": "330751862590406656",
+     "lic": "PMDCollab_2"
+    }
+   ],
+   "vSprite": [
+    {
+     "a": "200318546750865418",
+     "lic": "PMDCollab_1"
+    }
+   ],
+   "vRetrato": [
+    {
+     "a": "200318546750865418",
+     "lic": "PMDCollab_1"
+    },
+    {
+     "a": "593113130213572610",
+     "lic": "PMDCollab_2"
+    }
+   ]
+  },
+  "0268": {
+   "sprite": [
+    {
+     "a": "CHUNSOFT",
+     "lic": "Unspecified"
+    }
+   ],
+   "retrato": [
+    {
+     "a": "CHUNSOFT",
+     "lic": "Unspecified"
+    }
+   ],
+   "vSprite": [
+    {
+     "a": "234720295292895232",
+     "lic": "PMDCollab_1"
+    }
+   ],
+   "vRetrato": [
+    {
+     "a": "234720295292895232",
+     "lic": "PMDCollab_1"
+    }
+   ]
+  },
+  "0269": {
+   "sprite": [
+    {
+     "a": "CHUNSOFT",
+     "lic": "Unspecified"
+    }
+   ],
+   "retrato": [
+    {
+     "a": "CHUNSOFT",
+     "lic": "Unspecified"
+    },
+    {
+     "a": "330751862590406656",
+     "lic": "CC_BY-NC_4"
+    }
+   ],
+   "vSprite": [
+    {
+     "a": "330751862590406656",
+     "lic": "PMDCollab_2"
+    }
+   ],
+   "vRetrato": [
+    {
+     "a": "200318546750865418",
+     "lic": "PMDCollab_1"
+    },
+    {
+     "a": "356187016054046723",
+     "lic": "CC_BY-NC_4"
+    }
+   ]
+  },
+  "0270": {
+   "sprite": [
+    {
+     "a": "CHUNSOFT",
+     "lic": "Unspecified"
+    }
+   ],
+   "retrato": [
+    {
+     "a": "CHUNSOFT",
+     "lic": "Unspecified"
+    },
+    {
+     "a": "136476806055198720",
+     "lic": "PMDCollab_1"
+    },
+    {
+     "a": "593113130213572610",
+     "lic": "PMDCollab_1"
+    },
+    {
+     "a": "593113130213572610",
+     "lic": "PMDCollab_2"
+    }
+   ],
+   "vSprite": [
+    {
+     "a": "350050109741858829",
+     "lic": "CC_BY-NC_4"
+    }
+   ],
+   "vRetrato": [
+    {
+     "a": "593113130213572610",
+     "lic": "PMDCollab_1"
+    },
+    {
+     "a": "593113130213572610",
+     "lic": "PMDCollab_2"
+    }
+   ]
+  },
+  "0271": {
+   "sprite": [
+    {
+     "a": "CHUNSOFT",
+     "lic": "Unspecified"
+    }
+   ],
+   "retrato": [
+    {
+     "a": "CHUNSOFT",
+     "lic": "Unspecified"
+    },
+    {
+     "a": "544245909639397378",
+     "lic": "PMDCollab_1"
+    },
+    {
+     "a": "861005464682889266",
+     "lic": "PMDCollab_1"
+    }
+   ],
+   "vSprite": [
+    {
+     "a": "593113130213572610",
+     "lic": "PMDCollab_2"
+    }
+   ],
+   "vRetrato": [
+    {
+     "a": "593113130213572610",
+     "lic": "PMDCollab_1"
+    },
+    {
+     "a": "593113130213572610",
+     "lic": "PMDCollab_2"
+    }
+   ]
+  },
+  "0272": {
+   "sprite": [
+    {
+     "a": "CHUNSOFT",
+     "lic": "Unspecified"
+    }
+   ],
+   "retrato": [
+    {
+     "a": "CHUNSOFT",
+     "lic": "Unspecified"
+    }
+   ],
+   "vSprite": [
+    {
+     "a": "593113130213572610",
+     "lic": "PMDCollab_2"
+    }
+   ],
+   "vRetrato": [
+    {
+     "a": "593113130213572610",
+     "lic": "PMDCollab_2"
+    }
+   ]
+  },
+  "0278": {
+   "sprite": [
+    {
+     "a": "CHUNSOFT",
+     "lic": "Unspecified"
+    }
+   ],
+   "retrato": [
+    {
+     "a": "CHUNSOFT",
+     "lic": "Unspecified"
+    },
+    {
+     "a": "188463527089012737",
+     "lic": "CC_BY-NC_4"
+    }
+   ],
+   "vSprite": [
+    {
+     "a": "234720295292895232",
+     "lic": "PMDCollab_1"
+    }
+   ],
+   "vRetrato": [
+    {
+     "a": "188463527089012737",
+     "lic": "CC_BY-NC_4"
+    }
+   ]
+  },
+  "0279": {
+   "sprite": [
+    {
+     "a": "CHUNSOFT",
+     "lic": "Unspecified"
+    }
+   ],
+   "retrato": [
+    {
+     "a": "CHUNSOFT",
+     "lic": "Unspecified"
+    },
+    {
+     "a": "544245909639397378",
+     "lic": "CC_BY-NC_4"
+    },
+    {
+     "a": "330751862590406656",
+     "lic": "CC_BY-NC_4"
+    }
+   ],
+   "vSprite": [
+    {
+     "a": "593113130213572610",
+     "lic": "PMDCollab_2"
+    }
+   ],
+   "vRetrato": [
+    {
+     "a": "593113130213572610",
+     "lic": "PMDCollab_2"
+    }
+   ]
+  },
+  "0280": {
+   "sprite": [
+    {
+     "a": "CHUNSOFT",
+     "lic": "Unspecified"
+    },
+    {
+     "a": "702275233125630042",
+     "lic": "PMDCollab_1"
+    },
+    {
+     "a": "319945906600411179",
+     "lic": "PMDCollab_1"
+    }
+   ],
+   "retrato": [
+    {
+     "a": "CHUNSOFT",
+     "lic": "Unspecified"
+    },
+    {
+     "a": "544245909639397378",
+     "lic": "PMDCollab_1"
+    }
+   ],
+   "vSprite": [
+    {
+     "a": "276949114212712449",
+     "lic": "PMDCollab_1"
+    },
+    {
+     "a": "593113130213572610",
+     "lic": "PMDCollab_1"
+    },
+    {
+     "a": "593113130213572610",
+     "lic": "CC_BY-NC_4"
+    }
+   ],
+   "vRetrato": [
+    {
+     "a": "593113130213572610",
+     "lic": "PMDCollab_1"
+    }
+   ]
+  },
+  "0281": {
+   "sprite": [
+    {
+     "a": "CHUNSOFT",
+     "lic": "Unspecified"
+    },
+    {
+     "a": "702275233125630042",
+     "lic": "PMDCollab_1"
+    }
+   ],
+   "retrato": [
+    {
+     "a": "CHUNSOFT",
+     "lic": "Unspecified"
+    },
+    {
+     "a": "772726854188400641",
+     "lic": "PMDCollab_2"
+    }
+   ],
+   "vSprite": [
+    {
+     "a": "702275233125630042",
+     "lic": "PMDCollab_1"
+    },
+    {
+     "a": "593113130213572610",
+     "lic": "CC_BY-NC_4"
+    }
+   ],
+   "vRetrato": [
+    {
+     "a": "772726854188400641",
+     "lic": "PMDCollab_2"
+    }
+   ]
+  },
+  "0282": {
+   "sprite": [
+    {
+     "a": "CHUNSOFT",
+     "lic": "Unspecified"
+    }
+   ],
+   "retrato": [
+    {
+     "a": "CHUNSOFT",
+     "lic": "Unspecified"
+    },
+    {
+     "a": "356635814668664832",
+     "lic": "CC_BY-NC_4"
+    }
+   ],
+   "vSprite": [
+    {
+     "a": "593113130213572610",
+     "lic": "PMDCollab_1"
+    },
+    {
+     "a": "593113130213572610",
+     "lic": "CC_BY-NC_4"
+    }
+   ],
+   "vRetrato": [
+    {
+     "a": "356635814668664832",
+     "lic": "CC_BY-NC_4"
+    }
+   ]
+  },
+  "0296": {
+   "sprite": [
+    {
+     "a": "CHUNSOFT",
+     "lic": "Unspecified"
+    },
+    {
+     "a": "275075929905168384",
+     "lic": "CC_BY-NC_4"
+    }
+   ],
+   "retrato": [
+    {
+     "a": "CHUNSOFT",
+     "lic": "Unspecified"
+    },
+    {
+     "a": "544245909639397378",
+     "lic": "PMDCollab_1"
+    }
+   ],
+   "vSprite": [
+    {
+     "a": "356635814668664832",
+     "lic": "CC_BY-NC_4"
+    }
+   ],
+   "vRetrato": [
+    {
+     "a": "593113130213572610",
+     "lic": "PMDCollab_1"
+    }
+   ]
+  },
+  "0297": {
+   "sprite": [
+    {
+     "a": "CHUNSOFT",
+     "lic": "Unspecified"
+    }
+   ],
+   "retrato": [
+    {
+     "a": "CHUNSOFT",
+     "lic": "Unspecified"
+    }
+   ],
+   "vSprite": [
+    {
+     "a": "276949114212712449",
+     "lic": "PMDCollab_1"
+    }
+   ],
+   "vRetrato": [
+    {
+     "a": "276949114212712449",
+     "lic": "PMDCollab_1"
+    }
+   ]
+  },
+  "0298": {
+   "sprite": [
+    {
+     "a": "CHUNSOFT",
+     "lic": "Unspecified"
+    }
+   ],
+   "retrato": [
+    {
+     "a": "CHUNSOFT",
+     "lic": "Unspecified"
+    },
+    {
+     "a": "225813236589527041",
+     "lic": "PMDCollab_1"
+    }
+   ],
+   "vSprite": [
+    {
+     "a": "576876006636519434",
+     "lic": "PMDCollab_1"
+    }
+   ],
+   "vRetrato": [
+    {
+     "a": "593113130213572610",
+     "lic": "PMDCollab_1"
+    }
+   ]
+  },
+  "0304": {
+   "sprite": [
+    {
+     "a": "CHUNSOFT",
+     "lic": "Unspecified"
+    },
+    {
+     "a": "237286997645983744",
+     "lic": "PMDCollab_1"
+    }
+   ],
+   "retrato": [
+    {
+     "a": "CHUNSOFT",
+     "lic": "Unspecified"
+    },
+    {
+     "a": "589906152708505648",
+     "lic": "PMDCollab_1"
+    },
+    {
+     "a": "593113130213572610",
+     "lic": "PMDCollab_2"
+    }
+   ],
+   "vSprite": [
+    {
+     "a": "237286997645983744",
+     "lic": "PMDCollab_1"
+    },
+    {
+     "a": "593113130213572610",
+     "lic": "PMDCollab_2"
+    }
+   ],
+   "vRetrato": [
+    {
+     "a": "162389028061052928",
+     "lic": "PMDCollab_1"
+    },
+    {
+     "a": "299261889169588246",
+     "lic": "PMDCollab_1"
+    },
+    {
+     "a": "593113130213572610",
+     "lic": "PMDCollab_2"
+    }
+   ]
+  },
+  "0305": {
+   "sprite": [
+    {
+     "a": "CHUNSOFT",
+     "lic": "Unspecified"
+    }
+   ],
+   "retrato": [
+    {
+     "a": "CHUNSOFT",
+     "lic": "Unspecified"
+    },
+    {
+     "a": "544245909639397378",
+     "lic": "PMDCollab_1"
+    },
+    {
+     "a": "108260609241423872",
+     "lic": "CC_BY-NC_4"
+    }
+   ],
+   "vSprite": [
+    {
+     "a": "356635814668664832",
+     "lic": "PMDCollab_2"
+    }
+   ],
+   "vRetrato": [
+    {
+     "a": "356635814668664832",
+     "lic": "PMDCollab_1"
+    },
+    {
+     "a": "593113130213572610",
+     "lic": "PMDCollab_2"
+    },
+    {
+     "a": "108260609241423872",
+     "lic": "CC_BY-NC_4"
+    }
+   ]
+  },
+  "0306": {
+   "sprite": [
+    {
+     "a": "CHUNSOFT",
+     "lic": "Unspecified"
+    }
+   ],
+   "retrato": [
+    {
+     "a": "CHUNSOFT",
+     "lic": "Unspecified"
+    },
+    {
+     "a": "544245909639397378",
+     "lic": "PMDCollab_1"
+    }
+   ],
+   "vSprite": [
+    {
+     "a": "593113130213572610",
+     "lic": "PMDCollab_2"
+    }
+   ],
+   "vRetrato": [
+    {
+     "a": "356635814668664832",
+     "lic": "PMDCollab_2"
+    }
+   ]
+  },
+  "0307": {
+   "sprite": [
+    {
+     "a": "CHUNSOFT",
+     "lic": "Unspecified"
+    }
+   ],
+   "retrato": [
+    {
+     "a": "CHUNSOFT",
+     "lic": "Unspecified"
+    }
+   ],
+   "vSprite": [
+    {
+     "a": "200318546750865418",
+     "lic": "PMDCollab_1"
+    }
+   ],
+   "vRetrato": [
+    {
+     "a": "200318546750865418",
+     "lic": "PMDCollab_1"
+    }
+   ]
+  },
+  "0308": {
+   "sprite": [
+    {
+     "a": "CHUNSOFT",
+     "lic": "Unspecified"
+    }
+   ],
+   "retrato": [
+    {
+     "a": "CHUNSOFT",
+     "lic": "Unspecified"
+    },
+    {
+     "a": "861005464682889266",
+     "lic": "PMDCollab_1"
+    }
+   ],
+   "vSprite": [
+    {
+     "a": "593113130213572610",
+     "lic": "PMDCollab_2"
+    }
+   ],
+   "vRetrato": [
+    {
+     "a": "593113130213572610",
+     "lic": "PMDCollab_1"
+    },
+    {
+     "a": "593113130213572610",
+     "lic": "PMDCollab_2"
+    }
+   ]
+  },
+  "0309": {
+   "sprite": [
+    {
+     "a": "CHUNSOFT",
+     "lic": "Unspecified"
+    },
+    {
+     "a": "702275233125630042",
+     "lic": "PMDCollab_2"
+    }
+   ],
+   "retrato": [
+    {
+     "a": "CHUNSOFT",
+     "lic": "Unspecified"
+    },
+    {
+     "a": "330751862590406656",
+     "lic": "PMDCollab_1"
+    },
+    {
+     "a": "330751862590406656",
+     "lic": "PMDCollab_2"
+    },
+    {
+     "a": "544245909639397378",
+     "lic": "PMDCollab_2"
+    },
+    {
+     "a": "544245909639397378",
+     "lic": "CC_BY-NC_4"
+    }
+   ],
+   "vSprite": [
+    {
+     "a": "234720295292895232",
+     "lic": "PMDCollab_1"
+    },
+    {
+     "a": "702275233125630042",
+     "lic": "PMDCollab_2"
+    }
+   ],
+   "vRetrato": [
+    {
+     "a": "310773087417270272",
+     "lic": "PMDCollab_1"
+    },
+    {
+     "a": "330751862590406656",
+     "lic": "PMDCollab_1"
+    },
+    {
+     "a": "330751862590406656",
+     "lic": "PMDCollab_2"
+    },
+    {
+     "a": "544245909639397378",
+     "lic": "PMDCollab_2"
+    },
+    {
+     "a": "544245909639397378",
+     "lic": "CC_BY-NC_4"
+    }
+   ]
+  },
+  "0310": {
+   "sprite": [
+    {
+     "a": "CHUNSOFT",
+     "lic": "Unspecified"
+    },
+    {
+     "a": "330751862590406656",
+     "lic": "PMDCollab_2"
+    }
+   ],
+   "retrato": [
+    {
+     "a": "CHUNSOFT",
+     "lic": "Unspecified"
+    },
+    {
+     "a": "861005464682889266",
+     "lic": "CC_BY-NC_4"
+    }
+   ],
+   "vSprite": [
+    {
+     "a": "165623433458089984",
+     "lic": "PMDCollab_2"
+    }
+   ],
+   "vRetrato": [
+    {
+     "a": "861005464682889266",
+     "lic": "CC_BY-NC_4"
+    }
+   ]
+  },
+  "0322": {
+   "sprite": [
+    {
+     "a": "CHUNSOFT",
+     "lic": "Unspecified"
+    }
+   ],
+   "retrato": [
+    {
+     "a": "CHUNSOFT",
+     "lic": "Unspecified"
+    },
+    {
+     "a": "356635814668664832",
+     "lic": "PMDCollab_1"
+    },
+    {
+     "a": "356635814668664832",
+     "lic": "CC_BY-NC_4"
+    }
+   ],
+   "vSprite": [
+    {
+     "a": "356635814668664832",
+     "lic": "PMDCollab_2"
+    }
+   ],
+   "vRetrato": [
+    {
+     "a": "356635814668664832",
+     "lic": "PMDCollab_1"
+    },
+    {
+     "a": "356635814668664832",
+     "lic": "PMDCollab_2"
+    },
+    {
+     "a": "356635814668664832",
+     "lic": "CC_BY-NC_4"
+    }
+   ]
+  },
+  "0323": {
+   "sprite": [
+    {
+     "a": "CHUNSOFT",
+     "lic": "Unspecified"
+    }
+   ],
+   "retrato": [
+    {
+     "a": "CHUNSOFT",
+     "lic": "Unspecified"
+    },
+    {
+     "a": "702275233125630042",
+     "lic": "PMDCollab_1"
+    }
+   ],
+   "vSprite": [
+    {
+     "a": "215699178553212929",
+     "lic": "PMDCollab_1"
+    },
+    {
+     "a": "356635814668664832",
+     "lic": "CC_BY-NC_4"
+    }
+   ],
+   "vRetrato": [
+    {
+     "a": "215699178553212929",
+     "lic": "PMDCollab_1"
+    },
+    {
+     "a": "217899432652308480",
+     "lic": "PMDCollab_1"
+    }
+   ]
+  },
+  "0333": {
+   "sprite": [
+    {
+     "a": "CHUNSOFT",
+     "lic": "Unspecified"
+    },
+    {
+     "a": "356635814668664832",
+     "lic": "CC_BY-NC_4"
+    }
+   ],
+   "retrato": [
+    {
+     "a": "CHUNSOFT",
+     "lic": "Unspecified"
+    },
+    {
+     "a": "356635814668664832",
+     "lic": "PMDCollab_1"
+    },
+    {
+     "a": "356635814668664832",
+     "lic": "PMDCollab_2"
+    }
+   ],
+   "vSprite": [
+    {
+     "a": "356635814668664832",
+     "lic": "PMDCollab_2"
+    },
+    {
+     "a": "356635814668664832",
+     "lic": "CC_BY-NC_4"
+    }
+   ],
+   "vRetrato": [
+    {
+     "a": "356635814668664832",
+     "lic": "PMDCollab_1"
+    },
+    {
+     "a": "356635814668664832",
+     "lic": "PMDCollab_2"
+    }
+   ]
+  },
+  "0334": {
+   "sprite": [
+    {
+     "a": "CHUNSOFT",
+     "lic": "Unspecified"
+    },
+    {
+     "a": "216640380408430592",
+     "lic": "CC_BY-NC_4"
+    }
+   ],
+   "retrato": [
+    {
+     "a": "CHUNSOFT",
+     "lic": "Unspecified"
+    },
+    {
+     "a": "421379254077620225",
+     "lic": "PMDCollab_1"
+    },
+    {
+     "a": "216640380408430592",
+     "lic": "PMDCollab_1"
+    }
+   ],
+   "vSprite": [
+    {
+     "a": "356635814668664832",
+     "lic": "CC_BY-NC_4"
+    }
+   ],
+   "vRetrato": [
+    {
+     "a": "215699178553212929",
+     "lic": "PMDCollab_1"
+    },
+    {
+     "a": "421379254077620225",
+     "lic": "PMDCollab_1"
+    },
+    {
+     "a": "356635814668664832",
+     "lic": "PMDCollab_1"
+    }
+   ]
+  },
+  "0353": {
+   "sprite": [
+    {
+     "a": "CHUNSOFT",
+     "lic": "Unspecified"
+    },
+    {
+     "a": "330751862590406656",
+     "lic": "CC_BY-NC_4"
+    }
+   ],
+   "retrato": [
+    {
+     "a": "CHUNSOFT",
+     "lic": "Unspecified"
+    },
+    {
+     "a": "544245909639397378",
+     "lic": "PMDCollab_1"
+    }
+   ],
+   "vSprite": [
+    {
+     "a": "823932975916777512",
+     "lic": "CC_BY-NC_4"
+    }
+   ],
+   "vRetrato": [
+    {
+     "a": "200318546750865418",
+     "lic": "PMDCollab_1"
+    },
+    {
+     "a": "544245909639397378",
+     "lic": "PMDCollab_1"
+    }
+   ]
+  },
+  "0354": {
+   "sprite": [
+    {
+     "a": "CHUNSOFT",
+     "lic": "Unspecified"
+    }
+   ],
+   "retrato": [
+    {
+     "a": "CHUNSOFT",
+     "lic": "Unspecified"
+    },
+    {
+     "a": "544245909639397378",
+     "lic": "PMDCollab_1"
+    },
+    {
+     "a": "544245909639397378",
+     "lic": "PMDCollab_2"
+    }
+   ],
+   "vSprite": [
+    {
+     "a": "200318546750865418",
+     "lic": "PMDCollab_2"
+    }
+   ],
+   "vRetrato": [
+    {
+     "a": "200318546750865418",
+     "lic": "PMDCollab_1"
+    },
+    {
+     "a": "544245909639397378",
+     "lic": "PMDCollab_1"
+    },
+    {
+     "a": "544245909639397378",
+     "lic": "PMDCollab_2"
+    }
+   ]
+  },
+  "0355": {
+   "sprite": [
+    {
+     "a": "CHUNSOFT",
+     "lic": "Unspecified"
+    },
+    {
+     "a": "702275233125630042",
+     "lic": "PMDCollab_2"
+    }
+   ],
+   "retrato": [
+    {
+     "a": "CHUNSOFT",
+     "lic": "Unspecified"
+    },
+    {
+     "a": "544245909639397378",
+     "lic": "PMDCollab_1"
+    },
+    {
+     "a": "356635814668664832",
+     "lic": "PMDCollab_1"
+    }
+   ],
+   "vSprite": [
+    {
+     "a": "356635814668664832",
+     "lic": "PMDCollab_2"
+    }
+   ],
+   "vRetrato": [
+    {
+     "a": "356635814668664832",
+     "lic": "PMDCollab_1"
+    },
+    {
+     "a": "356635814668664832",
+     "lic": "PMDCollab_2"
+    }
+   ]
+  },
+  "0356": {
+   "sprite": [
+    {
+     "a": "CHUNSOFT",
+     "lic": "Unspecified"
+    }
+   ],
+   "retrato": [
+    {
+     "a": "CHUNSOFT",
+     "lic": "Unspecified"
+    },
+    {
+     "a": "283571466891427841",
+     "lic": "PMDCollab_1"
+    },
+    {
+     "a": "544245909639397378",
+     "lic": "PMDCollab_1"
+    },
+    {
+     "a": "350050109741858829",
+     "lic": "PMDCollab_2"
+    }
+   ],
+   "vSprite": [
+    {
+     "a": "350050109741858829",
+     "lic": "CC_BY-NC_4"
+    }
+   ],
+   "vRetrato": [
+    {
+     "a": "350050109741858829",
+     "lic": "PMDCollab_1"
+    },
+    {
+     "a": "356187016054046723",
+     "lic": "CC_BY-NC_4"
+    }
+   ]
+  },
+  "0361": {
+   "sprite": [
+    {
+     "a": "CHUNSOFT",
+     "lic": "Unspecified"
+    },
+    {
+     "a": "702275233125630042",
+     "lic": "CC_BY-NC_4"
+    }
+   ],
+   "retrato": [
+    {
+     "a": "CHUNSOFT",
+     "lic": "Unspecified"
+    },
+    {
+     "a": "330751862590406656",
+     "lic": "PMDCollab_1"
+    }
+   ]
+  },
+  "0362": {
+   "sprite": [
+    {
+     "a": "CHUNSOFT",
+     "lic": "Unspecified"
+    }
+   ],
+   "retrato": [
+    {
+     "a": "CHUNSOFT",
+     "lic": "Unspecified"
+    },
+    {
+     "a": "702275233125630042",
+     "lic": "PMDCollab_1"
+    }
+   ]
+  },
+  "0363": {
+   "sprite": [
+    {
+     "a": "CHUNSOFT",
+     "lic": "Unspecified"
+    },
+    {
+     "a": "702275233125630042",
+     "lic": "CC_BY-NC_4"
+    }
+   ],
+   "retrato": [
+    {
+     "a": "CHUNSOFT",
+     "lic": "Unspecified"
+    },
+    {
+     "a": "356635814668664832",
+     "lic": "PMDCollab_1"
+    }
+   ],
+   "vSprite": [
+    {
+     "a": "234720295292895232",
+     "lic": "PMDCollab_1"
+    },
+    {
+     "a": "702275233125630042",
+     "lic": "CC_BY-NC_4"
+    }
+   ],
+   "vRetrato": [
+    {
+     "a": "95638225439166464",
+     "lic": "PMDCollab_1"
+    },
+    {
+     "a": "356635814668664832",
+     "lic": "PMDCollab_1"
+    }
+   ]
+  },
+  "0364": {
+   "sprite": [
+    {
+     "a": "CHUNSOFT",
+     "lic": "Unspecified"
+    }
+   ],
+   "retrato": [
+    {
+     "a": "CHUNSOFT",
+     "lic": "Unspecified"
+    },
+    {
+     "a": "356635814668664832",
+     "lic": "PMDCollab_1"
+    }
+   ],
+   "vSprite": [
+    {
+     "a": "356635814668664832",
+     "lic": "PMDCollab_2"
+    }
+   ],
+   "vRetrato": [
+    {
+     "a": "356635814668664832",
+     "lic": "PMDCollab_2"
+    }
+   ]
+  },
+  "0365": {
+   "sprite": [
+    {
+     "a": "CHUNSOFT",
+     "lic": "Unspecified"
+    }
+   ],
+   "retrato": [
+    {
+     "a": "CHUNSOFT",
+     "lic": "Unspecified"
+    }
+   ],
+   "vSprite": [
+    {
+     "a": "356635814668664832",
+     "lic": "CC_BY-NC_4"
+    }
+   ],
+   "vRetrato": [
+    {
+     "a": "95638225439166464",
+     "lic": "PMDCollab_1"
+    }
+   ]
+  },
+  "0371": {
+   "sprite": [
+    {
+     "a": "CHUNSOFT",
+     "lic": "Unspecified"
+    },
+    {
+     "a": "702275233125630042",
+     "lic": "CC_BY-NC_4"
+    }
+   ],
+   "retrato": [
+    {
+     "a": "CHUNSOFT",
+     "lic": "Unspecified"
+    },
+    {
+     "a": "322382592202637322",
+     "lic": "PMDCollab_1"
+    }
+   ],
+   "vSprite": [
+    {
+     "a": "823932975916777512",
+     "lic": "CC_BY-NC_4"
+    }
+   ],
+   "vRetrato": [
+    {
+     "a": "593113130213572610",
+     "lic": "CC_BY-NC_4"
+    }
+   ]
+  },
+  "0372": {
+   "sprite": [
+    {
+     "a": "CHUNSOFT",
+     "lic": "Unspecified"
+    }
+   ],
+   "retrato": [
+    {
+     "a": "CHUNSOFT",
+     "lic": "Unspecified"
+    }
+   ],
+   "vSprite": [
+    {
+     "a": "234720295292895232",
+     "lic": "PMDCollab_1"
+    }
+   ],
+   "vRetrato": [
+    {
+     "a": "234720295292895232",
+     "lic": "PMDCollab_1"
+    }
+   ]
+  },
+  "0373": {
+   "sprite": [
+    {
+     "a": "CHUNSOFT",
+     "lic": "Unspecified"
+    },
+    {
+     "a": "356635814668664832",
+     "lic": "PMDCollab_1"
+    }
+   ],
+   "retrato": [
+    {
+     "a": "CHUNSOFT",
+     "lic": "Unspecified"
+    },
+    {
+     "a": "356635814668664832",
+     "lic": "PMDCollab_1"
+    },
+    {
+     "a": "356635814668664832",
+     "lic": "PMDCollab_2"
+    }
+   ],
+   "vSprite": [
+    {
+     "a": "356635814668664832",
+     "lic": "PMDCollab_2"
+    }
+   ],
+   "vRetrato": [
+    {
+     "a": "356635814668664832",
+     "lic": "PMDCollab_2"
+    }
+   ]
+  },
+  "0374": {
+   "sprite": [
+    {
+     "a": "CHUNSOFT",
+     "lic": "Unspecified"
+    }
+   ],
+   "retrato": [
+    {
+     "a": "CHUNSOFT",
+     "lic": "Unspecified"
+    },
+    {
+     "a": "589906152708505648",
+     "lic": "PMDCollab_1"
+    },
+    {
+     "a": "589906152708505648",
+     "lic": "PMDCollab_2"
+    }
+   ],
+   "vSprite": [
+    {
+     "a": "117780585635643396",
+     "lic": "PMDCollab_1"
+    }
+   ],
+   "vRetrato": [
+    {
+     "a": "276949114212712449",
+     "lic": "PMDCollab_1"
+    },
+    {
+     "a": "589906152708505648",
+     "lic": "PMDCollab_1"
+    },
+    {
+     "a": "576876006636519434",
+     "lic": "PMDCollab_1"
+    },
+    {
+     "a": "593113130213572610",
+     "lic": "CC_BY-NC_4"
+    }
+   ]
+  },
+  "0375": {
+   "sprite": [
+    {
+     "a": "CHUNSOFT",
+     "lic": "Unspecified"
+    }
+   ],
+   "retrato": [
+    {
+     "a": "CHUNSOFT",
+     "lic": "Unspecified"
+    },
+    {
+     "a": "702275233125630042",
+     "lic": "PMDCollab_1"
+    },
+    {
+     "a": "770438729575563284",
+     "lic": "CC_BY-NC_4"
+    }
+   ],
+   "vSprite": [
+    {
+     "a": "117780585635643396",
+     "lic": "PMDCollab_1"
+    }
+   ],
+   "vRetrato": [
+    {
+     "a": "276949114212712449",
+     "lic": "PMDCollab_1"
+    },
+    {
+     "a": "702275233125630042",
+     "lic": "PMDCollab_1"
+    },
+    {
+     "a": "770438729575563284",
+     "lic": "CC_BY-NC_4"
+    }
+   ]
+  },
+  "0376": {
+   "sprite": [
+    {
+     "a": "CHUNSOFT",
+     "lic": "Unspecified"
+    }
+   ],
+   "retrato": [
+    {
+     "a": "CHUNSOFT",
+     "lic": "Unspecified"
+    },
+    {
+     "a": "356635814668664832",
+     "lic": "PMDCollab_1"
+    },
+    {
+     "a": "356635814668664832",
+     "lic": "CC_BY-NC_4"
+    }
+   ],
+   "vSprite": [
+    {
+     "a": "117780585635643396",
+     "lic": "PMDCollab_1"
+    },
+    {
+     "a": "217899432652308480",
+     "lic": "PMDCollab_1"
+    }
+   ],
+   "vRetrato": [
+    {
+     "a": "276949114212712449",
+     "lic": "PMDCollab_1"
+    },
+    {
+     "a": "356635814668664832",
+     "lic": "PMDCollab_1"
+    },
+    {
+     "a": "356635814668664832",
+     "lic": "CC_BY-NC_4"
+    }
+   ]
+  },
+  "0380": {
+   "sprite": [
+    {
+     "a": "CHUNSOFT",
+     "lic": "CC_BY-NC_4"
+    },
+    {
+     "a": "356635814668664832",
+     "lic": "CC_BY-NC_4"
+    }
+   ],
+   "retrato": [
+    {
+     "a": "CHUNSOFT",
+     "lic": "Unspecified"
+    },
+    {
+     "a": "389193348474339338",
+     "lic": "PMDCollab_1"
+    },
+    {
+     "a": "356635814668664832",
+     "lic": "PMDCollab_2"
+    }
+   ],
+   "vSprite": [
+    {
+     "a": "356635814668664832",
+     "lic": "PMDCollab_1"
+    }
+   ],
+   "vRetrato": [
+    {
+     "a": "356635814668664832",
+     "lic": "PMDCollab_2"
+    }
+   ]
+  },
+  "0381": {
+   "sprite": [
+    {
+     "a": "CHUNSOFT",
+     "lic": "Unspecified"
+    }
+   ],
+   "retrato": [
+    {
+     "a": "CHUNSOFT",
+     "lic": "Unspecified"
+    },
+    {
+     "a": "356635814668664832",
+     "lic": "PMDCollab_1"
+    }
+   ],
+   "vSprite": [
+    {
+     "a": "162389028061052928",
+     "lic": "CC_BY-NC_4"
+    }
+   ],
+   "vRetrato": [
+    {
+     "a": "276949114212712449",
+     "lic": "PMDCollab_1"
+    },
+    {
+     "a": "356635814668664832",
+     "lic": "PMDCollab_1"
+    }
+   ]
+  },
+  "0387": {
+   "sprite": [
+    {
+     "a": "CHUNSOFT",
+     "lic": "Unspecified"
+    }
+   ],
+   "retrato": [
+    {
+     "a": "CHUNSOFT",
+     "lic": "Unspecified"
+    }
+   ]
+  },
+  "0388": {
+   "sprite": [
+    {
+     "a": "CHUNSOFT",
+     "lic": "Unspecified"
+    },
+    {
+     "a": "330751862590406656",
+     "lic": "CC_BY-NC_4"
+    }
+   ],
+   "retrato": [
+    {
+     "a": "CHUNSOFT",
+     "lic": "Unspecified"
+    },
+    {
+     "a": "237286997645983744",
+     "lic": "PMDCollab_1"
+    }
+   ]
+  },
+  "0389": {
+   "sprite": [
+    {
+     "a": "CHUNSOFT",
+     "lic": "Unspecified"
+    }
+   ],
+   "retrato": [
+    {
+     "a": "CHUNSOFT",
+     "lic": "Unspecified"
+    },
+    {
+     "a": "702275233125630042",
+     "lic": "PMDCollab_1"
+    }
+   ]
+  },
+  "0390": {
+   "sprite": [
+    {
+     "a": "CHUNSOFT",
+     "lic": "Unspecified"
+    }
+   ],
+   "retrato": [
+    {
+     "a": "CHUNSOFT",
+     "lic": "Unspecified"
+    }
+   ]
+  },
+  "0391": {
+   "sprite": [
+    {
+     "a": "CHUNSOFT",
+     "lic": "Unspecified"
+    }
+   ],
+   "retrato": [
+    {
+     "a": "CHUNSOFT",
+     "lic": "Unspecified"
+    },
+    {
+     "a": "544245909639397378",
+     "lic": "PMDCollab_1"
+    },
+    {
+     "a": "356635814668664832",
+     "lic": "PMDCollab_1"
+    }
+   ]
+  },
+  "0392": {
+   "sprite": [
+    {
+     "a": "CHUNSOFT",
+     "lic": "Unspecified"
+    },
+    {
+     "a": "330751862590406656",
+     "lic": "CC_BY-NC_4"
+    }
+   ],
+   "retrato": [
+    {
+     "a": "CHUNSOFT",
+     "lic": "CC_BY-NC_4"
+    },
+    {
+     "a": "356635814668664832",
+     "lic": "CC_BY-NC_4"
+    }
+   ]
+  },
+  "0393": {
+   "sprite": [
+    {
+     "a": "CHUNSOFT",
+     "lic": "Unspecified"
+    }
+   ],
+   "retrato": [
+    {
+     "a": "CHUNSOFT",
+     "lic": "Unspecified"
+    }
+   ],
+   "vSprite": [
+    {
+     "a": "95650095034273792",
+     "lic": "PMDCollab_1"
+    }
+   ],
+   "vRetrato": [
+    {
+     "a": "95650095034273792",
+     "lic": "PMDCollab_1"
+    }
+   ]
+  },
+  "0394": {
+   "sprite": [
+    {
+     "a": "CHUNSOFT",
+     "lic": "Unspecified"
+    }
+   ],
+   "retrato": [
+    {
+     "a": "CHUNSOFT",
+     "lic": "Unspecified"
+    },
+    {
+     "a": "356635814668664832",
+     "lic": "PMDCollab_1"
+    }
+   ],
+   "vSprite": [
+    {
+     "a": "95650095034273792",
+     "lic": "PMDCollab_1"
+    }
+   ],
+   "vRetrato": [
+    {
+     "a": "95650095034273792",
+     "lic": "PMDCollab_1"
+    },
+    {
+     "a": "356635814668664832",
+     "lic": "PMDCollab_1"
+    }
+   ]
+  },
+  "0395": {
+   "sprite": [
+    {
+     "a": "CHUNSOFT",
+     "lic": "Unspecified"
+    }
+   ],
+   "retrato": [
+    {
+     "a": "CHUNSOFT",
+     "lic": "Unspecified"
+    },
+    {
+     "a": "327927398941196289",
+     "lic": "PMDCollab_1"
+    }
+   ],
+   "vSprite": [
+    {
+     "a": "95650095034273792",
+     "lic": "PMDCollab_1"
+    }
+   ],
+   "vRetrato": [
+    {
+     "a": "95650095034273792",
+     "lic": "PMDCollab_1"
+    },
+    {
+     "a": "217899432652308480",
+     "lic": "PMDCollab_1"
+    }
+   ]
+  },
+  "0396": {
+   "sprite": [
+    {
+     "a": "CHUNSOFT",
+     "lic": "Unspecified"
+    },
+    {
+     "a": "237286997645983744",
+     "lic": "CC_BY-NC_4"
+    },
+    {
+     "a": "702275233125630042",
+     "lic": "CC_BY-NC_4"
+    }
+   ],
+   "retrato": [
+    {
+     "a": "CHUNSOFT",
+     "lic": "Unspecified"
+    },
+    {
+     "a": "533406104256905257",
+     "lic": "PMDCollab_1"
+    }
+   ]
+  },
+  "0397": {
+   "sprite": [
+    {
+     "a": "CHUNSOFT",
+     "lic": "Unspecified"
+    }
+   ],
+   "retrato": [
+    {
+     "a": "CHUNSOFT",
+     "lic": "Unspecified"
+    },
+    {
+     "a": "533406104256905257",
+     "lic": "PMDCollab_1"
+    }
+   ]
+  },
+  "0398": {
+   "sprite": [
+    {
+     "a": "CHUNSOFT",
+     "lic": "Unspecified"
+    },
+    {
+     "a": "117780585635643396",
+     "lic": "PMDCollab_1"
+    }
+   ],
+   "retrato": [
+    {
+     "a": "CHUNSOFT",
+     "lic": "Unspecified"
+    },
+    {
+     "a": "533406104256905257",
+     "lic": "PMDCollab_1"
+    },
+    {
+     "a": "576876006636519434",
+     "lic": "PMDCollab_1"
+    },
+    {
+     "a": "350050109741858829",
+     "lic": "CC_BY-NC_4"
+    }
+   ]
+  },
+  "0399": {
+   "sprite": [
+    {
+     "a": "CHUNSOFT",
+     "lic": "Unspecified"
+    },
+    {
+     "a": "356635814668664832",
+     "lic": "PMDCollab_1"
+    }
+   ],
+   "retrato": [
+    {
+     "a": "CHUNSOFT",
+     "lic": "Unspecified"
+    },
+    {
+     "a": "861005464682889266",
+     "lic": "PMDCollab_1"
+    },
+    {
+     "a": "356635814668664832",
+     "lic": "PMDCollab_1"
+    }
+   ],
+   "vSprite": [
+    {
+     "a": "207188665959448576",
+     "lic": "PMDCollab_2"
+    },
+    {
+     "a": "356635814668664832",
+     "lic": "PMDCollab_2"
+    }
+   ],
+   "vRetrato": [
+    {
+     "a": "356635814668664832",
+     "lic": "PMDCollab_1"
+    }
+   ]
+  },
+  "0400": {
+   "sprite": [
+    {
+     "a": "CHUNSOFT",
+     "lic": "Unspecified"
+    }
+   ],
+   "retrato": [
+    {
+     "a": "CHUNSOFT",
+     "lic": "Unspecified"
+    }
+   ],
+   "vSprite": [
+    {
+     "a": "207188665959448576",
+     "lic": "PMDCollab_1"
+    },
+    {
+     "a": "350050109741858829",
+     "lic": "PMDCollab_2"
+    }
+   ],
+   "vRetrato": [
+    {
+     "a": "95650095034273792",
+     "lic": "PMDCollab_1"
+    },
+    {
+     "a": "350050109741858829",
+     "lic": "PMDCollab_2"
+    }
+   ]
+  },
+  "0403": {
+   "sprite": [
+    {
+     "a": "CHUNSOFT",
+     "lic": "Unspecified"
+    }
+   ],
+   "retrato": [
+    {
+     "a": "CHUNSOFT",
+     "lic": "Unspecified"
+    }
+   ],
+   "vSprite": [
+    {
+     "a": "162389028061052928",
+     "lic": "PMDCollab_1"
+    }
+   ],
+   "vRetrato": [
+    {
+     "a": "162389028061052928",
+     "lic": "PMDCollab_1"
+    }
+   ]
+  },
+  "0404": {
+   "sprite": [
+    {
+     "a": "CHUNSOFT",
+     "lic": "Unspecified"
+    },
+    {
+     "a": "330751862590406656",
+     "lic": "PMDCollab_1"
+    }
+   ],
+   "retrato": [
+    {
+     "a": "CHUNSOFT",
+     "lic": "Unspecified"
+    },
+    {
+     "a": "322382592202637322",
+     "lic": "PMDCollab_1"
+    }
+   ],
+   "vSprite": [
+    {
+     "a": "162389028061052928",
+     "lic": "PMDCollab_1"
+    },
+    {
+     "a": "330751862590406656",
+     "lic": "PMDCollab_1"
+    }
+   ],
+   "vRetrato": [
+    {
+     "a": "162389028061052928",
+     "lic": "PMDCollab_1"
+    },
+    {
+     "a": "322382592202637322",
+     "lic": "PMDCollab_1"
+    }
+   ]
+  },
+  "0405": {
+   "sprite": [
+    {
+     "a": "CHUNSOFT",
+     "lic": "Unspecified"
+    }
+   ],
+   "retrato": [
+    {
+     "a": "CHUNSOFT",
+     "lic": "CC_BY-NC_4"
+    },
+    {
+     "a": "229131140903075840",
+     "lic": "CC_BY-NC_4"
+    }
+   ],
+   "vSprite": [
+    {
+     "a": "162389028061052928",
+     "lic": "PMDCollab_1"
+    },
+    {
+     "a": "350050109741858829",
+     "lic": "PMDCollab_2"
+    }
+   ],
+   "vRetrato": [
+    {
+     "a": "356635814668664832",
+     "lic": "CC_BY-NC_4"
+    }
+   ]
+  },
+  "0418": {
+   "sprite": [
+    {
+     "a": "CHUNSOFT",
+     "lic": "Unspecified"
+    },
+    {
+     "a": "378654902181691392",
+     "lic": "PMDCollab_1"
+    }
+   ],
+   "retrato": [
+    {
+     "a": "CHUNSOFT",
+     "lic": "CC_BY-NC_4"
+    },
+    {
+     "a": "322382592202637322",
+     "lic": "CC_BY-NC_4"
+    }
+   ],
+   "vSprite": [
+    {
+     "a": "95650095034273792",
+     "lic": "PMDCollab_1"
+    },
+    {
+     "a": "593113130213572610",
+     "lic": "PMDCollab_1"
+    }
+   ],
+   "vRetrato": [
+    {
+     "a": "95650095034273792",
+     "lic": "PMDCollab_1"
+    },
+    {
+     "a": "322382592202637322",
+     "lic": "PMDCollab_1"
+    }
+   ]
+  },
+  "0419": {
+   "sprite": [
+    {
+     "a": "CHUNSOFT",
+     "lic": "Unspecified"
+    }
+   ],
+   "retrato": [
+    {
+     "a": "CHUNSOFT",
+     "lic": "CC_BY-NC_4"
+    },
+    {
+     "a": "330751862590406656",
+     "lic": "CC_BY-NC_4"
+    }
+   ],
+   "vSprite": [
+    {
+     "a": "95650095034273792",
+     "lic": "PMDCollab_1"
+    }
+   ],
+   "vRetrato": [
+    {
+     "a": "95650095034273792",
+     "lic": "PMDCollab_1"
+    },
+    {
+     "a": "330751862590406656",
+     "lic": "CC_BY-NC_4"
+    }
+   ]
+  },
+  "0425": {
+   "sprite": [
+    {
+     "a": "CHUNSOFT",
+     "lic": "Unspecified"
+    }
+   ],
+   "retrato": [
+    {
+     "a": "CHUNSOFT",
+     "lic": "Unspecified"
+    },
+    {
+     "a": "702275233125630042",
+     "lic": "PMDCollab_1"
+    },
+    {
+     "a": "273958644788363265",
+     "lic": "PMDCollab_1"
+    },
+    {
+     "a": "801938240562397194",
+     "lic": "PMDCollab_1"
+    }
+   ],
+   "vSprite": [
+    {
+     "a": "207188665959448576",
+     "lic": "PMDCollab_1"
+    }
+   ],
+   "vRetrato": [
+    {
+     "a": "215699178553212929",
+     "lic": "PMDCollab_1"
+    },
+    {
+     "a": "273958644788363265",
+     "lic": "PMDCollab_1"
+    },
+    {
+     "a": "801938240562397194",
+     "lic": "PMDCollab_1"
+    }
+   ]
+  },
+  "0426": {
+   "sprite": [
+    {
+     "a": "CHUNSOFT",
+     "lic": "Unspecified"
+    }
+   ],
+   "retrato": [
+    {
+     "a": "CHUNSOFT",
+     "lic": "Unspecified"
+    },
+    {
+     "a": "833717817445974046",
+     "lic": "PMDCollab_2"
+    }
+   ],
+   "vSprite": [
+    {
+     "a": "207188665959448576",
+     "lic": "PMDCollab_1"
+    }
+   ],
+   "vRetrato": [
+    {
+     "a": "215699178553212929",
+     "lic": "PMDCollab_1"
+    },
+    {
+     "a": "833717817445974046",
+     "lic": "PMDCollab_2"
+    }
+   ]
+  },
+  "0429": {
+   "sprite": [
+    {
+     "a": "CHUNSOFT",
+     "lic": "Unspecified"
+    }
+   ],
+   "retrato": [
+    {
+     "a": "CHUNSOFT",
+     "lic": "Unspecified"
+    },
+    {
+     "a": "544245909639397378",
+     "lic": "PMDCollab_1"
+    },
+    {
+     "a": "544245909639397378",
+     "lic": "PMDCollab_2"
+    }
+   ],
+   "vSprite": [
+    {
+     "a": "95650095034273792",
+     "lic": "PMDCollab_1"
+    }
+   ],
+   "vRetrato": [
+    {
+     "a": "95650095034273792",
+     "lic": "PMDCollab_1"
+    },
+    {
+     "a": "544245909639397378",
+     "lic": "PMDCollab_1"
+    },
+    {
+     "a": "356635814668664832",
+     "lic": "PMDCollab_2"
+    }
+   ]
+  },
+  "0430": {
+   "sprite": [
+    {
+     "a": "CHUNSOFT",
+     "lic": "Unspecified"
+    },
+    {
+     "a": "330751862590406656",
+     "lic": "CC_BY-NC_4"
+    }
+   ],
+   "retrato": [
+    {
+     "a": "CHUNSOFT",
+     "lic": "CC_BY-NC_4"
+    },
+    {
+     "a": "544245909639397378",
+     "lic": "CC_BY-NC_4"
+    }
+   ]
+  },
+  "0436": {
+   "sprite": [
+    {
+     "a": "CHUNSOFT",
+     "lic": "Unspecified"
+    }
+   ],
+   "retrato": [
+    {
+     "a": "CHUNSOFT",
+     "lic": "Unspecified"
+    },
+    {
+     "a": "183561486893842432",
+     "lic": "PMDCollab_1"
+    }
+   ],
+   "vSprite": [
+    {
+     "a": "95650095034273792",
+     "lic": "PMDCollab_1"
+    }
+   ],
+   "vRetrato": [
+    {
+     "a": "95650095034273792",
+     "lic": "PMDCollab_1"
+    },
+    {
+     "a": "183561486893842432",
+     "lic": "PMDCollab_1"
+    }
+   ]
+  },
+  "0437": {
+   "sprite": [
+    {
+     "a": "CHUNSOFT",
+     "lic": "Unspecified"
+    }
+   ],
+   "retrato": [
+    {
+     "a": "CHUNSOFT",
+     "lic": "Unspecified"
+    }
+   ],
+   "vSprite": [
+    {
+     "a": "95650095034273792",
+     "lic": "PMDCollab_1"
+    },
+    {
+     "a": "576876006636519434",
+     "lic": "PMDCollab_1"
+    }
+   ],
+   "vRetrato": [
+    {
+     "a": "95650095034273792",
+     "lic": "PMDCollab_1"
+    },
+    {
+     "a": "576876006636519434",
+     "lic": "PMDCollab_1"
+    }
+   ]
+  },
+  "0443": {
+   "sprite": [
+    {
+     "a": "CHUNSOFT",
+     "lic": "Unspecified"
+    }
+   ],
+   "retrato": [
+    {
+     "a": "CHUNSOFT",
+     "lic": "Unspecified"
+    },
+    {
+     "a": "702275233125630042",
+     "lic": "PMDCollab_1"
+    },
+    {
+     "a": "350050109741858829",
+     "lic": "CC_BY-NC_4"
+    }
+   ],
+   "vSprite": [
+    {
+     "a": "95650095034273792",
+     "lic": "PMDCollab_1"
+    }
+   ],
+   "vRetrato": [
+    {
+     "a": "95650095034273792",
+     "lic": "PMDCollab_1"
+    },
+    {
+     "a": "593113130213572610",
+     "lic": "PMDCollab_1"
+    }
+   ]
+  },
+  "0444": {
+   "sprite": [
+    {
+     "a": "CHUNSOFT",
+     "lic": "Unspecified"
+    }
+   ],
+   "retrato": [
+    {
+     "a": "CHUNSOFT",
+     "lic": "Unspecified"
+    },
+    {
+     "a": "474262233442942995",
+     "lic": "PMDCollab_1"
+    }
+   ],
+   "vSprite": [
+    {
+     "a": "95650095034273792",
+     "lic": "PMDCollab_1"
+    }
+   ],
+   "vRetrato": [
+    {
+     "a": "95650095034273792",
+     "lic": "PMDCollab_1"
+    },
+    {
+     "a": "474262233442942995",
+     "lic": "PMDCollab_1"
+    }
+   ]
+  },
+  "0445": {
+   "sprite": [
+    {
+     "a": "CHUNSOFT",
+     "lic": "Unspecified"
+    }
+   ],
+   "retrato": [
+    {
+     "a": "CHUNSOFT",
+     "lic": "Unspecified"
+    },
+    {
+     "a": "276369635304275968",
+     "lic": "PMDCollab_1"
+    },
+    {
+     "a": "350050109741858829",
+     "lic": "CC_BY-NC_4"
+    }
+   ],
+   "vSprite": [
+    {
+     "a": "215699178553212929",
+     "lic": "PMDCollab_1"
+    },
+    {
+     "a": "215638650434617345",
+     "lic": "PMDCollab_1"
+    }
+   ],
+   "vRetrato": [
+    {
+     "a": "215699178553212929",
+     "lic": "PMDCollab_1"
+    },
+    {
+     "a": "276369635304275968",
+     "lic": "PMDCollab_1"
+    },
+    {
+     "a": "215638650434617345",
+     "lic": "PMDCollab_1"
+    }
+   ]
+  },
+  "0459": {
+   "sprite": [
+    {
+     "a": "CHUNSOFT",
+     "lic": "Unspecified"
+    }
+   ],
+   "retrato": [
+    {
+     "a": "CHUNSOFT",
+     "lic": "Unspecified"
+    },
+    {
+     "a": "JARLEYPENO",
+     "lic": "PMDCollab_1"
+    }
+   ],
+   "vSprite": [
+    {
+     "a": "207188665959448576",
+     "lic": "CC_BY-NC_4"
+    }
+   ],
+   "vRetrato": [
+    {
+     "a": "95650095034273792",
+     "lic": "PMDCollab_1"
+    },
+    {
+     "a": "593113130213572610",
+     "lic": "PMDCollab_1"
+    }
+   ]
+  },
+  "0460": {
+   "sprite": [
+    {
+     "a": "CHUNSOFT",
+     "lic": "Unspecified"
+    }
+   ],
+   "retrato": [
+    {
+     "a": "CHUNSOFT",
+     "lic": "Unspecified"
+    },
+    {
+     "a": "220580080194289664",
+     "lic": "PMDCollab_2"
+    }
+   ],
+   "vSprite": [
+    {
+     "a": "207188665959448576",
+     "lic": "PMDCollab_1"
+    }
+   ],
+   "vRetrato": [
+    {
+     "a": "215699178553212929",
+     "lic": "PMDCollab_1"
+    },
+    {
+     "a": "220580080194289664",
+     "lic": "PMDCollab_2"
+    }
+   ]
+  },
+  "0461": {
+   "sprite": [
+    {
+     "a": "CHUNSOFT",
+     "lic": "Unspecified"
+    }
+   ],
+   "retrato": [
+    {
+     "a": "CHUNSOFT",
+     "lic": "CC_BY-NC_4"
+    },
+    {
+     "a": "702275233125630042",
+     "lic": "CC_BY-NC_4"
+    },
+    {
+     "a": "772726854188400641",
+     "lic": "CC_BY-NC_4"
+    },
+    {
+     "a": "576876006636519434",
+     "lic": "CC_BY-NC_4"
+    }
+   ]
+  },
+  "0462": {
+   "sprite": [
+    {
+     "a": "CHUNSOFT",
+     "lic": "Unspecified"
+    }
+   ],
+   "retrato": [
+    {
+     "a": "CHUNSOFT",
+     "lic": "Unspecified"
+    },
+    {
+     "a": "544245909639397378",
+     "lic": "CC_BY-NC_4"
+    }
+   ],
+   "vSprite": [
+    {
+     "a": "117780585635643396",
+     "lic": "PMDCollab_2"
+    }
+   ],
+   "vRetrato": [
+    {
+     "a": "234720295292895232",
+     "lic": "PMDCollab_1"
+    },
+    {
+     "a": "108260609241423872",
+     "lic": "CC_BY-NC_4"
+    }
+   ]
+  },
+  "0466": {
+   "sprite": [
+    {
+     "a": "CHUNSOFT",
+     "lic": "Unspecified"
+    }
+   ],
+   "retrato": [
+    {
+     "a": "CHUNSOFT",
+     "lic": "Unspecified"
+    },
+    {
+     "a": "237286997645983744",
+     "lic": "PMDCollab_1"
+    },
+    {
+     "a": "1377429093997477928",
+     "lic": "CC_BY-NC_4"
+    }
+   ],
+   "vSprite": [
+    {
+     "a": "207188665959448576",
+     "lic": "PMDCollab_1"
+    }
+   ],
+   "vRetrato": [
+    {
+     "a": "215699178553212929",
+     "lic": "PMDCollab_1"
+    },
+    {
+     "a": "237286997645983744",
+     "lic": "PMDCollab_1"
+    },
+    {
+     "a": "1377429093997477928",
+     "lic": "CC_BY-NC_4"
+    }
+   ]
+  },
+  "0467": {
+   "sprite": [
+    {
+     "a": "CHUNSOFT",
+     "lic": "Unspecified"
+    }
+   ],
+   "retrato": [
+    {
+     "a": "CHUNSOFT",
+     "lic": "Unspecified"
+    }
+   ],
+   "vSprite": [
+    {
+     "a": "95650095034273792",
+     "lic": "PMDCollab_1"
+    }
+   ],
+   "vRetrato": [
+    {
+     "a": "350050109741858829",
+     "lic": "PMDCollab_2"
+    }
+   ]
+  },
+  "0468": {
+   "sprite": [
+    {
+     "a": "CHUNSOFT",
+     "lic": "Unspecified"
+    }
+   ],
+   "retrato": [
+    {
+     "a": "CHUNSOFT",
+     "lic": "Unspecified"
+    },
+    {
+     "a": "436940337865293834",
+     "lic": "PMDCollab_1"
+    }
+   ],
+   "vSprite": [
+    {
+     "a": "173896352554549248",
+     "lic": "PMDCollab_1"
+    }
+   ],
+   "vRetrato": [
+    {
+     "a": "173896352554549248",
+     "lic": "PMDCollab_1"
+    },
+    {
+     "a": "217899432652308480",
+     "lic": "PMDCollab_1"
+    }
+   ]
+  },
+  "0470": {
+   "sprite": [
+    {
+     "a": "CHUNSOFT",
+     "lic": "Unspecified"
+    },
+    {
+     "a": "544245909639397378",
+     "lic": "PMDCollab_1"
+    }
+   ],
+   "retrato": [
+    {
+     "a": "CHUNSOFT",
+     "lic": "Unspecified"
+    },
+    {
+     "a": "544245909639397378",
+     "lic": "PMDCollab_1"
+    }
+   ],
+   "vSprite": [
+    {
+     "a": "195280695009083392",
+     "lic": "PMDCollab_1"
+    },
+    {
+     "a": "544245909639397378",
+     "lic": "PMDCollab_1"
+    }
+   ],
+   "vRetrato": [
+    {
+     "a": "356635814668664832",
+     "lic": "PMDCollab_1"
+    }
+   ]
+  },
+  "0471": {
+   "sprite": [
+    {
+     "a": "CHUNSOFT",
+     "lic": "Unspecified"
+    },
+    {
+     "a": "702275233125630042",
+     "lic": "PMDCollab_1"
+    },
+    {
+     "a": "544245909639397378",
+     "lic": "CC_BY-NC_4"
+    }
+   ],
+   "retrato": [
+    {
+     "a": "CHUNSOFT",
+     "lic": "Unspecified"
+    },
+    {
+     "a": "772726854188400641",
+     "lic": "PMDCollab_1"
+    }
+   ],
+   "vSprite": [
+    {
+     "a": "195280695009083392",
+     "lic": "PMDCollab_1"
+    },
+    {
+     "a": "544245909639397378",
+     "lic": "PMDCollab_1"
+    },
+    {
+     "a": "544245909639397378",
+     "lic": "CC_BY-NC_4"
+    }
+   ],
+   "vRetrato": [
+    {
+     "a": "544245909639397378",
+     "lic": "PMDCollab_1"
+    }
+   ]
+  },
+  "0473": {
+   "sprite": [
+    {
+     "a": "CHUNSOFT",
+     "lic": "Unspecified"
+    }
+   ],
+   "retrato": [
+    {
+     "a": "CHUNSOFT",
+     "lic": "Unspecified"
+    },
+    {
+     "a": "350050109741858829",
+     "lic": "CC_BY-NC_4"
+    }
+   ],
+   "vSprite": [
+    {
+     "a": "356635814668664832",
+     "lic": "CC_BY-NC_4"
+    }
+   ],
+   "vRetrato": [
+    {
+     "a": "350050109741858829",
+     "lic": "CC_BY-NC_4"
+    }
+   ]
+  },
+  "0475": {
+   "sprite": [
+    {
+     "a": "CHUNSOFT",
+     "lic": "Unspecified"
+    }
+   ],
+   "retrato": [
+    {
+     "a": "CHUNSOFT",
+     "lic": "Unspecified"
+    },
+    {
+     "a": "544245909639397378",
+     "lic": "PMDCollab_1"
+    }
+   ],
+   "vSprite": [
+    {
+     "a": "200318546750865418",
+     "lic": "PMDCollab_1"
+    }
+   ],
+   "vRetrato": [
+    {
+     "a": "593113130213572610",
+     "lic": "PMDCollab_1"
+    }
+   ]
+  },
+  "0477": {
+   "sprite": [
+    {
+     "a": "CHUNSOFT",
+     "lic": "Unspecified"
+    },
+    {
+     "a": "330751862590406656",
+     "lic": "CC_BY-NC_4"
+    }
+   ],
+   "retrato": [
+    {
+     "a": "CHUNSOFT",
+     "lic": "Unspecified"
+    },
+    {
+     "a": "350050109741858829",
+     "lic": "PMDCollab_1"
+    },
+    {
+     "a": "350050109741858829",
+     "lic": "CC_BY-NC_4"
+    }
+   ],
+   "vSprite": [
+    {
+     "a": "356635814668664832",
+     "lic": "CC_BY-NC_4"
+    }
+   ],
+   "vRetrato": [
+    {
+     "a": "350050109741858829",
+     "lic": "PMDCollab_2"
+    },
+    {
+     "a": "350050109741858829",
+     "lic": "CC_BY-NC_4"
+    }
+   ]
+  },
+  "0478": {
+   "sprite": [
+    {
+     "a": "CHUNSOFT",
+     "lic": "Unspecified"
+    }
+   ],
+   "retrato": [
+    {
+     "a": "CHUNSOFT",
+     "lic": "Unspecified"
+    },
+    {
+     "a": "544245909639397378",
+     "lic": "PMDCollab_1"
+    },
+    {
+     "a": "544245909639397378",
+     "lic": "CC_BY-NC_4"
+    }
+   ]
+  }
+ }
+}

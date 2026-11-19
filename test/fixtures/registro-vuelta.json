@@ -1,0 +1,70 @@
+{
+ "v": 1,
+ "semilla": 12345,
+ "inicio": 0,
+ "fin": 200208,
+ "tPiso": 25026,
+ "pvInicio": 5,
+ "isla": 1,
+ "F": 8,
+ "hasta": 8,
+ "modo": "vuelta",
+ "postura": "equilibrada",
+ "P": 148.868304,
+ "n": 3,
+ "rondas": [
+  {
+   "t0": 0,
+   "t1": 200208,
+   "pv0": 5,
+   "pisoFin": 8,
+   "jefe": true,
+   "pvFin": 4,
+   "monedas": 132,
+   "exp": 362,
+   "objetos": {},
+   "encuentros": [
+    {
+     "f": 4,
+     "sp": "0399",
+     "nv": 5,
+     "acepta": false,
+     "vr": false,
+     "rar": "C",
+     "huellaUsada": 0,
+     "de": "prado:4"
+    }
+   ],
+   "eventos": [],
+   "fallos": [
+    3
+   ]
+  }
+ ],
+ "motivo": "objetivo",
+ "totales": {
+  "monedas": 132,
+  "exp": 362,
+  "objetos": {},
+  "reclutas": 0
+ },
+ "estadoRecluta": {
+  "piedad": 1,
+  "huellas": {
+   "0399": 1
+  }
+ },
+ "pisos": 7,
+ "jefeSp": "0015",
+ "pool": [
+  "0010",
+  "0013",
+  "0016",
+  "0019",
+  "0161",
+  "0043",
+  "0399",
+  "0048",
+  "0163"
+ ]
+}

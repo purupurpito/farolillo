@@ -1,0 +1,20 @@
+{
+  "name": "Farolillo",
+  "short_name": "Farolillo",
+  "description": "La cala del faro: expediciones en ratitos.",
+  "id": "./",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "any",
+  "background_color": "#14213d",
+  "theme_color": "#14213d",
+  "lang": "es",
+  "dir": "ltr",
+  "categories": ["games"],
+  "icons": [
+    { "src": "assets/ui/icons/icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any" },
+    { "src": "assets/ui/icons/icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any" },
+    { "src": "assets/ui/icons/icon-maskable-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ]
+}

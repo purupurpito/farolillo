@@ -1,0 +1,9 @@
+{
+  "name": "farolillo-tools",
+  "private": true,
+  "type": "module",
+  "description": "Pipeline de datos y assets de Farolillo (solo herramientas; el juego no usa dependencias).",
+  "dependencies": {
+    "pngjs": "7.0.0"
+  }
+}
