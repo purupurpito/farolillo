@@ -1,0 +1,94 @@
+<!doctype html>
+<html lang="es">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no, viewport-fit=cover">
+<meta name="theme-color" content="#0a1328">
+<meta name="robots" content="noindex">
+<title>Farolillo · Mazmorra (prototipo A)</title>
+<link rel="icon" href="../../assets/ui/faro.svg">
+<link rel="stylesheet" href="css/mazmorra.css">
+</head>
+<body>
+
+<!-- ============ Inicio: elegir líder ============ -->
+<section id="inicio" class="pantalla">
+  <div class="caja">
+    <h1>Mazmorra <small>prototipo A · por turnos</small></h1>
+    <p class="intro">Baja 3 pisos y vence al guardián. Cada paso es un turno: los enemigos se mueven a la vez que tú.</p>
+    <div id="vitrina" class="vitrina" hidden></div>
+    <h2>Elige a tu líder</h2>
+    <div id="lideres" class="rejilla-lideres"></div>
+    <div id="acompanan" class="acompanan" hidden></div>
+    <p id="estadoCarga" class="nota">Cargando datos…</p>
+  </div>
+  <div class="botonera fija">
+    <button id="btnOtros" class="btn sec" hidden>Otros compañeros</button>
+    <button id="btnEntrar" class="btn prim" disabled>Elige un líder</button>
+  </div>
+</section>
+
+<!-- ============ Juego ============ -->
+<section id="juego" class="pantalla" hidden>
+  <canvas id="lienzo" aria-label="Mazmorra"></canvas>
+  <div id="capa" aria-hidden="true"></div>
+  <div id="joy" aria-hidden="true"><i></i></div>
+
+  <header id="arriba">
+    <div class="fila1">
+      <span id="piso" class="piso">Piso 1/3</span>
+      <p id="ayuda" class="ayuda">Desliza y mantén el dedo para andar</p>
+    </div>
+    <div id="equipo" class="equipo"></div>
+  </header>
+
+  <canvas id="mini" aria-label="Minimapa"></canvas>
+  <div id="log" class="log" aria-live="polite"></div>
+
+  <div id="escalera" class="escalera" hidden>
+    <span>Escalera</span>
+    <button id="btnBajar" class="btn prim">Bajar</button>
+    <button id="btnQuedar" class="btn sec">Quedarme</button>
+  </div>
+
+  <div id="cruceta" class="cruceta" hidden aria-label="Cruceta">
+    <span class="flecha f4"></span><span class="flecha f0"></span><span class="flecha f6"></span><span class="flecha f2"></span>
+    <span class="centro">Esperar</span>
+  </div>
+
+  <footer id="mandos">
+    <div id="movs" class="movs"></div>
+    <div class="extra">
+      <button id="btnExplorar" class="btn explorar">Explorar</button>
+      <button id="btnBaya" class="btn obj" aria-label="Baya Aranja"><img alt=""><b>0</b></button>
+      <button id="btnSemilla" class="btn obj" aria-label="Semilla Aturdidora"><img alt=""><b>0</b></button>
+      <button id="btnEsperar" class="btn sec">Esperar</button>
+      <button id="btnModo" class="btn sec">Cruceta</button>
+    </div>
+  </footer>
+
+  <div id="cartel" class="cartel" hidden></div>
+  <div id="cargando" class="cargando" hidden>Cargando sprites…</div>
+</section>
+
+<!-- ============ Resultado ============ -->
+<section id="resultado" class="pantalla" hidden>
+  <div class="caja res-caja">
+    <div class="res-izq">
+      <div id="resRetrato" class="res-retrato"></div>
+      <h1 id="resTitulo">¡Victoria!</h1>
+      <p id="resTexto" class="intro"></p>
+      <p id="resPuntos" class="res-puntos"></p>
+      <p id="resPremio" class="res-premio" hidden></p>
+    </div>
+    <dl id="resDatos" class="datos"></dl>
+  </div>
+  <div class="botonera fija">
+    <button id="btnCambiar" class="btn sec">Cambiar de líder</button>
+    <button id="btnOtra" class="btn prim">Otra vez</button>
+  </div>
+</section>
+
+<script type="module" src="js/main.js"></script>
+</body>
+</html>
